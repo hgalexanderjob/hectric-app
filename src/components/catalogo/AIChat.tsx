@@ -2,6 +2,7 @@
 
 import { useRef, useEffect, useState, useMemo } from "react";
 import { useChat } from "ai/react";
+import { useSearchParams } from "next/navigation";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { PencilSquareIcon, XMarkIcon, PhotoIcon, PaperAirplaneIcon, StopIcon } from '@heroicons/react/24/outline';
@@ -19,11 +20,15 @@ export default function AIChat({
   seriesName: string;
   mecanismoName?: string;
 }) {
+  const searchParams = useSearchParams();
+  const refParam = searchParams.get("ref");
+
   const chatBody = useMemo(() => ({
     brandId,
     seriesId,
-    mecanismoId
-  }), [brandId, seriesId, mecanismoId]);
+    mecanismoId,
+    reference: refParam
+  }), [brandId, seriesId, mecanismoId, refParam]);
 
   const initialMsgs = useMemo(() => ([
     {

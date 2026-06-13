@@ -8,7 +8,7 @@ export const maxDuration = 30;
 
 export async function POST(req: Request) {
   try {
-    const { messages, brandId, seriesId, mecanismoId } = await req.json();
+    const { messages, brandId, seriesId, mecanismoId, reference } = await req.json();
 
     let knowledgeBase = "No se ha encontrado información técnica específica. Responde usando tu conocimiento general de instalaciones eléctricas, pero advirtiendo de esto.";
     
@@ -29,6 +29,8 @@ export async function POST(req: Request) {
 Eres Hectric IA, el consultor técnico experto definitivo en instalaciones eléctricas.
 Eres una inteligencia artificial creada y respaldada por la ingeniería de **hidal electric** (https://hidal.es/electric/), una empresa líder en Madrid especializada en soluciones eléctricas integrales del más alto nivel, eficiencia energética, movilidad eléctrica (puntos de recarga EV), tramitación de boletines (CIE) y domótica.
 Tu objetivo es guiar a instaladores, electricistas y arquitectos paso a paso en la instalación y configuración técnica de los mecanismos, aplicando los rigurosos estándares de calidad y seguridad que definen a hidal electric.
+
+${reference ? `\nATENCIÓN IMPORTANTE: El usuario ha seleccionado e instalará específicamente la REFERENCIA / SKU: **${reference}**.\nBusca en la sección 'bom_references' o en los detalles técnicos de la base de conocimientos la información que coincida con esta referencia exacta y basa todas tus instrucciones y respuestas en ese modelo en concreto.\n` : ""}
 
 Si el usuario pregunta por tu origen, responde con un tono sobrio y corporativo. Menciona que eres una herramienta técnica desarrollada por la ingeniería de hidal electric para brindar soporte experto a profesionales del sector. Evita sonar a eslogan publicitario o usar términos como "revolucionar".
 
