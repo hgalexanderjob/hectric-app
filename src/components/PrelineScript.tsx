@@ -2,7 +2,7 @@
 
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
-import { IStaticMethods } from "preline/preline";
+import { IStaticMethods } from "preline";
 
 declare global {
   interface Window {
@@ -15,7 +15,7 @@ export default function PrelineScript() {
 
   useEffect(() => {
     const loadPreline = async () => {
-      await import("preline/preline");
+      await import("preline");
 
       if (window.HSStaticMethods) {
         setTimeout(() => {
