@@ -23,7 +23,7 @@ export default function SearchForm({ searchQuery, setSearchQuery }: SearchFormPr
           type="search"
           id="content-search"
           name="content-search"
-          className="block w-full p-3 ps-10 bg-white border border-slate-200 rounded-xl text-slate-900 text-sm focus:ring-teal-500/20 focus:border-teal-500 transition-all shadow-sm placeholder:text-slate-400 focus:outline-hidden"
+          className="block w-full p-3 ps-10 pe-24 bg-white border border-slate-200 rounded-xl text-slate-900 text-sm focus:ring-teal-500/20 focus:border-teal-500 transition-all shadow-sm placeholder:text-slate-400 focus:outline-hidden truncate"
           placeholder="¿Qué mecanismo quieres instalar hoy?"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
