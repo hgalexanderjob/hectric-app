@@ -1,0 +1,13 @@
+Pulsador para persianas
+10 A ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1544 BL
+
+Interruptor para persiana
+10 A ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1544.1 BL

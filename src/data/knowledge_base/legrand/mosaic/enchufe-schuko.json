@@ -1,0 +1,239 @@
+{
+  "brand": "Legrand",
+  "series": "mosaic",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie mosaic de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "16A"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "077111",
+      "description": "Ref. 077111 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079111",
+      "description": "Ref. 079111 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077112",
+      "description": "Ref. 077112 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077117",
+      "description": "Ref. 077117 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077127",
+      "description": "Ref. 077127 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077118",
+      "description": "Ref. 077118 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077119",
+      "description": "Ref. 077119 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077123",
+      "description": "Ref. 077123 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077124",
+      "description": "Ref. 077124 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076561",
+      "description": "Ref. 076561 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079461",
+      "description": "Ref. 079461 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076562",
+      "description": "Ref. 076562 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079462",
+      "description": "Ref. 079462 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076563",
+      "description": "Ref. 076563 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079463",
+      "description": "Ref. 079463 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076564",
+      "description": "Ref. 076564 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076565",
+      "description": "Ref. 076565 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076573",
+      "description": "Ref. 076573 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079473",
+      "description": "Ref. 079473 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076593",
+      "description": "Ref. 076593 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076501",
+      "description": "Ref. 076501 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ11",
+      "description": "Ref. RJ11 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079401",
+      "description": "Ref. 079401 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076503",
+      "description": "Ref. 076503 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ12",
+      "description": "Ref. RJ12 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078778",
+      "description": "Ref. 078778 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079278",
+      "description": "Ref. 079278 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078768",
+      "description": "Ref. 078768 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078757",
+      "description": "Ref. 078757 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078753",
+      "description": "Ref. 078753 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "HD15",
+      "description": "Ref. HD15 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078755",
+      "description": "Ref. 078755 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078751",
+      "description": "Ref. 078751 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078752",
+      "description": "Ref. 078752 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078761",
+      "description": "Ref. 078761 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077113",
+      "description": "Ref. 077113 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079113",
+      "description": "Ref. 079113 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077114",
+      "description": "Ref. 077114 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077122",
+      "description": "Ref. 077122 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "079122",
+      "description": "Ref. 079122 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "076591",
+      "description": "Ref. 076591 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "076592",
+      "description": "Ref. 076592 - Bastidor para Enchufe Schuko"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

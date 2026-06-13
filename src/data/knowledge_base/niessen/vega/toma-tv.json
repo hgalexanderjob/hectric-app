@@ -1,0 +1,54 @@
+{
+  "brand": "Niessen",
+  "series": "vega",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie vega de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8150",
+      "description": "Ref. 8150 - Tomas de televisión TV-R"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150.3",
+      "description": "Ref. 8150.3 - Tomas de televisión TV-R"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150.7",
+      "description": "Ref. 8150.7 - Tomas de televisión TV-R"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.3",
+      "description": "Ref. 8151.3 - Tomas de televisión TV/R-SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.7",
+      "description": "Ref. 8151.7 - Tomas de televisión TV/R-SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.8",
+      "description": "Ref. 8151.8 - Tomas de televisión TV/R-SAT"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

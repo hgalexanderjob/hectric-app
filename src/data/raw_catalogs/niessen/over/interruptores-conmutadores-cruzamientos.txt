@@ -1,0 +1,76 @@
+Interruptor monopolar 
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1501 BL
+
+Conmutador
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1502 BL
+
+Cruzamiento
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1510 BL
+
+Interruptor bipolar
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Ref. 1501.6 con
+lámpara código 1591 BL
+incorporada.
+Código: 1501.2 BL
+
+Interruptor bipolar con visor
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Ref. 1501.6 con
+lámpara código 1591 BL
+incorporada.
+Código: 1501.6 BL
+
+Interruptor monopolar con orientación nocturna.
+10 AX ; 250 V~ con
+sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1501.3 BL
+
+Conmutador con orientación nocturna.
+10 AX ; 250 V~ con
+sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1501.3 BL
+
+Conmutador con orientación nocturna.
+10 AX ; 250 V~ con
+sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1502.3 BL
+
+Cruzamiento con orientación nocturna
+10 AX ; 250 V~ con
+sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1510.3 BL

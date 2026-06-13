@@ -1,0 +1,169 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "cargador-usb",
+  "mechanism_name": "Cargador USB",
+  "description": "Mecanismo Cargador USB de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "5V DC"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 BL",
+      "description": "Ref. N2185.3 BL - Cargador USB A+C 10,5W 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 AN",
+      "description": "Ref. N2185.3 AN - Cargador USB A+C 10,5W 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 PL",
+      "description": "Ref. N2185.3 PL - Cargador USB A+C 10,5W 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 CV",
+      "description": "Ref. N2185.3 CV - Cargador USB A+C 10,5W 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 NT",
+      "description": "Ref. N2185.3 NT - Cargador USB A+C 10,5W 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.3 DN",
+      "description": "Ref. N2185.3 DN - Cargador USB A+C 10,5W 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 BL",
+      "description": "Ref. N2185.4 BL - Cargador USB A+C 15W 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 AN",
+      "description": "Ref. N2185.4 AN - Cargador USB A+C 15W 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 PL",
+      "description": "Ref. N2185.4 PL - Cargador USB A+C 15W 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 CV",
+      "description": "Ref. N2185.4 CV - Cargador USB A+C 15W 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 NT",
+      "description": "Ref. N2185.4 NT - Cargador USB A+C 15W 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2185.4 DN",
+      "description": "Ref. N2185.4 DN - Cargador USB A+C 15W 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 BL",
+      "description": "Ref. N2285.3 BL - Cargador USB A+C 10,5W 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 AN",
+      "description": "Ref. N2285.3 AN - Cargador USB A+C 10,5W 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 PL",
+      "description": "Ref. N2285.3 PL - Cargador USB A+C 10,5W 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 CV",
+      "description": "Ref. N2285.3 CV - Cargador USB A+C 10,5W 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 NT",
+      "description": "Ref. N2285.3 NT - Cargador USB A+C 10,5W 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.3 DN",
+      "description": "Ref. N2285.3 DN - Cargador USB A+C 10,5W 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 BL",
+      "description": "Ref. N2285.4 BL - Cargador USB A+C 15W 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 AN",
+      "description": "Ref. N2285.4 AN - Cargador USB A+C 15W 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 PL",
+      "description": "Ref. N2285.4 PL - Cargador USB A+C 15W 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 CV",
+      "description": "Ref. N2285.4 CV - Cargador USB A+C 15W 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 NT",
+      "description": "Ref. N2285.4 NT - Cargador USB A+C 15W 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.4 DN",
+      "description": "Ref. N2285.4 DN - Cargador USB A+C 15W 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.5 BL",
+      "description": "Ref. N2285.5 BL - Cargador USB-C+C - 30W PD 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.5 AN",
+      "description": "Ref. N2285.5 AN - Cargador USB-C+C - 30W PD 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.5 PL",
+      "description": "Ref. N2285.5 PL - Cargador USB-C+C - 30W PD 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.5 NT",
+      "description": "Ref. N2285.5 NT - Cargador USB-C+C - 30W PD 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2285.5 DN",
+      "description": "Ref. N2285.5 DN - Cargador USB-C+C - 30W PD 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

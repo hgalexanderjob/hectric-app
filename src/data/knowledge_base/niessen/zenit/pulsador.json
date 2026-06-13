@@ -1,0 +1,404 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "pulsador",
+  "mechanism_name": "Pulsador",
+  "description": "Mecanismo Pulsador de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 BL",
+      "description": "Ref. N2104.51 BL - Pulsador 1 módulo piloto Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 AN",
+      "description": "Ref. N2104.51 AN - Pulsador 1 módulo piloto Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 PL",
+      "description": "Ref. N2104.51 PL - Pulsador 1 módulo piloto Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 CV",
+      "description": "Ref. N2104.51 CV - Pulsador 1 módulo piloto Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 NT",
+      "description": "Ref. N2104.51 NT - Pulsador 1 módulo piloto Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.51 DN",
+      "description": "Ref. N2104.51 DN - Pulsador 1 módulo piloto Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 BL",
+      "description": "Ref. N2204.51 BL - Pulsador 2 módulos piloto Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 AN",
+      "description": "Ref. N2204.51 AN - Pulsador 2 módulos piloto Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 PL",
+      "description": "Ref. N2204.51 PL - Pulsador 2 módulos piloto Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 CV",
+      "description": "Ref. N2204.51 CV - Pulsador 2 módulos piloto Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 NT",
+      "description": "Ref. N2204.51 NT - Pulsador 2 módulos piloto Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.51 DN",
+      "description": "Ref. N2204.51 DN - Pulsador 2 módulos piloto Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 BL",
+      "description": "Ref. N2104 BL - Pulsador con símbolo timbre 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 BB",
+      "description": "Ref. N2104 BB - Pulsador con símbolo timbre 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 AN",
+      "description": "Ref. N2104 AN - Pulsador con símbolo timbre 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 AA",
+      "description": "Ref. N2104 AA - Pulsador con símbolo timbre 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 PL",
+      "description": "Ref. N2104 PL - Pulsador con símbolo timbre 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 CV",
+      "description": "Ref. N2104 CV - Pulsador con símbolo timbre 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 NT",
+      "description": "Ref. N2104 NT - Pulsador con símbolo timbre 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104 DN",
+      "description": "Ref. N2104 DN - Pulsador con símbolo timbre 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 BL",
+      "description": "Ref. N2204 BL - Pulsador con símbolo timbre 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 BB",
+      "description": "Ref. N2204 BB - Pulsador con símbolo timbre 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 AN",
+      "description": "Ref. N2204 AN - Pulsador con símbolo timbre 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 AA",
+      "description": "Ref. N2204 AA - Pulsador con símbolo timbre 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 PL",
+      "description": "Ref. N2204 PL - Pulsador con símbolo timbre 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 CV",
+      "description": "Ref. N2204 CV - Pulsador con símbolo timbre 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 NT",
+      "description": "Ref. N2204 NT - Pulsador con símbolo timbre 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204 DN",
+      "description": "Ref. N2204 DN - Pulsador con símbolo timbre 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 BL",
+      "description": "Ref. N2104.2 BL - Pulsador con símbolo luz 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 BB",
+      "description": "Ref. N2104.2 BB - Pulsador con símbolo luz 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 AN",
+      "description": "Ref. N2104.2 AN - Pulsador con símbolo luz 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 AA",
+      "description": "Ref. N2104.2 AA - Pulsador con símbolo luz 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 PL",
+      "description": "Ref. N2104.2 PL - Pulsador con símbolo luz 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 CV",
+      "description": "Ref. N2104.2 CV - Pulsador con símbolo luz 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 NT",
+      "description": "Ref. N2104.2 NT - Pulsador con símbolo luz 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.2 DN",
+      "description": "Ref. N2104.2 DN - Pulsador con símbolo luz 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 BL",
+      "description": "Ref. N2204.2 BL - Pulsador con símbolo luz 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 BB",
+      "description": "Ref. N2204.2 BB - Pulsador con símbolo luz 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 AN",
+      "description": "Ref. N2204.2 AN - Pulsador con símbolo luz 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 AA",
+      "description": "Ref. N2204.2 AA - Pulsador con símbolo luz 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 PL",
+      "description": "Ref. N2204.2 PL - Pulsador con símbolo luz 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 CV",
+      "description": "Ref. N2204.2 CV - Pulsador con símbolo luz 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 NT",
+      "description": "Ref. N2204.2 NT - Pulsador con símbolo luz 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.2 DN",
+      "description": "Ref. N2204.2 DN - Pulsador con símbolo luz 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 BL",
+      "description": "Ref. N2104.6 BL - Pulsador normalmente cerrado sin grabado 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 BB",
+      "description": "Ref. N2104.6 BB - Pulsador normalmente cerrado sin grabado 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 AN",
+      "description": "Ref. N2104.6 AN - Pulsador normalmente cerrado sin grabado 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 AA",
+      "description": "Ref. N2104.6 AA - Pulsador normalmente cerrado sin grabado 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 PL",
+      "description": "Ref. N2104.6 PL - Pulsador normalmente cerrado sin grabado 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 CV",
+      "description": "Ref. N2104.6 CV - Pulsador normalmente cerrado sin grabado 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 NT",
+      "description": "Ref. N2104.6 NT - Pulsador normalmente cerrado sin grabado 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.6 DN",
+      "description": "Ref. N2104.6 DN - Pulsador normalmente cerrado sin grabado 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 BL",
+      "description": "Ref. N2204.6 BL - Pulsador normalmente cerrado sin grabado 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 BB",
+      "description": "Ref. N2204.6 BB - Pulsador normalmente cerrado sin grabado 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 AN",
+      "description": "Ref. N2204.6 AN - Pulsador normalmente cerrado sin grabado 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 AA",
+      "description": "Ref. N2204.6 AA - Pulsador normalmente cerrado sin grabado 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 PL",
+      "description": "Ref. N2204.6 PL - Pulsador normalmente cerrado sin grabado 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 CV",
+      "description": "Ref. N2204.6 CV - Pulsador normalmente cerrado sin grabado 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 NT",
+      "description": "Ref. N2204.6 NT - Pulsador normalmente cerrado sin grabado 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.6 DN",
+      "description": "Ref. N2204.6 DN - Pulsador normalmente cerrado sin grabado 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 BL",
+      "description": "Ref. N2104.7 BL - Pulsador sin grabar 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 BB",
+      "description": "Ref. N2104.7 BB - Pulsador sin grabar 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 AN",
+      "description": "Ref. N2104.7 AN - Pulsador sin grabar 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 AA",
+      "description": "Ref. N2104.7 AA - Pulsador sin grabar 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 PL",
+      "description": "Ref. N2104.7 PL - Pulsador sin grabar 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 CV",
+      "description": "Ref. N2104.7 CV - Pulsador sin grabar 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 NT",
+      "description": "Ref. N2104.7 NT - Pulsador sin grabar 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2104.7 DN",
+      "description": "Ref. N2104.7 DN - Pulsador sin grabar 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 BL",
+      "description": "Ref. N2204.7 BL - Pulsador sin grabar 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 BB",
+      "description": "Ref. N2204.7 BB - Pulsador sin grabar 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 AN",
+      "description": "Ref. N2204.7 AN - Pulsador sin grabar 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 AA",
+      "description": "Ref. N2204.7 AA - Pulsador sin grabar 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 PL",
+      "description": "Ref. N2204.7 PL - Pulsador sin grabar 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 CV",
+      "description": "Ref. N2204.7 CV - Pulsador sin grabar 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 NT",
+      "description": "Ref. N2204.7 NT - Pulsador sin grabar 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2204.7 DN",
+      "description": "Ref. N2204.7 DN - Pulsador sin grabar 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

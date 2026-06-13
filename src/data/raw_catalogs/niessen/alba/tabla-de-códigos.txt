@@ -1,0 +1,84 @@
+<!-- ========== Interruptor ========== -->
+Interruptor monopolar 8101 
+Interruptor bipolar 16 A 8101.1 
+Interruptor bipolar 8101.2 
+Interruptor monopolar con piloto de control 8101.5 
+Interruptor monopolar con garras 8101.8 
+<!-- ========== End Interruptor ========== -->
+
+<!-- ========== Conmutador ========== -->
+Conmutador 8102 
+Interruptor conmutador 16 A 8102.1 
+Conmutador con piloto de control 8102.5 
+Conmutador con garras 8102.8 
+Cruzamiento 8110 
+<!-- ========== End Conmutador ========== -->
+
+<!-- ========== Pulsador ========== -->
+Pulsador 8104 
+Pulsador con piloto de control 8104.5 
+Pulsador con garras 8104.8 
+Pulsador normalmente cerrado 8104.9
+<!-- ========== End Pulsador ========== -->
+
+<!-- ========== Combinaciones  ========== -->
+Doble interruptor 8111 
+Doble conmutador 8122 
+Doble pulsador 8144.2 
+Conmutador + pulsador 8142 
+Pulsador + conmutador 8142.1
+<!-- ========== End Combinaciones  ========== -->
+
+<!-- ========== Pulsador / interruptor para persianas ========== -->
+Pulsador para persianas 8144 
+Interruptor para persianas 8144.1
+<!-- ========== End Pulsador / interruptor para persianas ========== -->
+
+<!-- ========== Timbre / Zumbador  ========== -->
+Timbre cuatro melodías 8124.2 
+Zumbador 8119 
+<!-- ========== End Timbre / Zumbador  ========== -->
+
+<!-- ========== Bases de enchufe  ========== -->
+Bipolar con TT lateral Schuko sin garras 8188 
+Bipolar con TT lateral Schuko con garras 8188.5 
+Bipolar con TT lateral Schuko conexión automática 8188.6 
+Bipolar con TT lateral Schuko sin garras con piloto de control 8188.8  Bipolar con T.T. sistema francés 8187 
+Base de enchufe con doble cargador USB 8188.4
+<!-- ========== End Bases de enchufe Tapas ========== -->
+
+<!-- ========== Cargadores USB ========== -->
+Toma cargador USB A+C 8185.1 
+<!-- ========== End Cargadores USBs ========== -->
+
+<!-- ========== Tomas de televisión ========== -->
+Toma TV-R resistiva sin filtro 8150 
+Toma TV-R resistiva con filtro 8150.3
+Toma TV-R inductiva intermedia 8150.7 
+Toma TV-R / SAT única 8151.3 
+Toma TV-R / SAT final 8151.7 
+Toma TV-R / SAT intermedia 8151.8 
+<!-- ========== End Tomas de televisión ========== -->ç
+
+<!-- ========== Tomas de teléfono  ========== -->
+Toma teléfono RJ12 8117
+<!-- ========== End Tomas de teléfono ========== -->
+
+<!-- ========== Reguladores electrónicos giratorios  ========== -->
+Regulador electrónico giratorio LED 8160.7 
+Regulador electrónico giratorio 8160.9
+<!-- ========== End Reguladores electrónicos giratorios ========== -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+

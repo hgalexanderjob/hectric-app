@@ -1,0 +1,169 @@
+{
+  "brand": "Legrand",
+  "series": "plexo",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie plexo de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "069515",
+      "description": "Ref. 069515 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069615",
+      "description": "Ref. 069615 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069521",
+      "description": "Ref. 069521 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069621",
+      "description": "Ref. 069621 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069525",
+      "description": "Ref. 069525 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069540",
+      "description": "Ref. 069540 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069640",
+      "description": "Ref. 069640 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069556",
+      "description": "Ref. 069556 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069656",
+      "description": "Ref. 069656 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069557",
+      "description": "Ref. 069557 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069580",
+      "description": "Ref. 069580 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069680",
+      "description": "Ref. 069680 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069512",
+      "description": "Ref. 069512 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069497",
+      "description": "Ref. 069497 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069612",
+      "description": "Ref. 069612 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069513",
+      "description": "Ref. 069513 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069498",
+      "description": "Ref. 069498 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069542",
+      "description": "Ref. 069542 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069642",
+      "description": "Ref. 069642 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069544",
+      "description": "Ref. 069544 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069541",
+      "description": "Ref. 069541 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069571",
+      "description": "Ref. 069571 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069671",
+      "description": "Ref. 069671 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069570",
+      "description": "Ref. 069570 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069572",
+      "description": "Ref. 069572 - Bastidor para Cruzamiento"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069574",
+      "description": "Ref. 069574 - Bastidor para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069581",
+      "description": "Ref. 069581 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069579",
+      "description": "Ref. 069579 - Tapa para Cruzamiento"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

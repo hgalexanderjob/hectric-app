@@ -1,0 +1,269 @@
+{
+  "brand": "Legrand",
+  "series": "mosaic",
+  "mechanism_id": "toma-datos",
+  "mechanism_name": "Toma de Datos (RJ45)",
+  "description": "Mecanismo Toma de Datos (RJ45) de la serie mosaic de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "077011",
+      "description": "Ref. 077011 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079211",
+      "description": "Ref. 079211 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077012",
+      "description": "Ref. 077012 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076561",
+      "description": "Ref. 076561 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079461",
+      "description": "Ref. 079461 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076562",
+      "description": "Ref. 076562 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079462",
+      "description": "Ref. 079462 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076563",
+      "description": "Ref. 076563 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079463",
+      "description": "Ref. 079463 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076564",
+      "description": "Ref. 076564 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076565",
+      "description": "Ref. 076565 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076573",
+      "description": "Ref. 076573 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079473",
+      "description": "Ref. 079473 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076593",
+      "description": "Ref. 076593 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076501",
+      "description": "Ref. 076501 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ11",
+      "description": "Ref. RJ11 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079401",
+      "description": "Ref. 079401 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076503",
+      "description": "Ref. 076503 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ12",
+      "description": "Ref. RJ12 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078778",
+      "description": "Ref. 078778 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079278",
+      "description": "Ref. 079278 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078768",
+      "description": "Ref. 078768 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078757",
+      "description": "Ref. 078757 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078753",
+      "description": "Ref. 078753 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "HD15",
+      "description": "Ref. HD15 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078755",
+      "description": "Ref. 078755 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078751",
+      "description": "Ref. 078751 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078752",
+      "description": "Ref. 078752 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078761",
+      "description": "Ref. 078761 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078782",
+      "description": "Ref. 078782 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079282",
+      "description": "Ref. 079282 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078783",
+      "description": "Ref. 078783 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078784",
+      "description": "Ref. 078784 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077561",
+      "description": "Ref. 077561 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079261",
+      "description": "Ref. 079261 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077562",
+      "description": "Ref. 077562 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077563",
+      "description": "Ref. 077563 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "076591",
+      "description": "Ref. 076591 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "076592",
+      "description": "Ref. 076592 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077070",
+      "description": "Ref. 077070 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079270",
+      "description": "Ref. 079270 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077071",
+      "description": "Ref. 077071 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079271",
+      "description": "Ref. 079271 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077072",
+      "description": "Ref. 077072 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078401",
+      "description": "Ref. 078401 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "079201",
+      "description": "Ref. 079201 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078402",
+      "description": "Ref. 078402 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078404",
+      "description": "Ref. 078404 - Lámpara para Toma de Datos (RJ45)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

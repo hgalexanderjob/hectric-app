@@ -1,0 +1,7 @@
+Cargador USB C+C
+Tensión de entrada: 100 - 240 Vca ± 10%; 50/60 Hz.
+Potencia de salida (máx.): 30 W.
+Tensión de salida USB-C: 5 Vcc (máx. 3 A); 9 Vcc (máx. 3 A); 12 Vcc (máx. 2,5 A); 15 Vcc (máx. 2A); 20 Vcc (1,5 A).
+Tensión de salida USB-C+C: 5 Vcc (total máx. 3 A).
+Tapa ref. 8885.
+Código: 8185.5

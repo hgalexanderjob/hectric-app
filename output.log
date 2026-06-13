@@ -1,0 +1,316 @@
+
+
+--- Procesando catálogo: alba ---
+  ✅ Encontrado Interruptor (en 99 líneas)
+[DEBUG] 8904.39 bestType is Tapa
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 27 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 4 líneas)
+[DEBUG] 8904.39 bestType is Tapa
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 15 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 14 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\toma-datos.json
+  ✅ Encontrado Cargador USB (en 15 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 12 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\regulador.json
+  ✅ Encontrado Persianas (en 38 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\alba\persianas.json
+
+
+--- Procesando catálogo: ocean ---
+  ✅ Encontrado Interruptor (en 27 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 14 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 55 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ✅ Encontrado Regulador (Dimmer) (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\regulador.json
+  ✅ Encontrado Persianas (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\ocean\persianas.json
+
+
+--- Procesando catálogo: over ---
+  ✅ Encontrado Interruptor (en 12 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\over\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\over\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\over\cruzamiento.json
+  ❌ No se encontró Toma TV / SAT
+  ✅ Encontrado Toma de Datos (RJ45) (en 19 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\over\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ❌ No se encontró Regulador (Dimmer)
+  ✅ Encontrado Persianas (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\over\persianas.json
+
+
+--- Procesando catálogo: sky ---
+  ✅ Encontrado Interruptor (en 171 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 41 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 29 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 30 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\toma-datos.json
+  ✅ Encontrado Cargador USB (en 32 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 28 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\regulador.json
+  ✅ Encontrado Persianas (en 63 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\sky\persianas.json
+
+
+--- Procesando catálogo: vega ---
+  ✅ Encontrado Interruptor (en 123 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 27 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 16 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 15 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\toma-datos.json
+  ✅ Encontrado Cargador USB (en 15 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 23 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\regulador.json
+  ✅ Encontrado Persianas (en 44 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\vega\persianas.json
+
+
+--- Procesando catálogo: zenit ---
+  ✅ Encontrado Interruptor (en 103 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 45 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 14 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 36 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\toma-datos.json
+  ✅ Encontrado Cargador USB (en 16 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 24 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\regulador.json
+  ✅ Encontrado Persianas (en 64 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\niessen\zenit\persianas.json
+
+
+--- Procesando catálogo: arteor ---
+  ✅ Encontrado Interruptor (en 7 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\arteor\interruptor.json
+  ❌ No se encontró Enchufe Schuko
+  ✅ Encontrado Cruzamiento (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\arteor\cruzamiento.json
+  ❌ No se encontró Toma TV / SAT
+  ✅ Encontrado Toma de Datos (RJ45) (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\arteor\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ✅ Encontrado Regulador (Dimmer) (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\arteor\regulador.json
+  ❌ No se encontró Persianas
+
+
+--- Procesando catálogo: celiane ---
+  ✅ Encontrado Interruptor (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\celiane\interruptor.json
+  ❌ No se encontró Enchufe Schuko
+  ✅ Encontrado Cruzamiento (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\celiane\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\celiane\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 11 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\celiane\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ❌ No se encontró Regulador (Dimmer)
+  ✅ Encontrado Persianas (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\celiane\persianas.json
+
+
+--- Procesando catálogo: mosaic ---
+  ✅ Encontrado Interruptor (en 23 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 16 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 20 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\toma-datos.json
+  ✅ Encontrado Cargador USB (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\regulador.json
+  ✅ Encontrado Persianas (en 10 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\mosaic\persianas.json
+
+
+--- Procesando catálogo: niloe-step ---
+  ✅ Encontrado Interruptor (en 25 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 5 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 8 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\toma-datos.json
+  ✅ Encontrado Cargador USB (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\regulador.json
+  ✅ Encontrado Persianas (en 14 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\niloe-step\persianas.json
+
+
+--- Procesando catálogo: oteo ---
+  ✅ Encontrado Interruptor (en 6 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\oteo\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 3 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\oteo\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\oteo\cruzamiento.json
+  ❌ No se encontró Toma TV / SAT
+  ✅ Encontrado Toma de Datos (RJ45) (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\oteo\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ❌ No se encontró Regulador (Dimmer)
+  ❌ No se encontró Persianas
+
+
+--- Procesando catálogo: plexo ---
+  ✅ Encontrado Interruptor (en 8 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\plexo\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\plexo\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\plexo\cruzamiento.json
+  ❌ No se encontró Toma TV / SAT
+  ✅ Encontrado Toma de Datos (RJ45) (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\plexo\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ❌ No se encontró Regulador (Dimmer)
+  ❌ No se encontró Persianas
+
+
+--- Procesando catálogo: soliroc ---
+  ✅ Encontrado Interruptor (en 8 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\soliroc\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 4 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\soliroc\enchufe-schuko.json
+  ❌ No se encontró Cruzamiento
+  ❌ No se encontró Toma TV / SAT
+  ✅ Encontrado Toma de Datos (RJ45) (en 6 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\soliroc\toma-datos.json
+  ❌ No se encontró Cargador USB
+  ❌ No se encontró Regulador (Dimmer)
+  ❌ No se encontró Persianas
+
+
+--- Procesando catálogo: valena-next ---
+  ✅ Encontrado Interruptor (en 28 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\interruptor.json
+  ✅ Encontrado Enchufe Schuko (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\enchufe-schuko.json
+  ✅ Encontrado Cruzamiento (en 1 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\cruzamiento.json
+  ✅ Encontrado Toma TV / SAT (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\toma-tv.json
+  ✅ Encontrado Toma de Datos (RJ45) (en 10 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\toma-datos.json
+  ✅ Encontrado Cargador USB (en 2 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\cargador-usb.json
+  ✅ Encontrado Regulador (Dimmer) (en 5 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\regulador.json
+  ✅ Encontrado Persianas (en 18 líneas)
+    -> Guardado en D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\knowledge_base\legrand\valena-next\persianas.json
+Error leyendo catálogo simon/simon-100-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-100-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-100-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-270-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-270-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-270-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-82-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-82-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-82-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-82-detail-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-82-detail-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-82-detail-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-27-play-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-27-play-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-27-play-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-44-aqua-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-44-aqua-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-44-aqua-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-500-cima-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-500-cima-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-500-cima-catalogo.txt'
+}
+Error leyendo catálogo simon/simon-24-harmonie-catalogo.txt Error: ENOENT: no such file or directory, open 'D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\src\data\raw_catalogs\simon\simon-24-harmonie-catalogo.txt'
+    at async open (node:internal/fs/promises:641:25)
+    at async Object.readFile (node:internal/fs/promises:1245:14)
+    at async main (D:\hgalexanderdev\Programing\Web\Proyects\hectric\hectric\hectric-app\scripts\extract_local.ts:50:14) {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\hgalexanderdev\\Programing\\Web\\Proyects\\hectric\\hectric\\hectric-app\\src\\data\\raw_catalogs\\simon\\simon-24-harmonie-catalogo.txt'
+}

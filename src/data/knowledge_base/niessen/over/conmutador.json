@@ -1,0 +1,44 @@
+{
+  "brand": "Niessen",
+  "series": "over",
+  "mechanism_id": "conmutador",
+  "mechanism_name": "Conmutador",
+  "description": "Mecanismo Conmutador de la serie over de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "1502 BL",
+      "description": "Ref. 1502 BL - Conmutador"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1510 BL",
+      "description": "Ref. 1510 BL - Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1502.3 BL",
+      "description": "Ref. 1502.3 BL - Conmutador con orientación nocturna."
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1510.3 BL",
+      "description": "Ref. 1510.3 BL - Cruzamiento con orientación nocturna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

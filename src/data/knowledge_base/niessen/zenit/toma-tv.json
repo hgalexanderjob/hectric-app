@@ -1,0 +1,329 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 BL",
+      "description": "Ref. N2150 BL - Toma TV final sencilla tipo F 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 AN",
+      "description": "Ref. N2150 AN - Toma TV final sencilla tipo F 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 PL",
+      "description": "Ref. N2150 PL - Toma TV final sencilla tipo F 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 CV",
+      "description": "Ref. N2150 CV - Toma TV final sencilla tipo F 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 NT",
+      "description": "Ref. N2150 NT - Toma TV final sencilla tipo F 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150 DN",
+      "description": "Ref. N2150 DN - Toma TV final sencilla tipo F 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 BL",
+      "description": "Ref. N2150.7 BL - Toma TV final tipo M 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 AN",
+      "description": "Ref. N2150.7 AN - Toma TV final tipo M 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 PL",
+      "description": "Ref. N2150.7 PL - Toma TV final tipo M 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 CV",
+      "description": "Ref. N2150.7 CV - Toma TV final tipo M 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 NT",
+      "description": "Ref. N2150.7 NT - Toma TV final tipo M 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2150.7 DN",
+      "description": "Ref. N2150.7 DN - Toma TV final tipo M 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 BL",
+      "description": "Ref. N2151.7 BL - Toma TV-R/SAT final sencilla tipo M 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 AN",
+      "description": "Ref. N2151.7 AN - Toma TV-R/SAT final sencilla tipo M 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 PL",
+      "description": "Ref. N2151.7 PL - Toma TV-R/SAT final sencilla tipo M 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 CV",
+      "description": "Ref. N2151.7 CV - Toma TV-R/SAT final sencilla tipo M 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 NT",
+      "description": "Ref. N2151.7 NT - Toma TV-R/SAT final sencilla tipo M 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2151.7 DN",
+      "description": "Ref. N2151.7 DN - Toma TV-R/SAT final sencilla tipo M 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 BL",
+      "description": "Ref. N2250.7 BL - Toma TV final tipo M 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 AN",
+      "description": "Ref. N2250.7 AN - Toma TV final tipo M 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 PL",
+      "description": "Ref. N2250.7 PL - Toma TV final tipo M 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 CV",
+      "description": "Ref. N2250.7 CV - Toma TV final tipo M 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 NT",
+      "description": "Ref. N2250.7 NT - Toma TV final tipo M 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.7 DN",
+      "description": "Ref. N2250.7 DN - Toma TV final tipo M 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 BL",
+      "description": "Ref. N2251.7 BL - Toma TV-R/SAT final 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 AN",
+      "description": "Ref. N2251.7 AN - Toma TV-R/SAT final 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 PL",
+      "description": "Ref. N2251.7 PL - Toma TV-R/SAT final 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 CV",
+      "description": "Ref. N2251.7 CV - Toma TV-R/SAT final 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 NT",
+      "description": "Ref. N2251.7 NT - Toma TV-R/SAT final 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.7 DN",
+      "description": "Ref. N2251.7 DN - Toma TV-R/SAT final 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 BL",
+      "description": "Ref. N2251.3 BL - Toma TV-R/SAT única 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 AN",
+      "description": "Ref. N2251.3 AN - Toma TV-R/SAT única 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 PL",
+      "description": "Ref. N2251.3 PL - Toma TV-R/SAT única 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 CV",
+      "description": "Ref. N2251.3 CV - Toma TV-R/SAT única 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 NT",
+      "description": "Ref. N2251.3 NT - Toma TV-R/SAT única 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.3 DN",
+      "description": "Ref. N2251.3 DN - Toma TV-R/SAT única 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 BL",
+      "description": "Ref. N2251.8 BL - Toma TV-R/SAT intermedia 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 AN",
+      "description": "Ref. N2251.8 AN - Toma TV-R/SAT intermedia 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 PL",
+      "description": "Ref. N2251.8 PL - Toma TV-R/SAT intermedia 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 CV",
+      "description": "Ref. N2251.8 CV - Toma TV-R/SAT intermedia 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 NT",
+      "description": "Ref. N2251.8 NT - Toma TV-R/SAT intermedia 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2251.8 DN",
+      "description": "Ref. N2251.8 DN - Toma TV-R/SAT intermedia 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150",
+      "description": "Ref. 8150 - Toma TV-R resistiva sin filtro 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150.3",
+      "description": "Ref. 8150.3 - Toma TV-R resistiva con filtro 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150.7",
+      "description": "Ref. 8150.7 - Toma TV-R inductiva intermedia 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8150.8",
+      "description": "Ref. 8150.8 - Toma TV-R inductiva inicial 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.3",
+      "description": "Ref. 8151.3 - TV-R/SAT única 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.7",
+      "description": "Ref. 8151.7 - TV-R/SAT final 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8151.8",
+      "description": "Ref. 8151.8 - TV-R/SAT intermedia 2 módulos"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 BL",
+      "description": "Ref. N2250.8 BL - Tapa toma TV-R 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 AN",
+      "description": "Ref. N2250.8 AN - Tapa toma TV-R 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 PL",
+      "description": "Ref. N2250.8 PL - Tapa toma TV-R 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 CV",
+      "description": "Ref. N2250.8 CV - Tapa toma TV-R 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 NT",
+      "description": "Ref. N2250.8 NT - Tapa toma TV-R 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.8 DN",
+      "description": "Ref. N2250.8 DN - Tapa toma TV-R 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 BL",
+      "description": "Ref. N2250.1 BL - Tapa toma TV-R/SAT 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 AN",
+      "description": "Ref. N2250.1 AN - Tapa toma TV-R/SAT 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 PL",
+      "description": "Ref. N2250.1 PL - Tapa toma TV-R/SAT 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 CV",
+      "description": "Ref. N2250.1 CV - Tapa toma TV-R/SAT 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 NT",
+      "description": "Ref. N2250.1 NT - Tapa toma TV-R/SAT 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2250.1 DN",
+      "description": "Ref. N2250.1 DN - Tapa toma TV-R/SAT 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

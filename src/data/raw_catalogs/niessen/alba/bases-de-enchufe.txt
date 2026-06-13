@@ -1,0 +1,45 @@
+Bipolar con T.T. lateral Schuko sin garras
+16A ; 250 V~
+Protección contra contactos directos involuntarios.
+Tapas ref. 8988 y 8988.1
+Código: 8188
+
+Bipolar con T.T. lateral Schuko con garras
+16A ; 250 V~
+Protección contra contactos directos involuntarios.
+Tapas ref. 8988 y 8988.1
+Código: 8188.5
+
+Bipolar con T.T. lateral Schuko conexión automática
+16A ; 250 V~
+Protección contra contactos directos involuntarios.
+Conexión tipo “borne sin tornillos”.
+Reduce los tiempos de instalación un 40 %.
+Tapas ref. 8988 y 8988.1
+Código: 8188.6
+
+Bipolar con T.T. lateral Schuko sin garras con piloto de
+control
+16A ; 250 V~
+Piloto de control que indica la presencia de tensión.
+Protección contra contactos directos involuntarios.
+Tapa ref. 8988.8
+Código: 8188.8
+
+Bipolar con T.T. sistema francés
+16A ; 250 V~
+T.T. de espiga saliente.
+Para conexión polarizada.
+Tapa ref. 8987
+Código: 8187
+
+Base de enchufe con doble cargador USB A+C
+Tensión nominal: 250 VCA
+Corriente nominal: 16 A
+Tipo F: 2P+E Protección contra contactos directos
+involuntarios.
+Cargadores USB: Compatibles con conectores tipo A y tipo C.
+Corriente de salida: 2.000 mA de carga compartida.
+Tapa ref. 8988.4
+Código: 8188.4
+

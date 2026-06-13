@@ -1,0 +1,159 @@
+{
+  "brand": "Legrand",
+  "series": "soliroc",
+  "mechanism_id": "toma-datos",
+  "mechanism_name": "Toma de Datos (RJ45)",
+  "description": "Mecanismo Toma de Datos (RJ45) de la serie soliroc de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "077811",
+      "description": "Ref. 077811 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077812",
+      "description": "Ref. 077812 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077821",
+      "description": "Ref. 077821 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077851",
+      "description": "Ref. 077851 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077852",
+      "description": "Ref. 077852 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077890",
+      "description": "Ref. 077890 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069795",
+      "description": "Ref. 069795 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077841",
+      "description": "Ref. 077841 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077842",
+      "description": "Ref. 077842 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077871",
+      "description": "Ref. 077871 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077872",
+      "description": "Ref. 077872 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077873",
+      "description": "Ref. 077873 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "28850",
+      "description": "Ref. 28850 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077814",
+      "description": "Ref. 077814 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077815",
+      "description": "Ref. 077815 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077822",
+      "description": "Ref. 077822 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077823",
+      "description": "Ref. 077823 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077891",
+      "description": "Ref. 077891 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077861",
+      "description": "Ref. 077861 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077865",
+      "description": "Ref. 077865 - Lámpara para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077880",
+      "description": "Ref. 077880 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077881",
+      "description": "Ref. 077881 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077896",
+      "description": "Ref. 077896 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077892",
+      "description": "Ref. 077892 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077893",
+      "description": "Ref. 077893 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077894",
+      "description": "Ref. 077894 - Bastidor para Toma de Datos (RJ45)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

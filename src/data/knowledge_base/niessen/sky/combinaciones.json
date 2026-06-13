@@ -1,0 +1,49 @@
+{
+  "brand": "Niessen",
+  "series": "sky",
+  "mechanism_id": "combinaciones",
+  "mechanism_name": "Combinaciones",
+  "description": "Mecanismo Combinaciones de la serie sky de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8111",
+      "description": "Ref. 8111 - Doble interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8122",
+      "description": "Ref. 8122 - Doble conmutador"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8144.2",
+      "description": "Ref. 8144.2 - Doble pulsador"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8142",
+      "description": "Ref. 8142 - Conmutador + pulsador"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8142.1",
+      "description": "Ref. 8142.1 - Pulsador + conmutador"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

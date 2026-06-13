@@ -1,0 +1,44 @@
+{
+  "brand": "Niessen",
+  "series": "vega",
+  "mechanism_id": "regulador",
+  "mechanism_name": "Regulador (Dimmer)",
+  "description": "Mecanismo Regulador (Dimmer) de la serie vega de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8160.7",
+      "description": "Ref. 8160.7 - Regulador electrónico giratorio LED"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8160.9",
+      "description": "Ref. 8160.9 - Regulador electrónico giratorio 1-10 VDC"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8161.6",
+      "description": "Ref. 8161.6 - Potenciómetro DALI"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8161.7",
+      "description": "Ref. 8161.7 - Potenciómetro DALI con fuente de alimentación"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

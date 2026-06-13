@@ -1,0 +1,39 @@
+{
+  "brand": "Niessen",
+  "series": "ocean",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie ocean de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "16A"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8188",
+      "description": "Ref. 8188 - Bipolar con TT lateral Schuko con protección infantil sin garras"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.5",
+      "description": "Ref. 8188.5 - Bipolar con TT lateral Schuko con protección infantil con garras"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.6",
+      "description": "Ref. 8188.6 - Bipolar con TT lateral Schuko de conexión automática con protección infantil"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

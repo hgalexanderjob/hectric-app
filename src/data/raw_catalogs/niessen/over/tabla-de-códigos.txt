@@ -1,0 +1,77 @@
+<!-- ========== Interruptor ========== -->
+Interruptor monopolar 1501 BL
+Interruptor bipolar 1501.2 BL
+Interruptor bipolar con visor 1501.6 BL
+Interruptor monopolar con orientación nocturna. 1501.3 BL
+<!-- ========== End Interruptor ========== -->
+
+<!-- ========== Conmutador ========== -->
+Conmutador 1502 BL
+Cruzamiento 1510 BL
+Conmutador con orientación nocturna. 1502.3 BL
+Cruzamiento con orientación nocturna 1510.3 BL
+<!-- ========== End Conmutador ========== -->
+
+<!-- ========== Pulsador ========== -->
+Pulsador campana 1504 BL
+Pulsador luz 1504.2 BL 
+Pulsador campana con orientación nocturna. 1504.3 BL
+Pulsador luz con orientación nocturna 1504.4 BL
+<!-- ========== End Pulsador ========== -->
+
+<!-- ========== Combinaciones  ========== -->
+Interruptor doble 1511 BL
+<!-- ========== End Combinaciones  ========== -->
+
+<!-- ========== Pulsador / interruptor para persianas ========== -->
+Pulsador para persianas 1544 BL
+Interruptor para persiana 1544.1 BL
+<!-- ========== End Pulsador / interruptor para persianas ========== -->
+
+<!-- ========== Timbre / Zumbador  ========== -->
+¡NO APLICA!
+<!-- ========== End Timbre / Zumbador  ========== -->
+
+<!-- ========== Bases de enchufe  ========== -->
+Base de enchufe bipolar con T.T. lateral Schuko 1588 BL
+<!-- ========== End Bases de enchufe Tapas ========== -->
+
+<!-- ========== Cargadores USB ========== -->
+¡NO APLICA!
+<!-- ========== End Cargadores USBs ========== -->
+
+<!-- ========== Tomas de televisión ========== -->
+Toma de TVR / SAT única 1552 BL
+Toma de TVR / SAT final 1551.1 BL
+Toma de TVR / SAT intermedia 1551.2 BL
+<!-- ========== End Tomas de televisión ========== -->ç
+
+<!-- ========== Tomas de teléfono  ========== -->
+Toma de teléfono RJ11 1517 BL
+Toma de teléfono RJ12 1517.6 BL
+<!-- ========== End Tomas de teléfono ========== -->
+ 
+<!-- ========== Toma de Datos  ========== -->
+Conector hembra RJ45 1518.5 BL
+Soporte para conectores informáticos RJ45 con anclaje tipo KEYSTONE 1518 BL
+Soporte para conectores informáticos RJ45. 1518.8 BL
+<!-- ========== End Toma de Datos ========== -->
+
+
+<!-- ========== Reguladores electrónicos giratorios  ========== -->
+¡NO APLICA!
+<!-- ========== End Reguladores electrónicos giratorios ========== -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+{
+  "brand": "Legrand",
+  "series": "mosaic",
+  "mechanism_id": "regulador",
+  "mechanism_name": "Regulador (Dimmer)",
+  "description": "Mecanismo Regulador (Dimmer) de la serie mosaic de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "077561",
+      "description": "Ref. 077561 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079261",
+      "description": "Ref. 079261 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077562",
+      "description": "Ref. 077562 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077563",
+      "description": "Ref. 077563 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077581",
+      "description": "Ref. 077581 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079281",
+      "description": "Ref. 079281 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077583",
+      "description": "Ref. 077583 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077025",
+      "description": "Ref. 077025 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079225",
+      "description": "Ref. 079225 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077026",
+      "description": "Ref. 077026 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079226",
+      "description": "Ref. 079226 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077591",
+      "description": "Ref. 077591 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079291",
+      "description": "Ref. 079291 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077592",
+      "description": "Ref. 077592 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079292",
+      "description": "Ref. 079292 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077594",
+      "description": "Ref. 077594 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077598",
+      "description": "Ref. 077598 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077599",
+      "description": "Ref. 077599 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077501",
+      "description": "Ref. 077501 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077511",
+      "description": "Ref. 077511 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078401",
+      "description": "Ref. 078401 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "079201",
+      "description": "Ref. 079201 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078402",
+      "description": "Ref. 078402 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078404",
+      "description": "Ref. 078404 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078511",
+      "description": "Ref. 078511 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078512",
+      "description": "Ref. 078512 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078521",
+      "description": "Ref. 078521 - Lámpara para Regulador (Dimmer)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

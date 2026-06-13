@@ -1,0 +1,194 @@
+{
+  "brand": "Legrand",
+  "series": "niloe-step",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie niloe-step de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "864051",
+      "description": "Ref. 864051 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864351",
+      "description": "Ref. 864351 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864551",
+      "description": "Ref. 864551 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864052",
+      "description": "Ref. 864052 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864053",
+      "description": "Ref. 864053 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864041",
+      "description": "Ref. 864041 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ11",
+      "description": "Ref. RJ11 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864341",
+      "description": "Ref. 864341 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864541",
+      "description": "Ref. 864541 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864042",
+      "description": "Ref. 864042 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864342",
+      "description": "Ref. 864342 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864542",
+      "description": "Ref. 864542 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864043",
+      "description": "Ref. 864043 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864343",
+      "description": "Ref. 864343 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864543",
+      "description": "Ref. 864543 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864045",
+      "description": "Ref. 864045 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864345",
+      "description": "Ref. 864345 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864545",
+      "description": "Ref. 864545 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864013",
+      "description": "Ref. 864013 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864313",
+      "description": "Ref. 864313 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864513",
+      "description": "Ref. 864513 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864014",
+      "description": "Ref. 864014 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864016",
+      "description": "Ref. 864016 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864316",
+      "description": "Ref. 864316 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864516",
+      "description": "Ref. 864516 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864015",
+      "description": "Ref. 864015 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864315",
+      "description": "Ref. 864315 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864515",
+      "description": "Ref. 864515 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864018",
+      "description": "Ref. 864018 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864030",
+      "description": "Ref. 864030 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864330",
+      "description": "Ref. 864330 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864530",
+      "description": "Ref. 864530 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864031",
+      "description": "Ref. 864031 - Tapa para Toma TV / SAT"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

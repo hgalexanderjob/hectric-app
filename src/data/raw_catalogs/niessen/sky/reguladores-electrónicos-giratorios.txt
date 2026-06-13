@@ -1,0 +1,87 @@
+
+
+
+
+
+Regulador electrónico giratorio LED
+Tensión/Frecuencia: 230 V +/-10% ~; 50 / 60 Hz
+Potencia nominal (L): 2-100 W / VA (control corte principio de fase)
+Potencia nominal (R,C): 2 - 360 W / VA (control corte final de fase)
+Potencia nominal (LEDi): 2 - 100 W/VA (control corte principio de fase)
+Potencia nominal (LEDi): 2 - 200 W/VA (control corte final de fase)
+Clase de protección: IP 20. Rango de temperatura: de 0°C a 35°C. IEC 60669-2-1
+Profundidad de instalación: <20 mm. Sin garras.
+Con control giratorio, conmutador. Con terminal N.
+Conexión a 2 ó 3 hilos (Neutro no necesario)
+Neutro conectable opcional (recomendado para la conexión de cargas bajas < 10 W/VA) para evitar parpadeos en mínimo novel de brillo
+Optimizado para regulación de lámparas LED Retrofit (LEDi).
+Para LED Retrofit regulables (LEDi) con transformadores electrónicos o convencionales.
+Para lámparas incandescentes, halógeno de tungsteno de 230 V, lámparas halógenas de bajo consumo con transformadores convencionales
+o electrónicos y lámparas halógenas de bajo consumo regulables.
+Posibilidad de operación de LEDi con cargas convencionales.
+Modo de funcionamiento ajustable manualmente: corte final / principio de fase.
+Brillo mínimo / máximo ajustable.
+Bajo nivel de ruido por transistores MOSFET.
+Protección electrónica contra cortocircuitos.
+Protección electrónica contra sobrecarga.
+Tecla ref. 8960.2
+Código: 8160.7
+
+Regulador electrónico giratorio 1-10 VDC
+230 V~ ; 50 Hz.
+Válido para luminarias con balasto electrónico regulable 1-10VDC, incluídos LED y fluorescencia.
+Potencia: 700 W / VA
+Tensión de control: 0/1 - 10 V DC
+Corriente máx. de control del balasto: 50 mA DC.
+Tecla ref. 8960.2
+Código: 8160.9
+
+Potenciómetro DALI
+DALI broadcast (vía telegrama central).
+Para conmutar y atenuar hasta 64 dispositivos DALI como balastos electrónicos y transformadores con interfaz DALI.
+Con control giratorio y operación de encendido / apagado.
+Para cambiar la temperatura del color de las lámparas con “blanco dinámico” o “tunable white” que cumplen con la norma DALI IEC 62386-209
+(Dispositivos Tipo 8).
+La temperatura de color se puede configurar entre 2.700 K - 6.500 K.
+Nivel de brillo de encendido ajustable.
+Con iluminación LED integrada para orientación.
+Color de luz de orientación ajustable (18 preajustes y apagado).
+Se pueden conectar hasta 5 potenciómetros en paralelo.
+Máx. consumo de corriente: 15 mA.
+No recomendado para combinar con otros sensores DALI o unidades centrales de otros fabricantes.
+Para la generación del voltaje DALI es necesario el uso de una fuente de alimentación de acuerdo con IEC 62386.
+Máx. Longitud del cable DALI: 300 m (1,5 - 2,5 nn²).
+Clase de protección: IP 20
+Rango de temperatura: de 0°C a 35°C
+Tecla ref. 8960.2
+Código: 8161.6
+
+Potenciómetro DALI con fuente de alimentación
+Tensión nominal: 230 V ~, +10 % / -10 %
+Frecuencia nominal: 50 Hz - 60 Hz
+Clase de protección: IP 20
+Rango de temperatura: de 0°C a 35°C
+Tensión DALI: 15,5 V
+Corriente nominal: máx. 75 mA
+Consumo de energía: <2,5 W
+DALI broadcast (vía telegrama central).
+Con adaptador de corriente DALI integrado.
+Para conmutar y atenuar hasta 64 dispositivos DALI como balastos electrónicos y transformadores con interfaz DALI.
+Con control giratorio y operación de encendido / apagado.
+Para cambiar la temperatura del color de las lámparas con “blanco dinámico” o “tunable white” que cumplen con la norma DALI IEC 62386-209
+(Dispositivos Tipo 8).
+La temperatura de color se puede configurar entre 2.700 K - 6.500 K.
+Con protección electrónica contra cortocircuitos.
+Con protección electrónica contra sobrecarga.
+Nivel de brillo de encendido ajustable.
+Con iluminación LED integrada para orientación.
+Color de luz de orientación ajustable (18 preajustes y APAGADO).
+Se pueden conectar hasta 5 potenciómetros en paralelo.
+Se pueden conectar hasta 3 potenciómetros en paralelo en modo activo
+No es adecuado para combinar con otros sensores DALI o unidades centrales de otros fabricantes.
+Número de unidades DALI: 37 en caso de un potenciómetro de potencia activo. En caso de tres potenciómetros de potencia activos en paralelo: 111
+Modo activo: el potenciómetro es compatible con el circuito de control necesario para otros dispositivos DALI.
+Modo pasivo: el potenciómetro es adecuado como punto de operación adicional.
+Máx. longitud del cable DALI: 300 m (1,5 - 2,5 nn²).
+Tecla ref. 8960.2
+Código: 8161.7

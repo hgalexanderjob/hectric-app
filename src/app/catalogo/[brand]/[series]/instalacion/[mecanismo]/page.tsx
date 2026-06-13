@@ -6,10 +6,14 @@ import CommunityComments from "@/components/catalogo/CommunityComments";
 
 export default async function InstalacionMecanismoPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ brand: string; series: string; mecanismo: string }>;
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
 }) {
   const { brand: brandSlug, series: seriesSlug, mecanismo: mecanismoSlug } = await params;
+  const search = await searchParams;
+  const ref = typeof search.ref === 'string' ? search.ref : undefined;
 
   // Encontrar la marca
   const brandData = brandsData.find(
@@ -39,6 +43,8 @@ export default async function InstalacionMecanismoPage({
   if (!mecanismoData) {
     notFound();
   }
+
+  const isNiessenLujo = brandData.id.toLowerCase() === "niessen" && ref && ref.startsWith("81");
 
   return (
     <div className="bg-slate-50 min-h-screen pb-10">
@@ -86,11 +92,27 @@ export default async function InstalacionMecanismoPage({
                 </span>
               </div>
               <h1 className="text-2xl md:text-3xl font-bold text-slate-900">
-                Instalación de {mecanismoData.name}
+                Instalación de {mecanismoData.name} {ref && `- Ref. ${ref}`}
               </h1>
               <p className="mt-2 text-slate-600">
                 Sigue paso a paso este tutorial interactivo para instalar un {mecanismoData.name.toLowerCase()} de la serie {brandData.name} {seriesData.name} con total seguridad.
               </p>
+              
+              {isNiessenLujo && (
+                <div className="mt-4 p-4 bg-teal-50/50 border border-teal-200 rounded-xl flex gap-3 animate-in fade-in slide-in-from-bottom-4 duration-500">
+                  <div className="shrink-0 mt-0.5 text-teal-600">
+                    <svg className="size-5" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M11.25 11.25l.041-.02a.75.75 0 011.063.852l-.708 2.836a.75.75 0 001.063.853l.041-.021M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9-3.75h.008v.008H12V8.25z" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-teal-800 text-sm">Información de Compatibilidad Cruzada</h3>
+                    <p className="text-sm text-teal-700 mt-1">
+                      El catálogo oficial confirma que la <strong>Ref. {ref}</strong> pertenece a los mecanismos universales de lujo de Niessen. Esto significa que el mismo mecanismo interior se utiliza de forma cruzada y es 100% compatible con las series: <strong>Sky, Skymoon, Alba, Vega, Olas, Tacto y Arco</strong>.
+                    </p>
+                  </div>
+                </div>
+              )}
             </div>
 
             {/* Video Player (16:9) */}

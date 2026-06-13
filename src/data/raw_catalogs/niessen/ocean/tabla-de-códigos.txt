@@ -1,0 +1,71 @@
+<!-- ========== Interruptor ========== -->
+Interruptor monopolar 8101
+Interruptor monopolar con piloto de control 8101.5
+Interruptor bipolar 16A 8101.1
+Interruptor bipolar 8101.2
+<!-- ========== End Interruptor ========== -->
+
+<!-- ========== Conmutador ========== -->
+Conmutador 8102
+Cruzamiento 8110
+Conmutador con piloto de control 8102.5
+<!-- ========== End Conmutador ========== -->
+
+<!-- ========== Pulsador ========== -->
+Pulsador 8104
+Pulsador normalmente cerrado 8104.9
+Pulsador con piloto de control 8104.5
+<!-- ========== End Pulsador ========== -->
+
+<!-- ========== Combinaciones  ========== -->
+Doble interruptor 8111
+Doble conmutador 8122
+Pulsador + conmutador 8142
+Doble pulsador 8144.2
+<!-- ========== End Combinaciones  ========== -->
+
+<!-- ========== Pulsador / interruptor para persianas ========== -->
+¡NO APLICA!
+<!-- ========== End Pulsador / interruptor para persianas ========== -->
+
+<!-- ========== Timbre / Zumbador  ========== -->
+¡NO APLICA!
+<!-- ========== End Timbre / Zumbador  ========== -->
+
+<!-- ========== Bases de enchufe  ========== -->
+Bipolar con TT lateral Schuko con protección infantil sin garras 8188
+Bipolar con TT lateral Schuko con protección infantil con garras 8188.5
+Bipolar con TT lateral Schuko de conexión automática con protección infantil 8188.6
+<!-- ========== End Bases de enchufe Tapas ========== -->
+
+<!-- ========== Cargadores USB ========== -->
+¡NO APLICA!
+<!-- ========== End Cargadores USBs ========== -->
+
+<!-- ========== Tomas de televisión ========== -->
+Toma TV-R / SAT Unica 8151.3
+Toma TV-R / SAT Final 8151.7
+Toma TV-R / SAT Intermedia 8151.8
+<!-- ========== End Tomas de televisión ========== -->ç
+
+<!-- ========== Tomas de teléfono  ========== -->
+¡NO APLICA!
+<!-- ========== End Tomas de teléfono ========== -->
+
+<!-- ========== Reguladores electrónicos giratorios  ========== -->
+¡NO APLICA!
+<!-- ========== End Reguladores electrónicos giratorios ========== -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+

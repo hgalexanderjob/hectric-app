@@ -1,115 +1,49 @@
 {
   "brand": "Niessen",
-  "series": "Alba",
+  "series": "alba",
   "mechanism_id": "enchufe-schuko",
-  "mechanism_name": "Base de Enchufe Schuko y Derivados",
-  "description": "Bases de enchufe de la serie ALBA de Niessen. Diseño sostenible fabricado con material reciclado (hasta 98% en acabados brillo). Combina estética minimalista con la máxima funcionalidad y seguridad, compatible con las certificaciones ambientales y eléctricas más rigurosas.",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie alba de Niessen.",
   "technical_specs": {
-    "voltage": "250 V~",
-    "amperage": "16 A",
-    "terminal_type": "Automático (ref. 8188.6) / Tornillo (ref. 8188 y 8188.5)",
-    "wire_section_mm2": "Hasta 2.5 mm²",
-    "ip_rating": "IP20",
-    "protection": "Protección contra contactos directos involuntarios",
-    "certifications": [
-      "Certificado AENOR de producto conforme a: UNE 20315-1-1 y UNE 20315-1-2",
-      "Certificado CB de producto conforme a: IEC 60884-1"
-    ],
-    "regulations": [
-      "Directiva europea RoHS 2011/65/EU",
-      "EN IEC 63000"
-    ],
-    "features": [
-      "La versión con conexión automática reduce un 40% el tiempo de instalación",
-      "Compatible con la gama completa de marcos ALBA (Cristal, Metal, Reciclados)",
-      "Opción de base con doble cargador USB A+C (2000mA)"
-    ]
+    "voltage": "250V~",
+    "amperage": "16A"
   },
   "installation_steps": [
-    "Paso 1: Por su seguridad, asegúrese de desconectar la corriente general en el cuadro eléctrico.",
-    "Paso 2: Pele los extremos de los cables (Fase, Neutro y Tierra) según la medida que indica el dorso del mecanismo.",
-    "Paso 3: Identifique el borne central o marcado con el símbolo de tierra y conecte allí el cable verde/amarillo (T.T.).",
-    "Paso 4: Conecte la Fase y el Neutro a los bornes laterales (L y N).",
-    "Paso 5: En el mecanismo 8188.6 (automático), inserte el cable rígido recto o presione la palanca si es flexible.",
-    "Paso 6: Inserte el mecanismo en la caja de la pared y fíjelo mediante los tornillos.",
-    "Paso 7: Coloque el marco embellecedor ALBA y atornille la tapa frontal de enchufe (ref. 8988)."
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
   ],
   "bom_references": [
     {
       "type": "Mecanismo",
       "sku": "8188",
-      "description": "Bipolar con T.T. lateral Schuko sin garras (bornes a tornillo)",
-      "packaging_units": 10
+      "description": "Ref. 8188 - Bipolar con TT lateral Schuko sin garras"
     },
     {
       "type": "Mecanismo",
       "sku": "8188.5",
-      "description": "Bipolar con T.T. lateral Schuko con garras",
-      "packaging_units": 10
+      "description": "Ref. 8188.5 - Bipolar con TT lateral Schuko con garras"
     },
     {
       "type": "Mecanismo",
       "sku": "8188.6",
-      "description": "Bipolar con T.T. lateral Schuko conexión automática",
-      "packaging_units": 10
-    },
-    {
-      "type": "Mecanismo",
-      "sku": "8188.8",
-      "description": "Bipolar con T.T. lateral Schuko sin garras con piloto de control",
-      "packaging_units": 10
+      "description": "Ref. 8188.6 - Bipolar con TT lateral Schuko conexión automática"
     },
     {
       "type": "Mecanismo",
       "sku": "8187",
-      "description": "Bipolar con T.T. sistema francés",
-      "packaging_units": 10
+      "description": "Ref. 8187 - Bipolar con TT lateral Schuko sin garras con piloto de control 8188.8 Bipolar con T.T. sistema francés"
     },
     {
       "type": "Mecanismo",
       "sku": "8188.4",
-      "description": "Base de enchufe Schuko combinada con doble cargador USB A+C",
-      "packaging_units": 1
-    },
-    {
-      "type": "Tapa Estética ALBA",
-      "sku": "8988 XX",
-      "description": "Tapa estándar para base de enchufe (XX: BL, BT, NT, GR)",
-      "packaging_units": 20
-    },
-    {
-      "type": "Tapa Estética ALBA",
-      "sku": "8988.1 XX",
-      "description": "Tapa base de enchufe con cubierta abatible",
-      "packaging_units": 5
-    },
-    {
-      "type": "Tapa Estética ALBA",
-      "sku": "8988.8 XX",
-      "description": "Tapa base de enchufe con visor para piloto de control",
-      "packaging_units": 5
-    },
-    {
-      "type": "Tapa Estética ALBA",
-      "sku": "8987 XX",
-      "description": "Tapa para base de enchufe sistema francés",
-      "packaging_units": 5
-    },
-    {
-      "type": "Tapa Estética ALBA",
-      "sku": "8988.4 XX",
-      "description": "Tapa para base de enchufe con cargador USB",
-      "packaging_units": 1
-    }
-  ],
-  "faqs": [
-    {
-      "question": "¿De qué material están hechas las tapas ALBA?",
-      "answer": "La serie ALBA se caracteriza por su diseño sostenible, fabricada con hasta un 98% de material reciclado en sus acabados."
+      "description": "Ref. 8188.4 - Base de enchufe con doble cargador USB"
     }
   ],
   "warnings": [
-    "Precaución: El cable de Tierra (verde/amarillo) NUNCA debe conectarse a los bornes L o N.",
-    "La versión con piloto de control (8188.8) indica la presencia de tensión eléctrica visualmente."
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
   ]
 }

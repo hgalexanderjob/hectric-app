@@ -1,0 +1,154 @@
+{
+  "brand": "Legrand",
+  "series": "plexo",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie plexo de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069556",
+      "description": "Ref. 069556 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069656",
+      "description": "Ref. 069656 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069557",
+      "description": "Ref. 069557 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069580",
+      "description": "Ref. 069580 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069680",
+      "description": "Ref. 069680 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069533",
+      "description": "Ref. 069533 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069534",
+      "description": "Ref. 069534 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069519",
+      "description": "Ref. 069519 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069619",
+      "description": "Ref. 069619 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069687",
+      "description": "Ref. 069687 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069549",
+      "description": "Ref. 069549 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069547",
+      "description": "Ref. 069547 - Lámpara para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069590",
+      "description": "Ref. 069590 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069690",
+      "description": "Ref. 069690 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069591",
+      "description": "Ref. 069591 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069691",
+      "description": "Ref. 069691 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069651",
+      "description": "Ref. 069651 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069689",
+      "description": "Ref. 069689 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069661",
+      "description": "Ref. 069661 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069671",
+      "description": "Ref. 069671 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069681",
+      "description": "Ref. 069681 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069682",
+      "description": "Ref. 069682 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069692",
+      "description": "Ref. 069692 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069683",
+      "description": "Ref. 069683 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069685",
+      "description": "Ref. 069685 - Bastidor para Toma TV / SAT"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

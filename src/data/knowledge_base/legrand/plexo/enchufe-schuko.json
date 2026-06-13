@@ -1,0 +1,139 @@
+{
+  "brand": "Legrand",
+  "series": "plexo",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie plexo de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "16A"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069556",
+      "description": "Ref. 069556 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069656",
+      "description": "Ref. 069656 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069557",
+      "description": "Ref. 069557 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069580",
+      "description": "Ref. 069580 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069680",
+      "description": "Ref. 069680 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069533",
+      "description": "Ref. 069533 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069534",
+      "description": "Ref. 069534 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069519",
+      "description": "Ref. 069519 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069619",
+      "description": "Ref. 069619 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069571",
+      "description": "Ref. 069571 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069671",
+      "description": "Ref. 069671 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069570",
+      "description": "Ref. 069570 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069572",
+      "description": "Ref. 069572 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069574",
+      "description": "Ref. 069574 - Bastidor para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069581",
+      "description": "Ref. 069581 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069579",
+      "description": "Ref. 069579 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069549",
+      "description": "Ref. 069549 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069547",
+      "description": "Ref. 069547 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069590",
+      "description": "Ref. 069590 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069690",
+      "description": "Ref. 069690 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069591",
+      "description": "Ref. 069591 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069691",
+      "description": "Ref. 069691 - Tapa para Enchufe Schuko"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "brand": "Legrand",
+  "series": "valena-next",
+  "mechanism_id": "regulador",
+  "mechanism_name": "Regulador (Dimmer)",
+  "description": "Mecanismo Regulador (Dimmer) de la serie valena-next de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "741252",
+      "description": "Ref. 741252 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741352",
+      "description": "Ref. 741352 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741452",
+      "description": "Ref. 741452 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741253",
+      "description": "Ref. 741253 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741353",
+      "description": "Ref. 741353 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741453",
+      "description": "Ref. 741453 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741260",
+      "description": "Ref. 741260 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741360",
+      "description": "Ref. 741360 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741460",
+      "description": "Ref. 741460 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741261",
+      "description": "Ref. 741261 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741361",
+      "description": "Ref. 741361 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741461",
+      "description": "Ref. 741461 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741220",
+      "description": "Ref. 741220 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741320",
+      "description": "Ref. 741320 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741420",
+      "description": "Ref. 741420 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741221",
+      "description": "Ref. 741221 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741321",
+      "description": "Ref. 741321 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741421",
+      "description": "Ref. 741421 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1.500",
+      "description": "Ref. 1.500 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741234",
+      "description": "Ref. 741234 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741334",
+      "description": "Ref. 741334 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741434",
+      "description": "Ref. 741434 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741231",
+      "description": "Ref. 741231 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741331",
+      "description": "Ref. 741331 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741431",
+      "description": "Ref. 741431 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741232",
+      "description": "Ref. 741232 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741332",
+      "description": "Ref. 741332 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741432",
+      "description": "Ref. 741432 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080261",
+      "description": "Ref. 080261 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "1.275",
+      "description": "Ref. 1.275 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741254",
+      "description": "Ref. 741254 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741354",
+      "description": "Ref. 741354 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741454",
+      "description": "Ref. 741454 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741255",
+      "description": "Ref. 741255 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741355",
+      "description": "Ref. 741355 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741455",
+      "description": "Ref. 741455 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080052",
+      "description": "Ref. 080052 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077586",
+      "description": "Ref. 077586 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2.400",
+      "description": "Ref. 2.400 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "1.200",
+      "description": "Ref. 1.200 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080251",
+      "description": "Ref. 080251 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "62479",
+      "description": "Ref. 62479 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077598",
+      "description": "Ref. 077598 - Bastidor para Regulador (Dimmer)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

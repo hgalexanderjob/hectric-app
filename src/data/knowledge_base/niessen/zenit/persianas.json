@@ -1,0 +1,214 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "persianas",
+  "mechanism_name": "Persianas",
+  "description": "Mecanismo Persianas de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 BL",
+      "description": "Ref. N2144 BL - Pulsador para persianas 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 BB",
+      "description": "Ref. N2144 BB - Pulsador para persianas 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 AN",
+      "description": "Ref. N2144 AN - Pulsador para persianas 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 AA",
+      "description": "Ref. N2144 AA - Pulsador para persianas 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 PL",
+      "description": "Ref. N2144 PL - Pulsador para persianas 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 CV",
+      "description": "Ref. N2144 CV - Pulsador para persianas 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 NT",
+      "description": "Ref. N2144 NT - Pulsador para persianas 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144 DN",
+      "description": "Ref. N2144 DN - Pulsador para persianas 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 BL",
+      "description": "Ref. N2244 BL - Doble pulsador para persianas 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 BB",
+      "description": "Ref. N2244 BB - Doble pulsador para persianas 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 AN",
+      "description": "Ref. N2244 AN - Doble pulsador para persianas 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 AA",
+      "description": "Ref. N2244 AA - Doble pulsador para persianas 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 PL",
+      "description": "Ref. N2244 PL - Doble pulsador para persianas 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 CV",
+      "description": "Ref. N2244 CV - Doble pulsador para persianas 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 NT",
+      "description": "Ref. N2244 NT - Doble pulsador para persianas 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244 DN",
+      "description": "Ref. N2244 DN - Doble pulsador para persianas 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 BL",
+      "description": "Ref. N2144.1 BL - Interruptor de persianas 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 BB",
+      "description": "Ref. N2144.1 BB - Interruptor de persianas 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 AN",
+      "description": "Ref. N2144.1 AN - Interruptor de persianas 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 AA",
+      "description": "Ref. N2144.1 AA - Interruptor de persianas 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 PL",
+      "description": "Ref. N2144.1 PL - Interruptor de persianas 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 CV",
+      "description": "Ref. N2144.1 CV - Interruptor de persianas 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 NT",
+      "description": "Ref. N2144.1 NT - Interruptor de persianas 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2144.1 DN",
+      "description": "Ref. N2144.1 DN - Interruptor de persianas 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 BL",
+      "description": "Ref. N2244.1 BL - Doble interruptor de persianas 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 BB",
+      "description": "Ref. N2244.1 BB - Doble interruptor de persianas 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 AN",
+      "description": "Ref. N2244.1 AN - Doble interruptor de persianas 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 AA",
+      "description": "Ref. N2244.1 AA - Doble interruptor de persianas 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 PL",
+      "description": "Ref. N2244.1 PL - Doble interruptor de persianas 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 CV",
+      "description": "Ref. N2244.1 CV - Doble interruptor de persianas 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 NT",
+      "description": "Ref. N2244.1 NT - Doble interruptor de persianas 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2244.1 DN",
+      "description": "Ref. N2244.1 DN - Doble interruptor de persianas 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 BL",
+      "description": "Ref. N2261.21 BL - Interruptor de persianas electrónico 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 AN",
+      "description": "Ref. N2261.21 AN - Interruptor de persianas electrónico 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 PL",
+      "description": "Ref. N2261.21 PL - Interruptor de persianas electrónico 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 CV",
+      "description": "Ref. N2261.21 CV - Interruptor de persianas electrónico 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 NT",
+      "description": "Ref. N2261.21 NT - Interruptor de persianas electrónico 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2261.21 DN",
+      "description": "Ref. N2261.21 DN - Interruptor de persianas electrónico 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

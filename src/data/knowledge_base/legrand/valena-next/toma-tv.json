@@ -1,0 +1,139 @@
+{
+  "brand": "Legrand",
+  "series": "valena-next",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie valena-next de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "741270",
+      "description": "Ref. 741270 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741370",
+      "description": "Ref. 741370 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741470",
+      "description": "Ref. 741470 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741272",
+      "description": "Ref. 741272 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741372",
+      "description": "Ref. 741372 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741472",
+      "description": "Ref. 741472 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741271",
+      "description": "Ref. 741271 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741371",
+      "description": "Ref. 741371 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741471",
+      "description": "Ref. 741471 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741273",
+      "description": "Ref. 741273 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741373",
+      "description": "Ref. 741373 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741473",
+      "description": "Ref. 741473 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1750",
+      "description": "Ref. 1750 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8193",
+      "description": "Ref. 8193 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "2400",
+      "description": "Ref. 2400 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1658",
+      "description": "Ref. 1658 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1512",
+      "description": "Ref. 1512 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "3877",
+      "description": "Ref. 3877 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741275",
+      "description": "Ref. 741275 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "50083",
+      "description": "Ref. 50083 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2.400",
+      "description": "Ref. 2.400 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080261",
+      "description": "Ref. 080261 - Bastidor para Toma TV / SAT"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Bastidor para Toma TV / SAT"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

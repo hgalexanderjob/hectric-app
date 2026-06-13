@@ -1,0 +1,139 @@
+{
+  "brand": "Legrand",
+  "series": "celiane",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie celiane de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "067005",
+      "description": "Ref. 067005 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067006",
+      "description": "Ref. 067006 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067051",
+      "description": "Ref. 067051 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067052",
+      "description": "Ref. 067052 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067053",
+      "description": "Ref. 067053 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067034",
+      "description": "Ref. 067034 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067035",
+      "description": "Ref. 067035 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067036",
+      "description": "Ref. 067036 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067041",
+      "description": "Ref. 067041 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067111",
+      "description": "Ref. 067111 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067131",
+      "description": "Ref. 067131 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067112",
+      "description": "Ref. 067112 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067122",
+      "description": "Ref. 067122 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067142",
+      "description": "Ref. 067142 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067123",
+      "description": "Ref. 067123 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067124",
+      "description": "Ref. 067124 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067117",
+      "description": "Ref. 067117 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067127",
+      "description": "Ref. 067127 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067344",
+      "description": "Ref. 067344 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067113",
+      "description": "Ref. 067113 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067133",
+      "description": "Ref. 067133 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067114",
+      "description": "Ref. 067114 - Tapa para Cruzamiento"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "brand": "Niessen",
+  "series": "over",
+  "mechanism_id": "persianas",
+  "mechanism_name": "Persianas",
+  "description": "Mecanismo Persianas de la serie over de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "1544 BL",
+      "description": "Ref. 1544 BL - Pulsador para persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1544.1 BL",
+      "description": "Ref. 1544.1 BL - Interruptor para persiana"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

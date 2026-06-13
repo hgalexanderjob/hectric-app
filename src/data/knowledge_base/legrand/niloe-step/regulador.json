@@ -1,0 +1,129 @@
+{
+  "brand": "Legrand",
+  "series": "niloe-step",
+  "mechanism_id": "regulador",
+  "mechanism_name": "Regulador (Dimmer)",
+  "description": "Mecanismo Regulador (Dimmer) de la serie niloe-step de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "864016",
+      "description": "Ref. 864016 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864316",
+      "description": "Ref. 864316 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864516",
+      "description": "Ref. 864516 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864380",
+      "description": "Ref. 864380 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864580",
+      "description": "Ref. 864580 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864085",
+      "description": "Ref. 864085 - Mecanismo para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864015",
+      "description": "Ref. 864015 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864315",
+      "description": "Ref. 864315 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864515",
+      "description": "Ref. 864515 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864018",
+      "description": "Ref. 864018 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864030",
+      "description": "Ref. 864030 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864330",
+      "description": "Ref. 864330 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864530",
+      "description": "Ref. 864530 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864031",
+      "description": "Ref. 864031 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864331",
+      "description": "Ref. 864331 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864531",
+      "description": "Ref. 864531 - Tapa para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864080",
+      "description": "Ref. 864080 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "3.680",
+      "description": "Ref. 3.680 - Bastidor para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "CR2032",
+      "description": "Ref. CR2032 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864385",
+      "description": "Ref. 864385 - Lámpara para Regulador (Dimmer)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864585",
+      "description": "Ref. 864585 - Lámpara para Regulador (Dimmer)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

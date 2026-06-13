@@ -1,0 +1,26 @@
+Doble interruptor
+10 AX / 250 V~
+Mecanismos válidos para
+tecla ref.: 8711
+Código: 8111
+
+
+Doble conmutador
+10 AX / 250 V~
+Mecanismos válidos para
+tecla Ref.: 8711
+Código: 8122
+
+Pulsador + conmutador
+10 A / 250 V~ +
+10 AX / 250 V~
+Mecanismo válido para
+tecla Ref.: 8711
+Código: 8142
+
+Doble pulsador
+10 A / 250 V~
+Sin enclavamiento
+Mecanismo válido para
+tecla Refs.: 8711
+Código: 8144.2

@@ -1,0 +1,114 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "regulador",
+  "mechanism_name": "Regulador (Dimmer)",
+  "description": "Mecanismo Regulador (Dimmer) de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 BL",
+      "description": "Ref. N2160.3 BL - Regulador giratorio para LED 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 AN",
+      "description": "Ref. N2160.3 AN - Regulador giratorio para LED 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 PL",
+      "description": "Ref. N2160.3 PL - Regulador giratorio para LED 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 CV",
+      "description": "Ref. N2160.3 CV - Regulador giratorio para LED 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 NT",
+      "description": "Ref. N2160.3 NT - Regulador giratorio para LED 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2160.3 DN",
+      "description": "Ref. N2160.3 DN - Regulador giratorio para LED 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 BL",
+      "description": "Ref. N2260.3 BL - Regulador giratorio para LED 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 AN",
+      "description": "Ref. N2260.3 AN - Regulador giratorio para LED 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 PL",
+      "description": "Ref. N2260.3 PL - Regulador giratorio para LED 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 CV",
+      "description": "Ref. N2260.3 CV - Regulador giratorio para LED 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 NT",
+      "description": "Ref. N2260.3 NT - Regulador giratorio para LED 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3 DN",
+      "description": "Ref. N2260.3 DN - Regulador giratorio para LED 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 BL",
+      "description": "Ref. N2260.9 BL - Regulador giratorio para fluorescentes 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 AN",
+      "description": "Ref. N2260.9 AN - Regulador giratorio para fluorescentes 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 PL",
+      "description": "Ref. N2260.9 PL - Regulador giratorio para fluorescentes 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 CV",
+      "description": "Ref. N2260.9 CV - Regulador giratorio para fluorescentes 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 NT",
+      "description": "Ref. N2260.9 NT - Regulador giratorio para fluorescentes 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.9 DN",
+      "description": "Ref. N2260.9 DN - Regulador giratorio para fluorescentes 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

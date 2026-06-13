@@ -1,0 +1,524 @@
+{
+  "brand": "Legrand",
+  "series": "mosaic",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptor",
+  "description": "Mecanismo Interruptor de la serie mosaic de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "077011",
+      "description": "Ref. 077011 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079211",
+      "description": "Ref. 079211 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077012",
+      "description": "Ref. 077012 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079212",
+      "description": "Ref. 079212 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077000",
+      "description": "Ref. 077000 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077015",
+      "description": "Ref. 077015 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077021",
+      "description": "Ref. 077021 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079221",
+      "description": "Ref. 079221 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077016",
+      "description": "Ref. 077016 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077031",
+      "description": "Ref. 077031 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079231",
+      "description": "Ref. 079231 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077032",
+      "description": "Ref. 077032 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079232",
+      "description": "Ref. 079232 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077111",
+      "description": "Ref. 077111 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079111",
+      "description": "Ref. 079111 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077112",
+      "description": "Ref. 077112 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077117",
+      "description": "Ref. 077117 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077127",
+      "description": "Ref. 077127 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077118",
+      "description": "Ref. 077118 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077119",
+      "description": "Ref. 077119 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077123",
+      "description": "Ref. 077123 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077124",
+      "description": "Ref. 077124 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076561",
+      "description": "Ref. 076561 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079461",
+      "description": "Ref. 079461 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076562",
+      "description": "Ref. 076562 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079462",
+      "description": "Ref. 079462 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076563",
+      "description": "Ref. 076563 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079463",
+      "description": "Ref. 079463 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076564",
+      "description": "Ref. 076564 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076565",
+      "description": "Ref. 076565 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "076573",
+      "description": "Ref. 076573 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079473",
+      "description": "Ref. 079473 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077561",
+      "description": "Ref. 077561 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079261",
+      "description": "Ref. 079261 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077562",
+      "description": "Ref. 077562 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077563",
+      "description": "Ref. 077563 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077581",
+      "description": "Ref. 077581 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079281",
+      "description": "Ref. 079281 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077583",
+      "description": "Ref. 077583 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077025",
+      "description": "Ref. 077025 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079225",
+      "description": "Ref. 079225 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077026",
+      "description": "Ref. 077026 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079226",
+      "description": "Ref. 079226 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077591",
+      "description": "Ref. 077591 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079291",
+      "description": "Ref. 079291 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077592",
+      "description": "Ref. 077592 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079292",
+      "description": "Ref. 079292 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077594",
+      "description": "Ref. 077594 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077598",
+      "description": "Ref. 077598 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077599",
+      "description": "Ref. 077599 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077501",
+      "description": "Ref. 077501 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077511",
+      "description": "Ref. 077511 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077521",
+      "description": "Ref. 077521 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077522",
+      "description": "Ref. 077522 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077541",
+      "description": "Ref. 077541 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077543",
+      "description": "Ref. 077543 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077315",
+      "description": "Ref. 077315 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077321",
+      "description": "Ref. 077321 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079321",
+      "description": "Ref. 079321 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077322",
+      "description": "Ref. 077322 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077326",
+      "description": "Ref. 077326 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079326",
+      "description": "Ref. 079326 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077331",
+      "description": "Ref. 077331 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079331",
+      "description": "Ref. 079331 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077341",
+      "description": "Ref. 077341 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079341",
+      "description": "Ref. 079341 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077342",
+      "description": "Ref. 077342 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077346",
+      "description": "Ref. 077346 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079346",
+      "description": "Ref. 079346 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077343",
+      "description": "Ref. 077343 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079343",
+      "description": "Ref. 079343 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077344",
+      "description": "Ref. 077344 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "412015",
+      "description": "Ref. 412015 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "412010",
+      "description": "Ref. 412010 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078802",
+      "description": "Ref. 078802 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078804",
+      "description": "Ref. 078804 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078806",
+      "description": "Ref. 078806 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078808",
+      "description": "Ref. 078808 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078822",
+      "description": "Ref. 078822 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079302",
+      "description": "Ref. 079302 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079304",
+      "description": "Ref. 079304 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079306",
+      "description": "Ref. 079306 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079308",
+      "description": "Ref. 079308 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077002",
+      "description": "Ref. 077002 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077013",
+      "description": "Ref. 077013 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "079213",
+      "description": "Ref. 079213 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077004",
+      "description": "Ref. 077004 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077033",
+      "description": "Ref. 077033 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077041",
+      "description": "Ref. 077041 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077042",
+      "description": "Ref. 077042 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077113",
+      "description": "Ref. 077113 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079113",
+      "description": "Ref. 079113 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077114",
+      "description": "Ref. 077114 - Tapa para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077122",
+      "description": "Ref. 077122 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "079122",
+      "description": "Ref. 079122 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078402",
+      "description": "Ref. 078402 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078404",
+      "description": "Ref. 078404 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078511",
+      "description": "Ref. 078511 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078512",
+      "description": "Ref. 078512 - Lámpara para Interruptor"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

@@ -1,72 +1,494 @@
 {
   "brand": "Niessen",
-  "series": "Zenit",
+  "series": "zenit",
   "mechanism_id": "enchufe-schuko",
-  "mechanism_name": "Base de Enchufe Schuko y Derivados",
-  "description": "Bases de enchufe de la serie Zenit de Niessen. La gama más completa del mercado. Su diseño modular y de instalación frontal reduce tiempos y optimiza el espacio de cableado (solo 21 mm de profundidad de mecanismo). Disponen de protección infantil en todas las referencias y acabados ecosostenibles.",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie zenit de Niessen.",
   "technical_specs": {
-    "voltage": "250 V~",
-    "amperage": "16 A",
-    "terminal_type": "Automático (sin tornillos) en la mayoría de modelos, permitiendo una instalación 40% más rápida",
-    "wire_stripping_mm": 14,
-    "ip_rating": "IP20 (Convertibles a IP44 con el marco específico o instalables en superficie IP40)",
-    "protection": "Persianas de protección infantil (alveolos protegidos) integradas de serie",
-    "certifications": [
-      "ISO 14006 (Ecosolutions ABB)"
-    ],
-    "features": [
-      "Diseño ultracompacto (21 mm de fondo) dejando más espacio para los cables en la caja",
-      "Formatos modulares de 2 módulos que encajan en bastidores de plástico o acero galvanizado",
-      "Existen versiones innovadoras que incluyen doble cargador USB-C (15W) compartiendo el mismo espacio que un enchufe estándar",
-      "Bastidores con tratamiento anticorrosivo para máxima durabilidad"
-    ]
+    "voltage": "250V~",
+    "amperage": "16A"
   },
   "installation_steps": [
-    "Paso 1: Por seguridad, corte el suministro eléctrico general.",
-    "Paso 2: Atornille el bastidor (metálico o termoplástico) a la caja universal de pared.",
-    "Paso 3: Pele los extremos de los cables (Fase, Neutro y Tierra) exactamente 14 mm.",
-    "Paso 4: Conecte los cables en sus bornes correspondientes (Tierra siempre al borne central o marcado).",
-    "Paso 5: Inserte el mecanismo en el bastidor PRESIONANDO DESDE LA PARTE FRONTAL. A diferencia de series antiguas, no hace falta introducir la base desde atrás del bastidor.",
-    "Paso 6: Asegúrese de escuchar el 'click' de anclaje. Para retirar, puede usar un destornillador en las pestañas laterales.",
-    "Paso 7: Por último, fije el marco y la placa frontal decorativa de su color preferido."
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
   ],
   "bom_references": [
     {
-      "type": "Mecanismo (2 Módulos)",
-      "sku": "N2288 XX",
-      "description": "Base de enchufe Schuko 16A bipolar con Toma de Tierra (Conexión a tornillo)",
-      "packaging_units": 10
+      "type": "Mecanismo",
+      "sku": "N2135 BL",
+      "description": "Ref. N2135 BL - Bipolar Euroamericana 1 módulo Blanco"
     },
     {
-      "type": "Mecanismo (2 Módulos)",
-      "sku": "N2288.6 XX",
-      "description": "Base de enchufe Schuko 16A bipolar con Toma de Tierra (Conexión Automática)",
-      "packaging_units": 10
+      "type": "Mecanismo",
+      "sku": "N2135 AN",
+      "description": "Ref. N2135 AN - Bipolar Euroamericana 1 módulo Antracita"
     },
     {
-      "type": "Mecanismo Innovación (2 Módulos)",
-      "sku": "Base Schuko + Doble USB-C",
-      "description": "Base Schuko con doble cargador USB-C 15W integrado. (Ahorro de espacio, carga hasta 3 productos).",
-      "packaging_units": 1
+      "type": "Mecanismo",
+      "sku": "N2135 PL",
+      "description": "Ref. N2135 PL - Bipolar Euroamericana 1 módulo Plata"
     },
     {
-      "type": "Mecanismo (2 Módulos)",
-      "sku": "N2288.1 XX",
-      "description": "Base de enchufe Schuko con tapa abatible",
-      "packaging_units": 10
-    }
-  ],
-  "faqs": [
-    {
-      "question": "¿El mecanismo entra por delante o por detrás del marco?",
-      "answer": "A diferencia de otras series tradicionales, todos los mecanismos Zenit (enchufes, interruptores) se instalan empujando desde la parte FRONTAL hacia la pared una vez que el bastidor ya está atornillado. Esto simplifica enormemente organizar los cables."
+      "type": "Mecanismo",
+      "sku": "N2135 CV",
+      "description": "Ref. N2135 CV - Bipolar Euroamericana 1 módulo Cava"
     },
     {
-      "question": "¿Tienen protección para niños?",
-      "answer": "Sí, todas las bases de enchufe de la gama Zenit vienen equipadas de serie con protección infantil en los alveolos."
+      "type": "Mecanismo",
+      "sku": "N2135 NT",
+      "description": "Ref. N2135 NT - Bipolar Euroamericana 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2135 DN",
+      "description": "Ref. N2135 DN - Bipolar Euroamericana 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 BL",
+      "description": "Ref. N2128 BL - Bipolar con tierra mexicana 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 AN",
+      "description": "Ref. N2128 AN - Bipolar con tierra mexicana 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 PL",
+      "description": "Ref. N2128 PL - Bipolar con tierra mexicana 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 CV",
+      "description": "Ref. N2128 CV - Bipolar con tierra mexicana 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 NT",
+      "description": "Ref. N2128 NT - Bipolar con tierra mexicana 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2128 DN",
+      "description": "Ref. N2128 DN - Bipolar con tierra mexicana 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 BL",
+      "description": "Ref. N2133 BL - Bipolar con tierra italiana 19-26 mm 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 AN",
+      "description": "Ref. N2133 AN - Bipolar con tierra italiana 19-26 mm 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 PL",
+      "description": "Ref. N2133 PL - Bipolar con tierra italiana 19-26 mm 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 CV",
+      "description": "Ref. N2133 CV - Bipolar con tierra italiana 19-26 mm 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 NT",
+      "description": "Ref. N2133 NT - Bipolar con tierra italiana 19-26 mm 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133 DN",
+      "description": "Ref. N2133 DN - Bipolar con tierra italiana 19-26 mm 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 BL",
+      "description": "Ref. N2133.1 BL - Bipolar con tierra italiana 19 mm 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 AN",
+      "description": "Ref. N2133.1 AN - Bipolar con tierra italiana 19 mm 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 PL",
+      "description": "Ref. N2133.1 PL - Bipolar con tierra italiana 19 mm 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 CV",
+      "description": "Ref. N2133.1 CV - Bipolar con tierra italiana 19 mm 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 NT",
+      "description": "Ref. N2133.1 NT - Bipolar con tierra italiana 19 mm 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2133.1 DN",
+      "description": "Ref. N2133.1 DN - Bipolar con tierra italiana 19 mm 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 BL",
+      "description": "Ref. N2136.2 BL - Bipolar con tierra brasileña 20 A 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 AN",
+      "description": "Ref. N2136.2 AN - Bipolar con tierra brasileña 20 A 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 PL",
+      "description": "Ref. N2136.2 PL - Bipolar con tierra brasileña 20 A 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 CV",
+      "description": "Ref. N2136.2 CV - Bipolar con tierra brasileña 20 A 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 NT",
+      "description": "Ref. N2136.2 NT - Bipolar con tierra brasileña 20 A 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2136.2 DN",
+      "description": "Ref. N2136.2 DN - Bipolar con tierra brasileña 20 A 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 BL",
+      "description": "Ref. N2237 BL - Base de enchufe British Standard 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 AN",
+      "description": "Ref. N2237 AN - Base de enchufe British Standard 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 PL",
+      "description": "Ref. N2237 PL - Base de enchufe British Standard 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 CV",
+      "description": "Ref. N2237 CV - Base de enchufe British Standard 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 NT",
+      "description": "Ref. N2237 NT - Base de enchufe British Standard 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2237 DN",
+      "description": "Ref. N2237 DN - Base de enchufe British Standard 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 BL",
+      "description": "Ref. N2238 BL - Base de enchufe 2P+T Euroamericana 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 AN",
+      "description": "Ref. N2238 AN - Base de enchufe 2P+T Euroamericana 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 PL",
+      "description": "Ref. N2238 PL - Base de enchufe 2P+T Euroamericana 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 CV",
+      "description": "Ref. N2238 CV - Base de enchufe 2P+T Euroamericana 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 NT",
+      "description": "Ref. N2238 NT - Base de enchufe 2P+T Euroamericana 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2238 DN",
+      "description": "Ref. N2238 DN - Base de enchufe 2P+T Euroamericana 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2239 BL",
+      "description": "Ref. N2239 BL - Base de enchufe universal 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2239 AN",
+      "description": "Ref. N2239 AN - Base de enchufe universal 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2239 PL",
+      "description": "Ref. N2239 PL - Base de enchufe universal 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2208 CV",
+      "description": "Ref. N2208 CV - Base de enchufe universal 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2239 NT",
+      "description": "Ref. N2239 NT - Base de enchufe universal 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2239 DN",
+      "description": "Ref. N2239 DN - Base de enchufe universal 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 BL",
+      "description": "Ref. N2338 BL - Base duplex de enchufe 2P+T Euroamericana 3 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 AN",
+      "description": "Ref. N2338 AN - Base duplex de enchufe 2P+T Euroamericana 3 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 PL",
+      "description": "Ref. N2338 PL - Base duplex de enchufe 2P+T Euroamericana 3 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 CV",
+      "description": "Ref. N2338 CV - Base duplex de enchufe 2P+T Euroamericana 3 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 NT",
+      "description": "Ref. N2338 NT - Base duplex de enchufe 2P+T Euroamericana 3 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2338 DN",
+      "description": "Ref. N2338 DN - Base duplex de enchufe 2P+T Euroamericana 3 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 BL",
+      "description": "Ref. N2288 BL - Bipolar con T.T. lateral Schuko 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 AN",
+      "description": "Ref. N2288 AN - Bipolar con T.T. lateral Schuko 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 PL",
+      "description": "Ref. N2288 PL - Bipolar con T.T. lateral Schuko 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 CV",
+      "description": "Ref. N2288 CV - Bipolar con T.T. lateral Schuko 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 NT",
+      "description": "Ref. N2288 NT - Bipolar con T.T. lateral Schuko 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 DN",
+      "description": "Ref. N2288 DN - Bipolar con T.T. lateral Schuko 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 NA",
+      "description": "Ref. N2288 NA - Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Naranja"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 RJ",
+      "description": "Ref. N2288 RJ - Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Rojo"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288 VD",
+      "description": "Ref. N2288 VD - Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Verde"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 BL",
+      "description": "Ref. N2288.1 BL - Bipolar con T.T. lateral Schuko con tapa 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 AN",
+      "description": "Ref. N2288.1 AN - Bipolar con T.T. lateral Schuko con tapa 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 PL",
+      "description": "Ref. N2288.1 PL - Bipolar con T.T. lateral Schuko con tapa 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 CV",
+      "description": "Ref. N2288.1 CV - Bipolar con T.T. lateral Schuko con tapa 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 NT",
+      "description": "Ref. N2288.1 NT - Bipolar con T.T. lateral Schuko con tapa 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.1 DN",
+      "description": "Ref. N2288.1 DN - Bipolar con T.T. lateral Schuko con tapa 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 BL",
+      "description": "Ref. N2288.6 BL - Bipolar con T.T. lateral Schuko automático 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 AN",
+      "description": "Ref. N2288.6 AN - Bipolar con T.T. lateral Schuko automático 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 PL",
+      "description": "Ref. N2288.6 PL - Bipolar con T.T. lateral Schuko automático 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 CV",
+      "description": "Ref. N2288.6 CV - Bipolar con T.T. lateral Schuko automático 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 NT",
+      "description": "Ref. N2288.6 NT - Bipolar con T.T. lateral Schuko automático 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.6 DN",
+      "description": "Ref. N2288.6 DN - Bipolar con T.T. lateral Schuko automático 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.3 BL",
+      "description": "Ref. N2288.3 BL - Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.3 AN",
+      "description": "Ref. N2288.3 AN - Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.3 PL",
+      "description": "Ref. N2288.3 PL - Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.3 NT",
+      "description": "Ref. N2288.3 NT - Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.3 DN",
+      "description": "Ref. N2288.3 DN - Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 BL",
+      "description": "Ref. N2203 BL - Bipolar normal europea 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 AN",
+      "description": "Ref. N2203 AN - Bipolar normal europea 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 PL",
+      "description": "Ref. N2203 PL - Bipolar normal europea 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 CV",
+      "description": "Ref. N2203 CV - Bipolar normal europea 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 NT",
+      "description": "Ref. N2203 NT - Bipolar normal europea 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2203 DN",
+      "description": "Ref. N2203 DN - Bipolar normal europea 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 BL",
+      "description": "Ref. N2287 BL - Bipolar normal con T.T. sistema francés 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 AN",
+      "description": "Ref. N2287 AN - Bipolar normal con T.T. sistema francés 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 PL",
+      "description": "Ref. N2287 PL - Bipolar normal con T.T. sistema francés 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 CV",
+      "description": "Ref. N2287 CV - Bipolar normal con T.T. sistema francés 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 NT",
+      "description": "Ref. N2287 NT - Bipolar normal con T.T. sistema francés 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 DN",
+      "description": "Ref. N2287 DN - Bipolar normal con T.T. sistema francés 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2287 RJ",
+      "description": "Ref. N2287 RJ - Bipolar con T.T. sistema francés para circuitos especiales 2 módulos Rojo"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2288.2 BL",
+      "description": "Ref. N2288.2 BL - Bipolar con T.T. Schuko completa 2 módulos Blanco"
     }
   ],
   "warnings": [
-    "Peligro Eléctrico: Asegúrese siempre de conectar el conductor verde/amarillo (Tierra) al borne designado para ello, jamás a L o N."
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
   ]
 }

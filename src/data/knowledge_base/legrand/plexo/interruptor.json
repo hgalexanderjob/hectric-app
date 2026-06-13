@@ -1,0 +1,289 @@
+{
+  "brand": "Legrand",
+  "series": "plexo",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptor",
+  "description": "Mecanismo Interruptor de la serie plexo de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "069511",
+      "description": "Ref. 069511 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069611",
+      "description": "Ref. 069611 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069530",
+      "description": "Ref. 069530 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069515",
+      "description": "Ref. 069515 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069615",
+      "description": "Ref. 069615 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069521",
+      "description": "Ref. 069521 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069621",
+      "description": "Ref. 069621 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069525",
+      "description": "Ref. 069525 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069540",
+      "description": "Ref. 069540 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069640",
+      "description": "Ref. 069640 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069556",
+      "description": "Ref. 069556 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069656",
+      "description": "Ref. 069656 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069557",
+      "description": "Ref. 069557 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069580",
+      "description": "Ref. 069580 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069680",
+      "description": "Ref. 069680 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069533",
+      "description": "Ref. 069533 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069534",
+      "description": "Ref. 069534 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069519",
+      "description": "Ref. 069519 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069619",
+      "description": "Ref. 069619 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069687",
+      "description": "Ref. 069687 - Mecanismo para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069512",
+      "description": "Ref. 069512 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069497",
+      "description": "Ref. 069497 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069612",
+      "description": "Ref. 069612 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069513",
+      "description": "Ref. 069513 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069498",
+      "description": "Ref. 069498 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069542",
+      "description": "Ref. 069542 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069642",
+      "description": "Ref. 069642 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069544",
+      "description": "Ref. 069544 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069541",
+      "description": "Ref. 069541 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069571",
+      "description": "Ref. 069571 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069671",
+      "description": "Ref. 069671 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069570",
+      "description": "Ref. 069570 - Tapa para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069572",
+      "description": "Ref. 069572 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069574",
+      "description": "Ref. 069574 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069581",
+      "description": "Ref. 069581 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069579",
+      "description": "Ref. 069579 - Tapa para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069549",
+      "description": "Ref. 069549 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069547",
+      "description": "Ref. 069547 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069590",
+      "description": "Ref. 069590 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069690",
+      "description": "Ref. 069690 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069591",
+      "description": "Ref. 069591 - Tapa para Interruptor"
+    },
+    {
+      "type": "Tapa",
+      "sku": "069691",
+      "description": "Ref. 069691 - Tapa para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069651",
+      "description": "Ref. 069651 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069689",
+      "description": "Ref. 069689 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069661",
+      "description": "Ref. 069661 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069681",
+      "description": "Ref. 069681 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069682",
+      "description": "Ref. 069682 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069692",
+      "description": "Ref. 069692 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069683",
+      "description": "Ref. 069683 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "069685",
+      "description": "Ref. 069685 - Bastidor para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "069499",
+      "description": "Ref. 069499 - Lámpara para Interruptor"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "070788",
+      "description": "Ref. 070788 - Lámpara para Interruptor"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

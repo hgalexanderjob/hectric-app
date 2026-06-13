@@ -1,0 +1,359 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "toma-datos",
+  "mechanism_name": "Toma de Datos (RJ45)",
+  "description": "Mecanismo Toma de Datos (RJ45) de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "RJ12",
+      "description": "Ref. RJ12 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2117.6",
+      "description": "Ref. N2117.6 - Mecanismo para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2217.6",
+      "description": "Ref. N2217.6 - Mecanismo para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "100300",
+      "description": "Ref. 100300 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "C5974",
+      "description": "Ref. C5974 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "EN50173",
+      "description": "Ref. EN50173 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "T568",
+      "description": "Ref. T568 - Mecanismo para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2274.1",
+      "description": "Ref. N2274.1 - Mecanismo para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2118.1",
+      "description": "Ref. N2118.1 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2218.1",
+      "description": "Ref. N2218.1 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2218.2",
+      "description": "Ref. N2218.2 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2018.8",
+      "description": "Ref. 2018.8 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2017.2",
+      "description": "Ref. 2017.2 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2018.5",
+      "description": "Ref. 2018.5 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2018.6",
+      "description": "Ref. 2018.6 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2018.9",
+      "description": "Ref. 2018.9 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.1",
+      "description": "Ref. N2216.1 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.2",
+      "description": "Ref. N2216.2 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.3",
+      "description": "Ref. N2216.3 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.4",
+      "description": "Ref. N2216.4 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.5",
+      "description": "Ref. N2216.5 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.6",
+      "description": "Ref. N2216.6 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.7",
+      "description": "Ref. N2216.7 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2216.8",
+      "description": "Ref. N2216.8 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2016.50",
+      "description": "Ref. 2016.50 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2016.60",
+      "description": "Ref. 2016.60 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2016.65",
+      "description": "Ref. 2016.65 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "2016.9",
+      "description": "Ref. 2016.9 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2016.1",
+      "description": "Ref. 2016.1 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2016.2",
+      "description": "Ref. 2016.2 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2016.3",
+      "description": "Ref. 2016.3 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1192",
+      "description": "Ref. T1192 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1393.1",
+      "description": "Ref. T1393.1 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1373",
+      "description": "Ref. T1373 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1088",
+      "description": "Ref. T1088 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1000",
+      "description": "Ref. T1000 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "T1172",
+      "description": "Ref. T1172 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1092",
+      "description": "Ref. T1092 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T109",
+      "description": "Ref. T109 - Bastidor para Toma de Datos (RJ45) (Color: PL)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "T1173",
+      "description": "Ref. T1173 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1193",
+      "description": "Ref. T1193 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "T1174",
+      "description": "Ref. T1174 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1194",
+      "description": "Ref. T1194 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "T1175",
+      "description": "Ref. T1175 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1195",
+      "description": "Ref. T1195 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1093",
+      "description": "Ref. T1093 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1094",
+      "description": "Ref. T1094 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1016.3",
+      "description": "Ref. T1016.3 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1120",
+      "description": "Ref. T1120 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1110",
+      "description": "Ref. T1110 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1111",
+      "description": "Ref. T1111 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1016.4",
+      "description": "Ref. T1016.4 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1100",
+      "description": "Ref. T1100 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1120.1",
+      "description": "Ref. T1120.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1110.1",
+      "description": "Ref. T1110.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1111.1",
+      "description": "Ref. T1111.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1100.1",
+      "description": "Ref. T1100.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1393",
+      "description": "Ref. T1393 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "T1393.9",
+      "description": "Ref. T1393.9 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "0364",
+      "description": "Ref. 0364 - Bastidor para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "7021",
+      "description": "Ref. 7021 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "T1373.4",
+      "description": "Ref. T1373.4 - Tapa para Toma de Datos (RJ45)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "N2171.1",
+      "description": "Ref. N2171.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "N2271.1",
+      "description": "Ref. N2271.1 - Bastidor para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Marco",
+      "sku": "N2272.1",
+      "description": "Ref. N2272.1 - Marco para Toma de Datos (RJ45) (Color: BL)"
+    },
+    {
+      "type": "Marco",
+      "sku": "N2273.1",
+      "description": "Ref. N2273.1 - Marco para Toma de Datos (RJ45) (Color: BL)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

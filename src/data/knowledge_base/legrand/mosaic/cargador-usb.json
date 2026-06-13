@@ -1,0 +1,259 @@
+{
+  "brand": "Legrand",
+  "series": "mosaic",
+  "mechanism_id": "cargador-usb",
+  "mechanism_name": "Cargador USB",
+  "description": "Mecanismo Cargador USB de la serie mosaic de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "5V DC"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "078761",
+      "description": "Ref. 078761 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078782",
+      "description": "Ref. 078782 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079282",
+      "description": "Ref. 079282 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078783",
+      "description": "Ref. 078783 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "078784",
+      "description": "Ref. 078784 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077561",
+      "description": "Ref. 077561 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079261",
+      "description": "Ref. 079261 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077562",
+      "description": "Ref. 077562 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077563",
+      "description": "Ref. 077563 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077581",
+      "description": "Ref. 077581 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079281",
+      "description": "Ref. 079281 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077583",
+      "description": "Ref. 077583 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077025",
+      "description": "Ref. 077025 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079225",
+      "description": "Ref. 079225 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077026",
+      "description": "Ref. 077026 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079226",
+      "description": "Ref. 079226 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077591",
+      "description": "Ref. 077591 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079291",
+      "description": "Ref. 079291 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077592",
+      "description": "Ref. 077592 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "079292",
+      "description": "Ref. 079292 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077594",
+      "description": "Ref. 077594 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077598",
+      "description": "Ref. 077598 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077599",
+      "description": "Ref. 077599 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077501",
+      "description": "Ref. 077501 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077511",
+      "description": "Ref. 077511 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077521",
+      "description": "Ref. 077521 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077522",
+      "description": "Ref. 077522 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077541",
+      "description": "Ref. 077541 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077543",
+      "description": "Ref. 077543 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "077315",
+      "description": "Ref. 077315 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077070",
+      "description": "Ref. 077070 - Tapa para Cargador USB"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079270",
+      "description": "Ref. 079270 - Tapa para Cargador USB"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077071",
+      "description": "Ref. 077071 - Tapa para Cargador USB"
+    },
+    {
+      "type": "Tapa",
+      "sku": "079271",
+      "description": "Ref. 079271 - Tapa para Cargador USB"
+    },
+    {
+      "type": "Tapa",
+      "sku": "077072",
+      "description": "Ref. 077072 - Tapa para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078401",
+      "description": "Ref. 078401 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "079201",
+      "description": "Ref. 079201 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078402",
+      "description": "Ref. 078402 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078404",
+      "description": "Ref. 078404 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078511",
+      "description": "Ref. 078511 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078512",
+      "description": "Ref. 078512 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "078521",
+      "description": "Ref. 078521 - Lámpara para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077300",
+      "description": "Ref. 077300 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077310",
+      "description": "Ref. 077310 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "3.680",
+      "description": "Ref. 3.680 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "CR2032",
+      "description": "Ref. CR2032 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "079310",
+      "description": "Ref. 079310 - Bastidor para Cargador USB"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

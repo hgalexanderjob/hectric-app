@@ -1,0 +1,269 @@
+{
+  "brand": "Legrand",
+  "series": "niloe-step",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Enchufe Schuko",
+  "description": "Mecanismo Enchufe Schuko de la serie niloe-step de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "16A"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "864001",
+      "description": "Ref. 864001 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864301",
+      "description": "Ref. 864301 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864501",
+      "description": "Ref. 864501 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864005",
+      "description": "Ref. 864005 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864305",
+      "description": "Ref. 864305 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864505",
+      "description": "Ref. 864505 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864003",
+      "description": "Ref. 864003 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864303",
+      "description": "Ref. 864303 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864503",
+      "description": "Ref. 864503 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864006",
+      "description": "Ref. 864006 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864306",
+      "description": "Ref. 864306 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864506",
+      "description": "Ref. 864506 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864020",
+      "description": "Ref. 864020 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864320",
+      "description": "Ref. 864320 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864520",
+      "description": "Ref. 864520 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864021",
+      "description": "Ref. 864021 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864024",
+      "description": "Ref. 864024 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864324",
+      "description": "Ref. 864324 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864524",
+      "description": "Ref. 864524 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864032",
+      "description": "Ref. 864032 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864332",
+      "description": "Ref. 864332 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864532",
+      "description": "Ref. 864532 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864033",
+      "description": "Ref. 864033 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1.000",
+      "description": "Ref. 1.000 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864333",
+      "description": "Ref. 864333 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864533",
+      "description": "Ref. 864533 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864051",
+      "description": "Ref. 864051 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864351",
+      "description": "Ref. 864351 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864551",
+      "description": "Ref. 864551 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864052",
+      "description": "Ref. 864052 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864053",
+      "description": "Ref. 864053 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864041",
+      "description": "Ref. 864041 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ11",
+      "description": "Ref. RJ11 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864341",
+      "description": "Ref. 864341 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864541",
+      "description": "Ref. 864541 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864042",
+      "description": "Ref. 864042 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864342",
+      "description": "Ref. 864342 - Mecanismo para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864002",
+      "description": "Ref. 864002 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864302",
+      "description": "Ref. 864302 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864502",
+      "description": "Ref. 864502 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864012",
+      "description": "Ref. 864012 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864007",
+      "description": "Ref. 864007 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864008",
+      "description": "Ref. 864008 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864308",
+      "description": "Ref. 864308 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864508",
+      "description": "Ref. 864508 - Lámpara para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864023",
+      "description": "Ref. 864023 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864323",
+      "description": "Ref. 864323 - Tapa para Enchufe Schuko"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864523",
+      "description": "Ref. 864523 - Tapa para Enchufe Schuko"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

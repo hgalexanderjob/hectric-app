@@ -1,0 +1,244 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "conmutador",
+  "mechanism_name": "Conmutador",
+  "description": "Mecanismo Conmutador de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 BL",
+      "description": "Ref. N2102 BL - Conmutador 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 BB",
+      "description": "Ref. N2102 BB - Conmutador 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 AN",
+      "description": "Ref. N2102 AN - Conmutador 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 AA",
+      "description": "Ref. N2102 AA - Conmutador 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 PL",
+      "description": "Ref. N2102 PL - Conmutador 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 CV",
+      "description": "Ref. N2102 CV - Conmutador 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 NT",
+      "description": "Ref. N2102 NT - Conmutador 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102 DN",
+      "description": "Ref. N2102 DN - Conmutador 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 BL",
+      "description": "Ref. N2202 BL - Conmutador 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 BB",
+      "description": "Ref. N2202 BB - Conmutador 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 AN",
+      "description": "Ref. N2202 AN - Conmutador 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 AA",
+      "description": "Ref. N2202 AA - Conmutador 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 PL",
+      "description": "Ref. N2202 PL - Conmutador 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 CV",
+      "description": "Ref. N2202 CV - Conmutador 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 NT",
+      "description": "Ref. N2202 NT - Conmutador 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202 DN",
+      "description": "Ref. N2202 DN - Conmutador 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 BL",
+      "description": "Ref. N2110 BL - Cruzamiento 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 BB",
+      "description": "Ref. N2110 BB - Cruzamiento 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 AN",
+      "description": "Ref. N2110 AN - Cruzamiento 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 AA",
+      "description": "Ref. N2110 AA - Cruzamiento 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 PL",
+      "description": "Ref. N2110 PL - Cruzamiento 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 CV",
+      "description": "Ref. N2110 CV - Cruzamiento 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 NT",
+      "description": "Ref. N2110 NT - Cruzamiento 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2110 DN",
+      "description": "Ref. N2110 DN - Cruzamiento 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 BL",
+      "description": "Ref. N2210 BL - Cruzamiento 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 BB",
+      "description": "Ref. N2210 BB - Cruzamiento 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 AN",
+      "description": "Ref. N2210 AN - Cruzamiento 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 AA",
+      "description": "Ref. N2210 AA - Cruzamiento 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 PL",
+      "description": "Ref. N2210 PL - Cruzamiento 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 CV",
+      "description": "Ref. N2210 CV - Cruzamiento 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 NT",
+      "description": "Ref. N2210 NT - Cruzamiento 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2210 DN",
+      "description": "Ref. N2210 DN - Cruzamiento 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 BL",
+      "description": "Ref. N2102.51 BL - Conmutador con piloto de control 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 AN",
+      "description": "Ref. N2102.51 AN - Conmutador con piloto de control 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 PL",
+      "description": "Ref. N2102.51 PL - Conmutador con piloto de control 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 CV",
+      "description": "Ref. N2102.51 CV - Conmutador con piloto de control 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 NT",
+      "description": "Ref. N2102.51 NT - Conmutador con piloto de control 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2102.51 DN",
+      "description": "Ref. N2102.51 DN - Conmutador con piloto de control 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 BL",
+      "description": "Ref. N2202.51 BL - Conmutador con piloto de control 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 AN",
+      "description": "Ref. N2202.51 AN - Conmutador con piloto de control 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 PL",
+      "description": "Ref. N2202.51 PL - Conmutador con piloto de control 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 CV",
+      "description": "Ref. N2202.51 CV - Conmutador con piloto de control 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 NT",
+      "description": "Ref. N2202.51 NT - Conmutador con piloto de control 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2202.51 DN",
+      "description": "Ref. N2202.51 DN - Conmutador con piloto de control 2 módulos Duna"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

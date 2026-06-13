@@ -1,0 +1,149 @@
+{
+  "brand": "Legrand",
+  "series": "celiane",
+  "mechanism_id": "persianas",
+  "mechanism_name": "Persianas",
+  "description": "Mecanismo Persianas de la serie celiane de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "067251",
+      "description": "Ref. 067251 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067252",
+      "description": "Ref. 067252 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067256",
+      "description": "Ref. 067256 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067257",
+      "description": "Ref. 067257 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067271",
+      "description": "Ref. 067271 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067272",
+      "description": "Ref. 067272 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067276",
+      "description": "Ref. 067276 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067273",
+      "description": "Ref. 067273 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068601",
+      "description": "Ref. 068601 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068602",
+      "description": "Ref. 068602 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068603",
+      "description": "Ref. 068603 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068604",
+      "description": "Ref. 068604 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068901",
+      "description": "Ref. 068901 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068902",
+      "description": "Ref. 068902 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "068921",
+      "description": "Ref. 068921 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069201",
+      "description": "Ref. 069201 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069211",
+      "description": "Ref. 069211 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "069001",
+      "description": "Ref. 069001 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "080261",
+      "description": "Ref. 080261 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "080252",
+      "description": "Ref. 080252 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "080253",
+      "description": "Ref. 080253 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "080254",
+      "description": "Ref. 080254 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080251",
+      "description": "Ref. 080251 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "068731",
+      "description": "Ref. 068731 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "068732",
+      "description": "Ref. 068732 - Bastidor para Persianas"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

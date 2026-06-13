@@ -1,0 +1,80 @@
+Interruptor monopolar.
+10 AX / 250 V~
+Para iluminación de
+orientación nocturna
+combinar con lámparas
+Ref.: 6190 y 6192
+Mecanismos válidos para
+teclas Refs.: 8701, 8701.3
+Código: 8101
+
+Conmutador.
+10 AX / 250 V~
+Para iluminación de
+orientación nocturna
+combinar con lámparas
+Ref.: 6190 y 6192
+Mecanismos válidos para
+teclas Refs.: 8701, 8701.3
+Código: 8102
+
+Cruzamiento.
+10 AX / 250 V~
+Para iluminación de
+orientación nocturna
+combinar con lámparas
+Ref.: 6190 y 6192
+Mecanismos válidos para
+teclas Refs.: 8701, 8701.3
+Código: 8110
+
+Interruptor conmutador 16A
+16 AX / 250 V~
+Para iluminación
+combinar con lámparas
+Refs.: 6190 y 6192
+Mecanismo válido para
+teclas refs.: 8701, 8701.3
+Código: 8102.1
+
+Interruptor monopolar con piloto de control
+10 AX / 250 V~
+Con lámpara incorporada
+Ref. 6192
+Mecanismo válido para
+tecla Ref.: 8701.3
+Código: 8101.5
+
+Conmutador con piloto de control
+10 AX / 250 V~
+Con lámpara incorporada
+Ref. 6192
+Mecanismo válido para
+tecla Ref.: 8701.3
+Código: 8102.5
+
+Interruptor bipolar 16A
+16 AX / 250 V~
+Para iluminación de
+orientación nocturna o
+piloto de control combinar
+con lámparas Refs.: 6190
+y 6192. Mecanismo válido
+para teclas Refs.: 8701.2,
+y 8701.4
+Código: 8101.1
+
+Interruptor bipolar
+10 AX / 250 V~
+Para iluminación de
+orientación nocturna o
+piloto de control combinar
+con lámparas
+Refs.: 6190 y 6192
+Mecanismo válido para
+teclas Refs.: 8701.2, y
+8701.4
+Código: 8101.2
+
+ 
+

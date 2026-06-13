@@ -1,0 +1,75 @@
+<!-- ========== Interruptor ========== -->
+Interruptor monopolar sin garras 8101
+Interruptor bipolar 16A 8101.1
+Interruptor bipolar 8101.2
+Interruptor monopolar con piloto de control 8101.5
+Interruptor monopolar con garras 8101.8
+<!-- ========== End Interruptor ========== -->
+
+<!-- ========== Conmutador ========== -->
+Conmutador sin garras 8102
+Interruptor conmutador 16 A 8102.1
+Conmutador con piloto de control 8102.5
+Conmutador con garras 8102.8
+Cruzamiento 8110
+<!-- ========== End Conmutador ========== -->
+
+<!-- ========== Pulsador ========== -->
+Pulsador sin garras 8104
+Pulsador con piloto de control 8104.5
+Pulsador con garras 8104.8
+Pulsador normalmente cerrado 8104.9
+<!-- ========== End Pulsador ========== -->
+
+<!-- ========== Combinaciones ========== -->
+Doble interruptor 8111
+Doble conmutador 8122
+Doble pulsador 8144.2
+Conmutador + pulsador 8142
+Pulsador + conmutador 8142.1
+<!-- ========== End Combinaciones ========== -->
+
+<!-- ========== Pulsador / interruptor para persianas ========== -->
+Pulsador para persianas 8144
+Interruptor para persianas 8144.1
+<!-- ========== End Pulsador / interruptor para persianas ========== -->
+
+<!-- ========== Bases de enchufe ========== -->
+Bipolar con T.T. lateral Schuko sin garras 8188
+Bipolar con T.T. lateral Schuko con garras 8188.5
+Bipolar con TT lateral Schuko conexión automática 8188.6
+Bipolar con T.T. sistema francés 8187
+Base de enchufe con doble cargador USB A+C 8188.4
+<!-- ========== End Bases de enchufe ========== -->
+
+<!-- ========== Cargadores USB ========== -->
+Cargador USB C+C 8185.5
+<!-- ========== End Cargadores USB ========== -->
+
+<!-- ========== Tomas de teléfono ========== -->
+Toma teléfono RJ12 8117
+<!-- ========== End Tomas de teléfono ========== -->
+
+<!-- ========== Toma de Datos ========== -->
+Toma informática 8118
+<!-- ========== End Toma de Datos ========== -->
+
+<!-- ========== Tomas de televisión ========== -->
+Tomas de televisión TV-R 8150
+Tomas de televisión TV-R 8150.3
+Tomas de televisión TV-R 8150.7
+Tomas de televisión TV/R-SAT 8151.3
+Tomas de televisión TV/R-SAT 8151.7
+Tomas de televisión TV/R-SAT 8151.8
+<!-- ========== End Tomas de televisión ========== -->
+
+<!-- ========== Reguladores ========== -->
+Regulador electrónico giratorio LED 8160.7
+Regulador electrónico giratorio 1-10 VDC 8160.9
+Potenciómetro DALI 8161.6
+Potenciómetro DALI con fuente de alimentación 8161.7
+<!-- ========== End Reguladores ========== -->
+  
+<!-- ========== Timbre / Zumbador ========== -->  
+Timbre cuatro melod�as 8124.2  
+Zumbador 8119 

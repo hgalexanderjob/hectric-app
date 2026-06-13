@@ -1,0 +1,44 @@
+{
+  "brand": "Niessen",
+  "series": "ocean",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptor",
+  "description": "Mecanismo Interruptor de la serie ocean de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8101",
+      "description": "Ref. 8101 - Interruptor monopolar"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8101.5",
+      "description": "Ref. 8101.5 - Interruptor monopolar con piloto de control"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8101.1",
+      "description": "Ref. 8101.1 - Interruptor bipolar 16A"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8101.2",
+      "description": "Ref. 8101.2 - Interruptor bipolar"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

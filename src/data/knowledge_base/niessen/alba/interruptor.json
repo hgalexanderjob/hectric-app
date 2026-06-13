@@ -1,106 +1,49 @@
 {
   "brand": "Niessen",
-  "series": "Alba",
+  "series": "alba",
   "mechanism_id": "interruptor",
-  "mechanism_name": "Interruptor / Conmutador / Cruzamiento",
-  "description": "Línea ALBA es una nueva línea de interruptores que mira al futuro. Un diseño atemporal basado en materiales sostenibles (92% a 98% de material reciclado en acabados mate). Los interruptores comparten compatibilidad funcional total con los mecanismos de lujo de Niessen.",
+  "mechanism_name": "Interruptor",
+  "description": "Mecanismo Interruptor de la serie alba de Niessen.",
   "technical_specs": {
-    "voltage": "250 V~",
-    "amperage": "10 AX (estándar) / 16 AX (ref. 8101.1 y 8102.1)",
-    "terminal_type": "Automático",
-    "ip_rating": "IP20",
-    "led_compatibility": "200 W SBL: LEDi, CFLi",
-    "certifications": [
-      "Certificado AENOR conforme a UNE-EN 60669-1",
-      "Certificado CB conforme a IEC 60669-1"
-    ],
-    "regulations": [
-      "Declaración de Conformidad CE",
-      "Directiva europea de Baja tensión 2014/35/UE",
-      "UNE-EN 60669-1",
-      "Directiva europea RoHS 2011/65/EU",
-      "EN IEC 63000"
-    ]
+    "voltage": "250V~",
+    "amperage": "10AX"
   },
   "installation_steps": [
-    "Identificar el mecanismo necesario: Interruptor (2 bornes), Conmutador (3 bornes) o Cruzamiento (4 bornes).",
-    "Conectar el cable de Fase al borne marcado con 'L'.",
-    "Conectar los cables de retorno o vuelta de lámpara a los bornes correspondientes.",
-    "Para opciones con piloto, acoplar la lámpara LED (ref. 6192 BL o 6192.24 BL) en la parte frontal del mecanismo.",
-    "Fijar el bastidor metálico a la caja universal de pared asegurando que quede recto.",
-    "Acoplar el marco embellecedor ALBA (disponible en acabados cristal, metal o reciclado) y presionar la tecla hasta escuchar un clic."
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
   ],
   "bom_references": [
     {
       "type": "Mecanismo",
       "sku": "8101",
-      "description": "Interruptor monopolar 10 AX (200W SBL LEDi)",
-      "packaging_units": 10
+      "description": "Ref. 8101 - Interruptor monopolar"
     },
     {
       "type": "Mecanismo",
       "sku": "8101.1",
-      "description": "Interruptor bipolar 16 A",
-      "packaging_units": 10
+      "description": "Ref. 8101.1 - Interruptor bipolar 16 A"
     },
     {
       "type": "Mecanismo",
-      "sku": "8102",
-      "description": "Conmutador 10 AX (200W SBL LEDi)",
-      "packaging_units": 10
+      "sku": "8101.2",
+      "description": "Ref. 8101.2 - Interruptor bipolar"
     },
     {
       "type": "Mecanismo",
-      "sku": "8102.1",
-      "description": "Interruptor conmutador 16 A",
-      "packaging_units": 10
+      "sku": "8101.5",
+      "description": "Ref. 8101.5 - Interruptor monopolar con piloto de control"
     },
     {
       "type": "Mecanismo",
-      "sku": "8110",
-      "description": "Cruzamiento 10 AX",
-      "packaging_units": 10
-    },
-    {
-      "type": "Tecla",
-      "sku": "8901 XX",
-      "description": "Tecla estándar sin visor ALBA (XX: BL, BT, NT, GR)",
-      "packaging_units": 20
-    },
-    {
-      "type": "Tecla",
-      "sku": "8901.2 XX",
-      "description": "Tecla On-Off sin visor ALBA",
-      "packaging_units": 5
-    },
-    {
-      "type": "Tecla",
-      "sku": "8901.3 XX",
-      "description": "Tecla con visor ALBA",
-      "packaging_units": 5
-    },
-    {
-      "type": "Tecla",
-      "sku": "8901.4 XX",
-      "description": "Tecla On-Off con visor ALBA",
-      "packaging_units": 5
-    },
-    {
-      "type": "Accesorio",
-      "sku": "6192 BL",
-      "description": "Lámpara LED 230V blanca, larga duración, 0.2mA (Orientación/Piloto)",
-      "packaging_units": 10
-    },
-    {
-      "type": "Accesorio",
-      "sku": "6192.24 BL",
-      "description": "Lámpara LED 24V blanca, 1.5mA",
-      "packaging_units": 10
+      "sku": "8101.8",
+      "description": "Ref. 8101.8 - Interruptor monopolar con garras"
     }
   ],
   "warnings": [
-    "Asegurarse de cortar la corriente antes de manipular los cables.",
-    "Para opciones con piloto de control (ej. 8101.5), la lámpara 6192 BL ya viene incorporada.",
-    "Material de teclas mates fabricado con hasta un 98% de material reciclado."
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
   ]
 }

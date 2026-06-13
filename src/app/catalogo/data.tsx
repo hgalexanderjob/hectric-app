@@ -22,12 +22,12 @@ export const brandsData: Brand[] = [
     name: "Niessen",
     logoSrc: "/assets/images/brands/logos/niessen-logo.png",
     series: [
-      { name: "Alba", href: "/catalogo/niessen/alba", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/alba-fondo-gris.png", badge: "Novedad", description: "La serie Alba de Niessen destaca por su diseño plano, minimalista y sostenible. Fabricada con materiales reciclados, es la elección perfecta para espacios modernos que buscan sofisticación con un bajo impacto ambiental.", modelsCount: 386 },
-      { name: "Ocean", href: "/catalogo/niessen/ocean", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/ocean-interruptores.png", description: "Niessen Ocean es la solución estanca por excelencia. Diseñada específicamente para soportar las condiciones más extremas, ofrece protección IP44 ideal para terrazas, jardines y entornos industriales.", modelsCount: 89 },
-      { name: "Over", href: "/catalogo/niessen/over", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/over.png", description: "Una serie de superficie con líneas suaves y funcionales. Ideal para instalaciones donde no es posible empotrar, garantizando la calidad y fiabilidad clásica de los mecanismos Niessen.", modelsCount: 34 },
-      { name: "Sky", href: "/catalogo/niessen/sky", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/sky-cristal-blanco.png", badge: "Popular", description: "Sky Niessen ofrece un diseño extraplano de tan solo 8,5 mm de grosor, aportando un toque de elegancia y distinción. Sus acabados nobles la convierten en un referente en decoración e interiorismo.", modelsCount: 272 },
-      { name: "Vega", href: "/catalogo/niessen/vega", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/vega-fondo-gris.png", bannerImage: "/hectric/niessen/assets/png/mechanisms/niessen-vega-banner.jpg", description: "Diseño atemporal con líneas rectas y acabados impecables. Niessen Vega se adapta perfectamente a proyectos de iluminación contemporáneos, siendo un estándar en fiabilidad y facilidad de instalación.", modelsCount: 813 },
-      { name: "Zenit", href: "/catalogo/niessen/zenit", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/zenit-cristal-blanco.png", bannerImage: "/hectric/niessen/assets/png/mechanisms/niessen-zenit-banner.png", description: "Zenit es la serie modular más completa y versátil de Niessen. Con una instalación sencilla por la parte frontal y una enorme variedad de funciones, es el mecanismo número uno para profesionales y hogares inteligentes.", modelsCount: 1688 },
+      { name: "Alba", href: "/catalogo/niessen/alba", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/niessen-alba-catalogo.png", badge: "Novedad", description: "La serie Alba de Niessen destaca por su diseño plano, minimalista y sostenible. Fabricada con materiales reciclados, es la elección perfecta para espacios modernos que buscan sofisticación con un bajo impacto ambiental.", modelsCount: 40 },
+      { name: "Ocean", href: "/catalogo/niessen/ocean", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/ocean-interruptores.png", description: "Niessen Ocean es la solución estanca por excelencia. Diseñada específicamente para soportar las condiciones más extremas, ofrece protección IP44 ideal para terrazas, jardines y entornos industriales.", modelsCount: 30 },
+      { name: "Over", href: "/catalogo/niessen/over", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/over.png", description: "Una serie de superficie con líneas suaves y funcionales. Ideal para instalaciones donde no es posible empotrar, garantizando la calidad y fiabilidad clásica de los mecanismos Niessen.", modelsCount: 27 },
+      { name: "Sky", href: "/catalogo/niessen/sky", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/niessen-sky-catalogo.png", badge: "Popular", description: "Sky Niessen ofrece un diseño extraplano de tan solo 8,5 mm de grosor, aportando un toque de elegancia y distinción. Sus acabados nobles la convierten en un referente en decoración e interiorismo.", modelsCount: 79 },
+      { name: "Vega", href: "/catalogo/niessen/vega", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/niessen-vega-catalogo.png", bannerImage: "/hectric/niessen/assets/png/mechanisms/niessen-vega-banner.jpg", description: "Diseño atemporal con líneas rectas y acabados impecables. Niessen Vega se adapta perfectamente a proyectos de iluminación contemporáneos, siendo un estándar en fiabilidad y facilidad de instalación.", modelsCount: 91 },
+      { name: "Zenit", href: "/catalogo/niessen/zenit", thumbnail: "/assets/images/category/mechanisms/niessen.png", image: "/hectric/niessen/assets/png/mechanisms/niessen-zenit-catalogo.png", bannerImage: "/hectric/niessen/assets/png/mechanisms/niessen-zenit-banner.png", description: "Zenit es la serie modular más completa y versátil de Niessen. Con una instalación sencilla por la parte frontal y una enorme variedad de funciones, es el mecanismo número uno para profesionales y hogares inteligentes.", modelsCount: 490 },
     ],
   },
   {
@@ -35,14 +35,14 @@ export const brandsData: Brand[] = [
     name: "Legrand",
     logoSrc: "/assets/images/brands/logos/1200px-Logo_Legrand.png",
     series: [
-      { name: "Arteor", href: "/catalogo/legrand/arteor", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/artelor.png", description: "Innovación y vanguardia mundial. Arteor de Legrand se define por su diseño exclusivo y soporte para domótica avanzada, diseñado para usuarios globales que buscan lujo tecnológico." },
-      { name: "Céliane", href: "/catalogo/legrand/celiane", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/celiane.png", badge: "Popular", description: "La magia de combinar el círculo y el rectángulo. Céliane ofrece multitud de funciones innovadoras, desde cargadores inductivos hasta interruptores silenciosos, con acabados en materiales puros como cristal, metal y madera." },
-      { name: "Mosaic", href: "/catalogo/legrand/mosaic", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/mosaic.png", description: "La referencia indiscutible para entornos de trabajo, oficinas y hospitales. Legrand Mosaic es modular, rápida de instalar y ofrece funciones específicas para el sector terciario." },
-      { name: "Niloé Step", href: "/catalogo/legrand/niloe-step", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/niloe-step.png", description: "Funcionalidad esencial con un toque contemporáneo. Niloé Step es respetuosa con el medio ambiente, fácil de instalar y cuenta con la garantía de seguridad Legrand a un precio accesible." },
-      { name: "Oteo", href: "/catalogo/legrand/oteo", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/oteo.png", description: "Mecanismos monobloc de superficie. Oteo es la solución práctica, compacta y económica para ampliaciones eléctricas sin obras, garantizando la robustez de Legrand." },
-      { name: "Plexo", href: "/catalogo/legrand/plexo", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/legrand-plexo.png", description: "El mecanismo estanco IP55 más reconocido del mercado. Plexo está diseñado para resistir la humedad, el polvo y los golpes (IK07), siendo imprescindible en garajes, exteriores y naves industriales." },
-      { name: "Soliroc", href: "/catalogo/legrand/soliroc", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/soliroc.png", description: "Mecanismo antivandálico por excelencia. Fabricado con aleaciones metálicas (IK10), Soliroc garantiza una extrema resistencia en zonas públicas, cárceles o colegios sin perder la estética." },
-      { name: "Valena Next", href: "/catalogo/legrand/valena-next", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/valena-next.png", badge: "Novedad", description: "Diseño elegante y la puerta de entrada a la vivienda conectada. Valena Next integra 'Netatmo' para convertir fácilmente cualquier hogar convencional en un espacio inteligente." },
+      { name: "Arteor", href: "/catalogo/legrand/arteor", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/artelor.png", description: "Innovación y vanguardia mundial. Arteor de Legrand se define por su diseño exclusivo y soporte para domótica avanzada, diseñado para usuarios globales que buscan lujo tecnológico.", modelsCount: 1540 },
+      { name: "Céliane", href: "/catalogo/legrand/celiane", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/celiane.png", badge: "Popular", description: "La magia de combinar el círculo y el rectángulo. Céliane ofrece multitud de funciones innovadoras, desde cargadores inductivos hasta interruptores silenciosos, con acabados en materiales puros como cristal, metal y madera.", modelsCount: 1205 },
+      { name: "Mosaic", href: "/catalogo/legrand/mosaic", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/mosaic.png", description: "La referencia indiscutible para entornos de trabajo, oficinas y hospitales. Legrand Mosaic es modular, rápida de instalar y ofrece funciones específicas para el sector terciario.", modelsCount: 1150 },
+      { name: "Niloé Step", href: "/catalogo/legrand/niloe-step", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/niloe-step.png", description: "Funcionalidad esencial con un toque contemporáneo. Niloé Step es respetuosa con el medio ambiente, fácil de instalar y cuenta con la garantía de seguridad Legrand a un precio accesible.", modelsCount: 342 },
+      { name: "Oteo", href: "/catalogo/legrand/oteo", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/oteo.png", description: "Mecanismos monobloc de superficie. Oteo es la solución práctica, compacta y económica para ampliaciones eléctricas sin obras, garantizando la robustez de Legrand.", modelsCount: 128 },
+      { name: "Plexo", href: "/catalogo/legrand/plexo", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/legrand-plexo.png", description: "El mecanismo estanco IP55 más reconocido del mercado. Plexo está diseñado para resistir la humedad, el polvo y los golpes (IK07), siendo imprescindible en garajes, exteriores y naves industriales.", modelsCount: 265 },
+      { name: "Soliroc", href: "/catalogo/legrand/soliroc", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/soliroc.png", description: "Mecanismo antivandálico por excelencia. Fabricado con aleaciones metálicas (IK10), Soliroc garantiza una extrema resistencia en zonas públicas, cárceles o colegios sin perder la estética.", modelsCount: 84 },
+      { name: "Valena Next", href: "/catalogo/legrand/valena-next", thumbnail: "/assets/images/category/mechanisms/legrand.png", image: "/hectric/legrand/assets/png/mechanisms/valena-next.png", badge: "Novedad", description: "Diseño elegante y la puerta de entrada a la vivienda conectada. Valena Next integra 'Netatmo' para convertir fácilmente cualquier hogar convencional en un espacio inteligente.", modelsCount: 680 },
     ],
   },
   {
@@ -104,48 +104,68 @@ import React from 'react';
 export type MechanismType = {
   id: string;
   name: string;
-  iconSvg: React.ReactNode; 
+  iconSvg: React.ReactNode;
 };
 
 export const standardMechanisms: MechanismType[] = [
   {
     id: "interruptor",
-    name: "Interruptor / Conmutador",
-    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/><circle cx="12" cy="12" r="4"/></g>,
+    name: "Interruptor",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><circle cx="12" cy="12" r="4" /></g>,
   },
   {
     id: "enchufe-schuko",
     name: "Enchufe Schuko",
-    iconSvg: <g fill="none"><path stroke="currentColor" strokeWidth="1.5" d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/><circle cx="12" cy="12" r="6" stroke="currentColor" strokeWidth="1.5"/><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 18v-1.5m0-9V6" opacity=".5"/><circle cx="14" cy="12" r="1" fill="currentColor"/><circle cx="10" cy="12" r="1" fill="currentColor"/></g>,
-  },
-  {
-    id: "cruzamiento",
-    name: "Cruzamiento",
-    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/><path strokeLinecap="round" d="m14.5 9.5l-5 5m0-5l5 5"/></g>,
+    iconSvg: <g fill="none"><path stroke="currentColor" strokeWidth="1.5" d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><circle cx="12" cy="12" r="6" stroke="currentColor" strokeWidth="1.5" /><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 18v-1.5m0-9V6" opacity=".5" /><circle cx="14" cy="12" r="1" fill="currentColor" /><circle cx="10" cy="12" r="1" fill="currentColor" /></g>,
   },
   {
     id: "toma-tv",
     name: "Toma TV / SAT",
-    iconSvg: <g fill="none"><path stroke="currentColor" strokeWidth="1.5" d="M22 16c0 2.828 0 4.243-.879 5.121C20.243 22 18.828 22 16 22H8c-2.828 0-4.243 0-5.121-.879C2 20.243 2 18.828 2 16v-4c0-2.828 0-4.243.879-5.121C3.757 6 5.172 6 8 6h8c2.828 0 4.243 0 5.121.879C22 7.757 22 9.172 22 12z"/><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="m9 2l3 3.5L15 2" opacity=".5"/><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M16 6v16"/><path fill="currentColor" d="M20 16a1 1 0 1 0-2 0a1 1 0 0 0 2 0m0-4a1 1 0 1 0-2 0a1 1 0 0 0 2 0" opacity=".5"/></g>,
+    iconSvg: <g fill="none"><path stroke="currentColor" strokeWidth="1.5" d="M22 16c0 2.828 0 4.243-.879 5.121C20.243 22 18.828 22 16 22H8c-2.828 0-4.243 0-5.121-.879C2 20.243 2 18.828 2 16v-4c0-2.828 0-4.243.879-5.121C3.757 6 5.172 6 8 6h8c2.828 0 4.243 0 5.121.879C22 7.757 22 9.172 22 12z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="m9 2l3 3.5L15 2" opacity=".5" /><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M16 6v16" /><path fill="currentColor" d="M20 16a1 1 0 1 0-2 0a1 1 0 0 0 2 0m0-4a1 1 0 1 0-2 0a1 1 0 0 0 2 0" opacity=".5" /></g>,
   },
   {
     id: "toma-datos",
     name: "Toma de Datos (RJ45)",
-    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2.364 12.958c-.38-2.637-.57-3.956-.029-5.083s1.691-1.813 3.992-3.183l1.385-.825C9.8 2.622 10.846 2 12 2s2.199.622 4.288 1.867l1.385.825c2.3 1.37 3.451 2.056 3.992 3.183s.35 2.446-.03 5.083l-.278 1.937c-.487 3.388-.731 5.081-1.906 6.093S16.553 22 13.106 22h-2.212c-3.447 0-5.17 0-6.345-1.012s-1.419-2.705-1.906-6.093z" opacity=".5"/><path strokeLinecap="round" d="M6 11.683c3.314-3.577 8.686-3.577 12 0M8 13.84c2.21-2.384 5.79-2.384 8 0M10 16c1.105-1.192 2.896-1.192 4 0"/></g>,
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2.364 12.958c-.38-2.637-.57-3.956-.029-5.083s1.691-1.813 3.992-3.183l1.385-.825C9.8 2.622 10.846 2 12 2s2.199.622 4.288 1.867l1.385.825c2.3 1.37 3.451 2.056 3.992 3.183s.35 2.446-.03 5.083l-.278 1.937c-.487 3.388-.731 5.081-1.906 6.093S16.553 22 13.106 22h-2.212c-3.447 0-5.17 0-6.345-1.012s-1.419-2.705-1.906-6.093z" opacity=".5" /><path strokeLinecap="round" d="M6 11.683c3.314-3.577 8.686-3.577 12 0M8 13.84c2.21-2.384 5.79-2.384 8 0M10 16c1.105-1.192 2.896-1.192 4 0" /></g>,
   },
   {
     id: "cargador-usb",
     name: "Cargador USB",
-    iconSvg: <g fill="none"><circle cx="12" cy="17" r="1" stroke="currentColor" strokeWidth="1.5"/><circle cx="8" cy="9" r="1" stroke="currentColor" strokeWidth="1.5"/><path fill="currentColor" d="M11.25 16a.75.75 0 0 0 1.5 0zM12 6l.53-.53a.75.75 0 0 0-1.06 0zm.47 1.53a.75.75 0 1 0 1.06-1.06zm-2-1.06a.75.75 0 0 0 1.06 1.06zm1 .06l1 1l1.06-1.06l-1-1zm0-1.06l-1 1l1.06 1.06l1-1zM12.75 16v-1.875h-1.5V16zm0-1.875V6h-1.5v8.125z"/><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M8 10v1.03a2 2 0 0 0 1.403 1.909l1.404.438A1.7 1.7 0 0 1 12 15m4-4v1.03a2 2 0 0 1-1.403 1.909l-1.404.438A1.7 1.7 0 0 0 12 16"/><path stroke="currentColor" strokeWidth="1.5" d="M15 10c0-.471 0-.707.146-.854C15.293 9 15.53 9 16 9s.707 0 .854.146C17 9.293 17 9.53 17 10s0 .707-.146.854C16.707 11 16.47 11 16 11s-.707 0-.854-.146C15 10.707 15 10.47 15 10Z"/><path stroke="currentColor" strokeWidth="1.5" d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/></g>,
+    iconSvg: <g fill="none"><circle cx="12" cy="17" r="1" stroke="currentColor" strokeWidth="1.5" /><circle cx="8" cy="9" r="1" stroke="currentColor" strokeWidth="1.5" /><path fill="currentColor" d="M11.25 16a.75.75 0 0 0 1.5 0zM12 6l.53-.53a.75.75 0 0 0-1.06 0zm.47 1.53a.75.75 0 1 0 1.06-1.06zm-2-1.06a.75.75 0 0 0 1.06 1.06zm1 .06l1 1l1.06-1.06l-1-1zm0-1.06l-1 1l1.06 1.06l1-1zM12.75 16v-1.875h-1.5V16zm0-1.875V6h-1.5v8.125z" /><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M8 10v1.03a2 2 0 0 0 1.403 1.909l1.404.438A1.7 1.7 0 0 1 12 15m4-4v1.03a2 2 0 0 1-1.403 1.909l-1.404.438A1.7 1.7 0 0 0 12 16" /><path stroke="currentColor" strokeWidth="1.5" d="M15 10c0-.471 0-.707.146-.854C15.293 9 15.53 9 16 9s.707 0 .854.146C17 9.293 17 9.53 17 10s0 .707-.146.854C16.707 11 16.47 11 16 11s-.707 0-.854-.146C15 10.707 15 10.47 15 10Z" /><path stroke="currentColor" strokeWidth="1.5" d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /></g>,
   },
   {
     id: "regulador",
     name: "Regulador (Dimmer)",
-    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/><path strokeLinecap="round" strokeLinejoin="round" d="m15.978 8.715l-.442-.453a4.92 4.92 0 0 0-7.072 0c-1.952 1.999-1.952 5.24 0 7.239a4.92 4.92 0 0 0 7.072 0a5.18 5.18 0 0 0 1.425-4.259m-.983-2.527h-2.652m2.651 0V6"/></g>,
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><path strokeLinecap="round" strokeLinejoin="round" d="m15.978 8.715l-.442-.453a4.92 4.92 0 0 0-7.072 0c-1.952 1.999-1.952 5.24 0 7.239a4.92 4.92 0 0 0 7.072 0a5.18 5.18 0 0 0 1.425-4.259m-.983-2.527h-2.652m2.651 0V6" /></g>,
   },
   {
     id: "persianas",
     name: "Persianas",
-    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5"/><path strokeLinecap="round" strokeLinejoin="round" d="M9.5 8v8m0 0L7 13.25M9.5 16l2.5-2.75M14.5 16V8m0 0L12 10.75M14.5 8l2.5 2.75"/></g>,
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><path strokeLinecap="round" strokeLinejoin="round" d="M9.5 8v8m0 0L7 13.25M9.5 16l2.5-2.75M14.5 16V8m0 0L12 10.75M14.5 8l2.5 2.75" /></g>,
+  },
+  {
+    id: "conmutador",
+    name: "Conmutador",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><path strokeLinecap="round" d="m9.5 14.5l5-5m0 5l-5-5" /></g>,
+  },
+  {
+    id: "pulsador",
+    name: "Pulsador",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><circle cx="12" cy="12" r="3" fill="currentColor" /></g>,
+  },
+  {
+    id: "combinaciones",
+    name: "Combinaciones",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><circle cx="9" cy="12" r="2" /><circle cx="15" cy="12" r="2" /></g>,
+  },
+  {
+    id: "timbre-zumbador",
+    name: "Timbre / Zumbador",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><path strokeLinecap="round" strokeLinejoin="round" d="M10 17h4c.5 0 1-.5 1-1V9c0-1.657-1.343-3-3-3s-3 1.343-3 3v7c0 .5.5 1 1 1Z" /><path strokeLinecap="round" d="M12 17v2" /></g>,
+  },
+  {
+    id: "toma-telefono",
+    name: "Tomas de Teléfono",
+    iconSvg: <g fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12Z" opacity=".5" /><path strokeLinecap="round" strokeLinejoin="round" d="M8 10c0-1.5 1-3 4-3s4 1.5 4 3v4c0 1.5-1 3-4 3s-4-1.5-4-3v-4Z" /><circle cx="12" cy="14" r="1" fill="currentColor" /></g>,
   },
 ];

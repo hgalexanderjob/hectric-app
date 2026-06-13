@@ -1,0 +1,11 @@
+Pulsador de persianas
+10 A; 250 V~
+Con enclavamiento de tecla.
+Tecla ref. 8844 y 8844.08.
+Código: 8144
+
+Interruptor de persianas
+10 A; 250 V~
+Con enclavamiento de tecla.
+Tecla ref. 8844 y 8844.08.
+Código: 8144.1

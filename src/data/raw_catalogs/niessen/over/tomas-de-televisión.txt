@@ -1,0 +1,16 @@
+Toma de TVR / SAT única
+Para instalación en
+estrella (sin resistencia de
+cierre).
+Código: 1552 BL
+
+Toma de TVR / SAT final
+Toma final para instalación
+en serie o cascada.
+Código: 1551.1 BL
+
+Toma de TVR / SAT intermedia
+Toma intermedia para
+instalación en serie o
+cascada.
+Código: 1551.2 BL

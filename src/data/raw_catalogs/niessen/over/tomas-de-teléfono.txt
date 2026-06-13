@@ -1,0 +1,15 @@
+Toma de teléfono RJ11
+Conector RJ11 de 4
+contactos. Válido para
+jack de 4 contactos.
+Sólo para reposición y
+reforma cuando no haya
+una ICT.
+Código: 1517 BL
+
+Toma de teléfono RJ12
+Conector RJ12 de 6
+contactos. Válido para
+jack de 2/4/6 contactos.
+Código: 1517.6 BL
+

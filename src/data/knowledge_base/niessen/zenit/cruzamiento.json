@@ -1,0 +1,89 @@
+{
+  "brand": "Niessen",
+  "series": "zenit",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie zenit de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "N2260.3",
+      "description": "Ref. N2260.3 - Mecanismo para Cruzamiento (Color: BL)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2192",
+      "description": "Ref. N2192 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2110",
+      "description": "Ref. N2110 - Lámpara para Cruzamiento (Color: BL)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2191",
+      "description": "Ref. N2191 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2201",
+      "description": "Ref. N2201 - Lámpara para Cruzamiento (Color: BL)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2210",
+      "description": "Ref. N2210 - Lámpara para Cruzamiento (Color: BL)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2214.1",
+      "description": "Ref. N2214.1 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2193",
+      "description": "Ref. N2193 - Lámpara para Cruzamiento (Color: BB)"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2101",
+      "description": "Ref. N2101 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2102",
+      "description": "Ref. N2102 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2104",
+      "description": "Ref. N2104 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "N2109",
+      "description": "Ref. N2109 - Tapa para Cruzamiento (Color: BL)"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "N2260.9",
+      "description": "Ref. N2260.9 - Lámpara para Cruzamiento (Color: BL)"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

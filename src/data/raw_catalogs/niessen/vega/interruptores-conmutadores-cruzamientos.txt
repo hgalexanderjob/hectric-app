@@ -1,0 +1,69 @@
+Interruptor monopolar sin garras
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8101
+
+Interruptor bipolar 16A
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8101.1
+
+Interruptor bipolar
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8101.2
+
+Interruptor monopolar con piloto de control
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8101.5
+
+Interruptor monopolar con garras
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8101.8
+
+Conmutador sin garras
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8102
+
+Interruptor conmutador 16 A
+16 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8102.1
+
+Conmutador con piloto de control
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8102.5
+
+Conmutador con garras
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8102.8
+
+Cruzamiento
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.2, 8801.28, 8801.3, 8801.38, 8801.4 y 8801.48.
+Código: 8110

@@ -1,0 +1,6 @@
+Interruptor doble
+10 AX ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1511 BL

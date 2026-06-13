@@ -1,0 +1,27 @@
+Pulsador
+10 A; 250 V~
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901.09, 8901.39, 8904.09, 8904.29, 8904.39 y 8904.49.
+Código: 8104
+
+Pulsador con piloto de control
+10 A; 250 V~
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8901.39, 8904.39 y 8904.49.
+Recomendado para gobernar mecanismos electrónicos.
+Código: 8104.5
+
+Pulsador con garras
+10 A; 250 V~
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901.09, 8901.39, 8904.09, 8904.29, 8904.39 y 8904.49.
+Código: 8104.8
+
+Pulsador normalmente cerrado
+10 A; 250 V~
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901.09, 8901.39, 8904.09, 8904.29, 8904.39 y 8904.49.
+Código: 8104.9

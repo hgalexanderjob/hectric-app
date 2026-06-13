@@ -1,0 +1,94 @@
+{
+  "brand": "Legrand",
+  "series": "oteo",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie oteo de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "086004",
+      "description": "Ref. 086004 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086104",
+      "description": "Ref. 086104 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086020",
+      "description": "Ref. 086020 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086031",
+      "description": "Ref. 086031 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086131",
+      "description": "Ref. 086131 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086077",
+      "description": "Ref. 086077 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086144",
+      "description": "Ref. 086144 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ45",
+      "description": "Ref. RJ45 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086147",
+      "description": "Ref. 086147 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086159",
+      "description": "Ref. 086159 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086006",
+      "description": "Ref. 086006 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086106",
+      "description": "Ref. 086106 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086084",
+      "description": "Ref. 086084 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "086085",
+      "description": "Ref. 086085 - Mecanismo para Cruzamiento"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

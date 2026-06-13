@@ -1,0 +1,28 @@
+Pulsador campana
+10 A ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Código: 1504 BL
+
+Pulsador campana con orientación nocturna.
+10 A ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1504.3 BL
+
+Pulsador luz con orientación nocturna
+10 A ; 250 V~
+Con sistema de conexión
+tipo “tornillo y tuerca
+deslizante”.
+Con lámpara código 1591
+BL incorporada.
+Código: 1504.4 BL
+
+
+
+

@@ -1,0 +1,419 @@
+{
+  "brand": "Legrand",
+  "series": "niloe-step",
+  "mechanism_id": "persianas",
+  "mechanism_name": "Persianas",
+  "description": "Mecanismo Persianas de la serie niloe-step de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "864001",
+      "description": "Ref. 864001 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864301",
+      "description": "Ref. 864301 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864501",
+      "description": "Ref. 864501 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864005",
+      "description": "Ref. 864005 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864305",
+      "description": "Ref. 864305 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864505",
+      "description": "Ref. 864505 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864003",
+      "description": "Ref. 864003 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864303",
+      "description": "Ref. 864303 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864503",
+      "description": "Ref. 864503 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864006",
+      "description": "Ref. 864006 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864306",
+      "description": "Ref. 864306 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864506",
+      "description": "Ref. 864506 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864020",
+      "description": "Ref. 864020 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864320",
+      "description": "Ref. 864320 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864520",
+      "description": "Ref. 864520 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864013",
+      "description": "Ref. 864013 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864313",
+      "description": "Ref. 864313 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864513",
+      "description": "Ref. 864513 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864014",
+      "description": "Ref. 864014 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864016",
+      "description": "Ref. 864016 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864316",
+      "description": "Ref. 864316 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864516",
+      "description": "Ref. 864516 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864380",
+      "description": "Ref. 864380 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864580",
+      "description": "Ref. 864580 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864085",
+      "description": "Ref. 864085 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864081",
+      "description": "Ref. 864081 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864381",
+      "description": "Ref. 864381 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864581",
+      "description": "Ref. 864581 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864082",
+      "description": "Ref. 864082 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864382",
+      "description": "Ref. 864382 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864582",
+      "description": "Ref. 864582 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864088",
+      "description": "Ref. 864088 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864388",
+      "description": "Ref. 864388 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864588",
+      "description": "Ref. 864588 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864391",
+      "description": "Ref. 864391 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864591",
+      "description": "Ref. 864591 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864092",
+      "description": "Ref. 864092 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864392",
+      "description": "Ref. 864392 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864592",
+      "description": "Ref. 864592 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864093",
+      "description": "Ref. 864093 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864393",
+      "description": "Ref. 864393 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864593",
+      "description": "Ref. 864593 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864094",
+      "description": "Ref. 864094 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "064888",
+      "description": "Ref. 064888 - Mecanismo para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864002",
+      "description": "Ref. 864002 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864302",
+      "description": "Ref. 864302 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864502",
+      "description": "Ref. 864502 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864012",
+      "description": "Ref. 864012 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864007",
+      "description": "Ref. 864007 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864008",
+      "description": "Ref. 864008 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864308",
+      "description": "Ref. 864308 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864508",
+      "description": "Ref. 864508 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864015",
+      "description": "Ref. 864015 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864315",
+      "description": "Ref. 864315 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864515",
+      "description": "Ref. 864515 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864018",
+      "description": "Ref. 864018 - Lámpara para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864030",
+      "description": "Ref. 864030 - Tapa para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864330",
+      "description": "Ref. 864330 - Tapa para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864530",
+      "description": "Ref. 864530 - Tapa para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864031",
+      "description": "Ref. 864031 - Tapa para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864331",
+      "description": "Ref. 864331 - Tapa para Persianas"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864531",
+      "description": "Ref. 864531 - Tapa para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864080",
+      "description": "Ref. 864080 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "3.680",
+      "description": "Ref. 3.680 - Bastidor para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "CR2032",
+      "description": "Ref. CR2032 - Lámpara para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864091",
+      "description": "Ref. 864091 - Bastidor para Persianas"
+    },
+    {
+      "type": "Tecla",
+      "sku": "864028",
+      "description": "Ref. 864028 - Tecla para Persianas"
+    },
+    {
+      "type": "Tecla",
+      "sku": "864328",
+      "description": "Ref. 864328 - Tecla para Persianas"
+    },
+    {
+      "type": "Tecla",
+      "sku": "864528",
+      "description": "Ref. 864528 - Tecla para Persianas"
+    },
+    {
+      "type": "Tecla",
+      "sku": "864029",
+      "description": "Ref. 864029 - Tecla para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864098",
+      "description": "Ref. 864098 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864099",
+      "description": "Ref. 864099 - Lámpara para Persianas"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "064871",
+      "description": "Ref. 064871 - Lámpara para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864095",
+      "description": "Ref. 864095 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864395",
+      "description": "Ref. 864395 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864595",
+      "description": "Ref. 864595 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864096",
+      "description": "Ref. 864096 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864097",
+      "description": "Ref. 864097 - Bastidor para Persianas"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "864090",
+      "description": "Ref. 864090 - Bastidor para Persianas"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

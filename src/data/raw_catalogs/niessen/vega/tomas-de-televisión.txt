@@ -1,0 +1,33 @@
+Toma TV-R resistiva sin filtro
+Toma final.
+Instalación en derivación/estrella.
+Tapa ref. 8850.
+Código: 8150
+
+Toma TV-R resistiva con filtro
+Toma final.
+Toma TV/R compatible con CATV.
+Instalación en derivación/estrella.
+Tapa ref. 8850.
+Código: 8150.3
+
+Toma TV-R inductiva intermedia
+Desde la 2ª a la 4ª.
+Instalación en serie/cascada.
+Tapa ref. 8850.
+Código: 8150.7
+
+Toma TV-R SAT única
+Instalación en estrella (sin resistencia de cierre).
+Tapa ref. 8850.1.
+Código: 8151.3
+
+Toma TV-R SAT final
+Toma final para instalación en serie o cascada.
+Tapa ref. 8850.1.
+Código: 8151.7
+
+Toma TV-R SAT intermedia
+Toma intermedia para instalación en serie o cascada.
+Tapa ref. 8850.1.
+Código: 8151.8

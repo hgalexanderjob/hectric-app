@@ -1,0 +1,154 @@
+{
+  "brand": "Legrand",
+  "series": "celiane",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie celiane de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "067381",
+      "description": "Ref. 067381 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067383",
+      "description": "Ref. 067383 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067384",
+      "description": "Ref. 067384 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067385",
+      "description": "Ref. 067385 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067338",
+      "description": "Ref. 067338 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "RJ11",
+      "description": "Ref. RJ11 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067339",
+      "description": "Ref. 067339 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067377",
+      "description": "Ref. 067377 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067378",
+      "description": "Ref. 067378 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067379",
+      "description": "Ref. 067379 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067372",
+      "description": "Ref. 067372 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "HD15",
+      "description": "Ref. HD15 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067373",
+      "description": "Ref. 067373 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067368",
+      "description": "Ref. 067368 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067364",
+      "description": "Ref. 067364 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067365",
+      "description": "Ref. 067365 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067261",
+      "description": "Ref. 067261 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067262",
+      "description": "Ref. 067262 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067260",
+      "description": "Ref. 067260 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "CR2032",
+      "description": "Ref. CR2032 - Mecanismo para Toma TV / SAT (Color: BL)"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "067251",
+      "description": "Ref. 067251 - Mecanismo para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067069",
+      "description": "Ref. 067069 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067079",
+      "description": "Ref. 067079 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067070",
+      "description": "Ref. 067070 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067080",
+      "description": "Ref. 067080 - Tapa para Toma TV / SAT"
+    },
+    {
+      "type": "Tapa",
+      "sku": "067081",
+      "description": "Ref. 067081 - Tapa para Toma TV / SAT"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

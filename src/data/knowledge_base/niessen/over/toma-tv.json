@@ -1,0 +1,39 @@
+{
+  "brand": "Niessen",
+  "series": "over",
+  "mechanism_id": "toma-tv",
+  "mechanism_name": "Toma TV / SAT",
+  "description": "Mecanismo Toma TV / SAT de la serie over de Niessen.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "1552 BL",
+      "description": "Ref. 1552 BL - Toma de TVR / SAT única"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1551.1 BL",
+      "description": "Ref. 1551.1 BL - Toma de TVR / SAT final"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "1551.2 BL",
+      "description": "Ref. 1551.2 BL - Toma de TVR / SAT intermedia"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

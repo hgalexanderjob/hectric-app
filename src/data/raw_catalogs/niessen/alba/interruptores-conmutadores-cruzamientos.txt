@@ -1,0 +1,112 @@
+Interruptor monopolar
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8101
+
+Interruptor bipolar 16A
+16 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna o piloto de control, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8101.1
+
+Interruptor bipolar
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna o piloto de control, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8101.2
+
+Interruptor monopolar con piloto de control
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8901.3 y 8901.4
+Código: 8101.5
+
+Interruptor monopolar con garras
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8101.8
+
+Conmutador
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8102
+
+Interruptor conmutador 16A
+16 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8102.1
+
+Conmutador con piloto de control
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8901.3 y 8901.4
+Código: 8102.5
+
+Conmutador con garras
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8102.8
+
+Cruzamiento
+10 AX ; 250 V~
+200 W SBL: LEDi, CFLi
+Para iluminación nocturna, lámparas
+ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8901, 8901.2, 8901.3 y 8901.4
+Código: 8110
+
+Interruptor bipolar
+10 AX ; 250 V~
+100 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Tapa ref. 8914
+Código: 8114
+
+Interruptor bipolar 16A
+16 AX ; 250 V~
+Con lámpara 6192 BL incorporada.
+Tapa ref. 8914
+Código: 8114.1
+
+Conmutador
+10 AX ; 250 V~
+100 W SBL: LEDi, CFLi
+Con lámpara 6192 BL incorporada.
+Tapa ref. 8914
+Código: 8114.2
+
+Interruptor con temporización a la desconexión
+127 V~ ; 60 Hz / 230 V~ ; 50 Hz
+400 W SBL : LEDi, CFLi
+3000 W / VA a 230 Vac
+1300 VA a 230 Vac
+Con lámpara incorporada.
+Temporización a la desconexión: 5 - 90 seg.
+Tapa ref. 8914
+Código: 8114.5
+
+
+
+
+

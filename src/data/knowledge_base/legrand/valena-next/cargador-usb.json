@@ -1,0 +1,139 @@
+{
+  "brand": "Legrand",
+  "series": "valena-next",
+  "mechanism_id": "cargador-usb",
+  "mechanism_name": "Cargador USB",
+  "description": "Mecanismo Cargador USB de la serie valena-next de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "5V DC"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "741231",
+      "description": "Ref. 741231 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741331",
+      "description": "Ref. 741331 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741431",
+      "description": "Ref. 741431 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741232",
+      "description": "Ref. 741232 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741332",
+      "description": "Ref. 741332 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741432",
+      "description": "Ref. 741432 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741270",
+      "description": "Ref. 741270 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741370",
+      "description": "Ref. 741370 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741470",
+      "description": "Ref. 741470 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741272",
+      "description": "Ref. 741272 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741372",
+      "description": "Ref. 741372 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741472",
+      "description": "Ref. 741472 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741271",
+      "description": "Ref. 741271 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741371",
+      "description": "Ref. 741371 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741471",
+      "description": "Ref. 741471 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741273",
+      "description": "Ref. 741273 - Mecanismo para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "2.400",
+      "description": "Ref. 2.400 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "1.200",
+      "description": "Ref. 1.200 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080251",
+      "description": "Ref. 080251 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "080261",
+      "description": "Ref. 080261 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "62479",
+      "description": "Ref. 62479 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "077598",
+      "description": "Ref. 077598 - Bastidor para Cargador USB"
+    },
+    {
+      "type": "Bastidor",
+      "sku": "50083",
+      "description": "Ref. 50083 - Bastidor para Cargador USB"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

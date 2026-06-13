@@ -1,91 +1,274 @@
 {
   "brand": "Niessen",
-  "series": "Zenit",
+  "series": "zenit",
   "mechanism_id": "interruptor",
-  "mechanism_name": "Interruptores, Conmutadores y Cruzamientos",
-  "description": "Mecanismos de mando de la serie Zenit de Niessen. La serie modular más completa del mercado. Perfiles ultra finos (desde 3,9 mm en Zenit S), materiales ecosostenibles y diseño vanguardista. Disponen de instalación frontal y ocupan menos espacio en la caja (solo 21 mm de profundidad).",
+  "mechanism_name": "Interruptor",
+  "description": "Mecanismo Interruptor de la serie zenit de Niessen.",
   "technical_specs": {
-    "voltage": "250 V~",
-    "amperage": "16 AX (para toda la gama estándar)",
-    "terminal_type": "Automático (Empujadores rediseñados más grandes y suaves)",
-    "wire_stripping_mm": 14,
-    "ip_rating": "IP20 (Ampliable a IP44 con marco especial o IP40 con caja de superficie)",
-    "led_compatibility": "Hasta 200W en cargas LED (según últimos requisitos IEC)",
-    "certifications": [
-      "Diseño Ecológico certificado según ISO 14006 (Ecosolutions)"
-    ],
-    "features": [
-      "Instalación frontal desde el marco",
-      "Formatos modulares: 1 módulo (estrecho) o 2 módulos (ancho)",
-      "Sistema de conexión automática que ahorra hasta un 40% de tiempo de instalación",
-      "Nueva iluminación LED blanca en lugar de neón verde, consume menos energía y dura 10 años"
-    ]
+    "voltage": "250V~",
+    "amperage": "10AX"
   },
   "installation_steps": [
-    "Paso 1: Desconectar la corriente principal.",
-    "Paso 2: Pelar el cable unos 14 mm e introducirlo en el terminal automático.",
-    "Paso 3: Para desconectar, presionar el empujador y tirar del cable.",
-    "Paso 4: Fijar el bastidor (metálico con tratamiento anticorrosivo) a la caja universal.",
-    "Paso 5: Insertar el mecanismo desde la parte frontal hasta hacer 'click'. El sistema frontal simplifica la tarea en cajas con muchos cables.",
-    "Paso 6: Si utiliza iluminación, el piloto LED blanco (ref. N2191) se cambia desde la parte frontal sin desmontar cables.",
-    "Paso 7: Colocar el marco embellecedor Zenit S o Zenit Básico."
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
   ],
   "bom_references": [
     {
-      "type": "Mecanismo (1 Módulo)",
-      "sku": "N2101 XX",
-      "description": "Interruptor monopolar 1 módulo 16 AX. Iluminable.",
-      "packaging_units": 20
-    },
-    {
-      "type": "Mecanismo (1 Módulo)",
-      "sku": "N2102 XX",
-      "description": "Conmutador 1 módulo 16 AX. Iluminable.",
-      "packaging_units": 20
-    },
-    {
-      "type": "Mecanismo (2 Módulos)",
-      "sku": "N2201 XX",
-      "description": "Interruptor monopolar 2 módulos 16 AX. Iluminable.",
-      "packaging_units": 10
-    },
-    {
-      "type": "Mecanismo (2 Módulos)",
-      "sku": "N2202 XX",
-      "description": "Conmutador 2 módulos 16 AX. Iluminable.",
-      "packaging_units": 10
+      "type": "Mecanismo",
+      "sku": "N2101 BL",
+      "description": "Ref. N2101 BL - Interruptor monopolar 1 módulo Blanco"
     },
     {
       "type": "Mecanismo",
-      "sku": "N2101.51 XX",
-      "description": "Interruptor monopolar con piloto de control y visor transparente (1 Módulo)",
-      "packaging_units": 5
+      "sku": "N2101 BB",
+      "description": "Ref. N2101 BB - Interruptor monopolar 1 módulo Blanco Blanco"
     },
     {
-      "type": "Accesorio",
-      "sku": "N2191 BB",
-      "description": "Lámpara LED blanca 110-220V para interruptores monopolares (Consumo <0,2mA)",
-      "packaging_units": 10
+      "type": "Mecanismo",
+      "sku": "N2101 AN",
+      "description": "Ref. N2101 AN - Interruptor monopolar 1 módulo Antracita"
     },
     {
-      "type": "Accesorio",
-      "sku": "N2192 BB",
-      "description": "Lámpara LED blanca 110-220V para conmutadores y cruzamientos",
-      "packaging_units": 10
-    }
-  ],
-  "faqs": [
-    {
-      "question": "¿Qué significa que Zenit sea 'modular'?",
-      "answer": "Significa que la base ocupa un tamaño estandarizado (1 módulo estrecho o 2 módulos anchos) lo que permite poner, por ejemplo, dos interruptores de 1 módulo dentro del mismo espacio (ventana) de un marco tradicional."
+      "type": "Mecanismo",
+      "sku": "N2101 AA",
+      "description": "Ref. N2101 AA - Interruptor monopolar 1 módulo Antracita Antracita"
     },
     {
-      "question": "¿Cómo se ilumina el interruptor?",
-      "answer": "La serie Zenit ha sustituido el neón verde por un LED de color blanco que dura 10 años. Se instala y cambia directamente desde el frontal retirando la tapa del mecanismo."
+      "type": "Mecanismo",
+      "sku": "N2101 PL",
+      "description": "Ref. N2101 PL - Interruptor monopolar 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101 CV",
+      "description": "Ref. N2101 CV - Interruptor monopolar 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101 NT",
+      "description": "Ref. N2101 NT - Interruptor monopolar 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101 DN",
+      "description": "Ref. N2101 DN - Interruptor monopolar 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 BL",
+      "description": "Ref. N2201 BL - Interruptor monopolar 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 BB",
+      "description": "Ref. N2201 BB - Interruptor monopolar 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 AN",
+      "description": "Ref. N2201 AN - Interruptor monopolar 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 AA",
+      "description": "Ref. N2201 AA - Interruptor monopolar 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 PL",
+      "description": "Ref. N2201 PL - Interruptor monopolar 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 CV",
+      "description": "Ref. N2201 CV - Interruptor monopolar 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 NT",
+      "description": "Ref. N2201 NT - Interruptor monopolar 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201 DN",
+      "description": "Ref. N2201 DN - Interruptor monopolar 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 BL",
+      "description": "Ref. N2101.2 BL - Interruptor bipolar 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 BB",
+      "description": "Ref. N2101.2 BB - Interruptor bipolar 1 módulo Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 AN",
+      "description": "Ref. N2101.2 AN - Interruptor bipolar 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 AA",
+      "description": "Ref. N2101.2 AA - Interruptor bipolar 1 módulo Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 PL",
+      "description": "Ref. N2101.2 PL - Interruptor bipolar 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 CV",
+      "description": "Ref. N2101.2 CV - Interruptor bipolar 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 NT",
+      "description": "Ref. N2101.2 NT - Interruptor bipolar 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.2 DN",
+      "description": "Ref. N2101.2 DN - Interruptor bipolar 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 BL",
+      "description": "Ref. N2201.2 BL - Interruptor bipolar 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 BB",
+      "description": "Ref. N2201.2 BB - Interruptor bipolar 2 módulos Blanco Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 AN",
+      "description": "Ref. N2201.2 AN - Interruptor bipolar 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 AA",
+      "description": "Ref. N2201.2 AA - Interruptor bipolar 2 módulos Antracita Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 PL",
+      "description": "Ref. N2201.2 PL - Interruptor bipolar 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 CV",
+      "description": "Ref. N2201.2 CV - Interruptor bipolar 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 NT",
+      "description": "Ref. N2201.2 NT - Interruptor bipolar 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.2 DN",
+      "description": "Ref. N2201.2 DN - Interruptor bipolar 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 BL",
+      "description": "Ref. N2101.51 BL - Interruptor monopolar con piloto de control 1 módulo Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 AN",
+      "description": "Ref. N2101.51 AN - Interruptor monopolar con piloto de control 1 módulo Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 PL",
+      "description": "Ref. N2101.51 PL - Interruptor monopolar con piloto de control 1 módulo Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 CV",
+      "description": "Ref. N2101.51 CV - Interruptor monopolar con piloto de control 1 módulo Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 NT",
+      "description": "Ref. N2101.51 NT - Interruptor monopolar con piloto de control 1 módulo Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 DN",
+      "description": "Ref. N2101.51 DN - Interruptor monopolar con piloto de control 1 módulo Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 BL",
+      "description": "Ref. N2201.51 BL - Interruptor monopolar con piloto de control 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 AN",
+      "description": "Ref. N2201.51 AN - Interruptor monopolar con piloto de control 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 PL",
+      "description": "Ref. N2201.51 PL - Interruptor monopolar con piloto de control 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 CV",
+      "description": "Ref. N2201.51 CV - Interruptor monopolar con piloto de control 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 NT",
+      "description": "Ref. N2201.51 NT - Interruptor monopolar con piloto de control 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2201.51 DN",
+      "description": "Ref. N2201.51 DN - Interruptor monopolar con piloto de control 2 módulos Duna"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 BL",
+      "description": "Ref. N2262.1 BL - Interruptor temporizado de triac 2 módulos Blanco"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 AN",
+      "description": "Ref. N2262.1 AN - Interruptor temporizado de triac 2 módulos Antracita"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 PL",
+      "description": "Ref. N2262.1 PL - Interruptor temporizado de triac 2 módulos Plata"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 CV",
+      "description": "Ref. N2262.1 CV - Interruptor temporizado de triac 2 módulos Cava"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 NT",
+      "description": "Ref. N2262.1 NT - Interruptor temporizado de triac 2 módulos Negro Mate"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2262.1 DN",
+      "description": "Ref. N2262.1 DN - Interruptor temporizado de triac 2 módulos Duna"
     }
   ],
   "warnings": [
-    "Precaución eléctrica. Corte la corriente en el cuadro principal.",
-    "Los acabados disponibles son: Blanco (BL), Antracita (AN), Plata (PL), Cava (CV), Negro Mate (NT), Duna (DN) y los nuevos modelos Zenit S."
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
   ]
 }

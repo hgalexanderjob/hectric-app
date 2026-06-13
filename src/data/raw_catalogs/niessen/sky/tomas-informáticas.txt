@@ -1,0 +1,7 @@
+Toma informática RJ45
+8 contactos.
+UPT Categoría 5E (mejorada).
+Frecuencia: 1-160 MHz
+Transmisión: 1,2Gb/seg
+Tapa ref. 8917
+Código: 8118

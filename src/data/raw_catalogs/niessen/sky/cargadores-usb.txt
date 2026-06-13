@@ -1,0 +1,9 @@
+Cargador USB A+C
+Tensión entrada: 100 - 240 V AC ± 10 %
+Frecuencia entrada: 50 - 60 Hz
+Corriente entrada: 0,20 A AC
+Tensión salida: 5V DC +5 /-5 %
+Corriente salida: 18W compartidos.
+Compatible con conectores USB A y C.
+Tapa ref. 8985
+Código: 8185.1

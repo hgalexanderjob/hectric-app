@@ -1,0 +1,490 @@
+<!-- ========== Interruptor ========== -->
+Interruptor monopolar 1 módulo Blanco N2101 BL
+Interruptor monopolar 1 módulo Blanco Blanco N2101 BB
+Interruptor monopolar 1 módulo Antracita N2101 AN
+Interruptor monopolar 1 módulo Antracita Antracita N2101 AA
+Interruptor monopolar 1 módulo Plata N2101 PL
+Interruptor monopolar 1 módulo Cava N2101 CV
+Interruptor monopolar 1 módulo Negro Mate N2101 NT
+Interruptor monopolar 1 módulo Duna N2101 DN
+
+Interruptor monopolar 2 módulos Blanco N2201 BL
+Interruptor monopolar 2 módulos Blanco Blanco N2201 BB
+Interruptor monopolar 2 módulos Antracita N2201 AN
+Interruptor monopolar 2 módulos Antracita Antracita N2201 AA
+Interruptor monopolar 2 módulos Plata N2201 PL
+Interruptor monopolar 2 módulos Cava N2201 CV
+Interruptor monopolar 2 módulos Negro Mate N2201 NT
+Interruptor monopolar 2 módulos Duna N2201 DN
+
+Interruptor bipolar 1 módulo Blanco N2101.2 BL
+Interruptor bipolar 1 módulo Blanco Blanco N2101.2 BB
+Interruptor bipolar 1 módulo Antracita N2101.2 AN
+Interruptor bipolar 1 módulo Antracita Antracita N2101.2 AA
+Interruptor bipolar 1 módulo Plata N2101.2 PL
+Interruptor bipolar 1 módulo Cava N2101.2 CV
+Interruptor bipolar 1 módulo Negro Mate N2101.2 NT
+Interruptor bipolar 1 módulo Duna N2101.2 DN
+
+Interruptor bipolar 2 módulos Blanco N2201.2 BL
+Interruptor bipolar 2 módulos Blanco Blanco N2201.2 BB
+Interruptor bipolar 2 módulos Antracita N2201.2 AN
+Interruptor bipolar 2 módulos Antracita Antracita N2201.2 AA
+Interruptor bipolar 2 módulos Plata N2201.2 PL
+Interruptor bipolar 2 módulos Cava N2201.2 CV
+Interruptor bipolar 2 módulos Negro Mate N2201.2 NT
+Interruptor bipolar 2 módulos Duna N2201.2 DN
+
+Interruptor monopolar con piloto de control 1 módulo Blanco N2101.51 BL
+Interruptor monopolar con piloto de control 1 módulo Antracita N2101.51 AN
+Interruptor monopolar con piloto de control 1 módulo Plata N2101.51 PL
+Interruptor monopolar con piloto de control 1 módulo Cava N2101.51 CV
+Interruptor monopolar con piloto de control 1 módulo Negro Mate N2101.51 NT
+Interruptor monopolar con piloto de control 1 módulo Duna N2101.51 DN
+
+Interruptor monopolar con piloto de control 2 módulos Blanco N2201.51 BL
+Interruptor monopolar con piloto de control 2 módulos Antracita N2201.51 AN
+Interruptor monopolar con piloto de control 2 módulos Plata N2201.51 PL
+Interruptor monopolar con piloto de control 2 módulos Cava N2201.51 CV
+Interruptor monopolar con piloto de control 2 módulos Negro Mate N2201.51 NT
+Interruptor monopolar con piloto de control 2 módulos Duna N2201.51 DN
+
+Interruptor temporizado de triac 2 módulos Blanco N2262.1 BL
+Interruptor temporizado de triac 2 módulos Antracita N2262.1 AN
+Interruptor temporizado de triac 2 módulos Plata N2262.1 PL
+Interruptor temporizado de triac 2 módulos Cava N2262.1 CV
+Interruptor temporizado de triac 2 módulos Negro Mate N2262.1 NT
+Interruptor temporizado de triac 2 módulos Duna N2262.1 DN
+<!-- ========== End Interruptor ========== -->
+
+<!-- ========== Conmutador ========== -->
+Conmutador 1 módulo Blanco N2102 BL
+Conmutador 1 módulo Blanco Blanco N2102 BB
+Conmutador 1 módulo Antracita N2102 AN
+Conmutador 1 módulo Antracita Antracita N2102 AA
+Conmutador 1 módulo Plata N2102 PL
+Conmutador 1 módulo Cava N2102 CV
+Conmutador 1 módulo Negro Mate N2102 NT
+Conmutador 1 módulo Duna N2102 DN
+
+Conmutador 2 módulos Blanco N2202 BL
+Conmutador 2 módulos Blanco Blanco N2202 BB
+Conmutador 2 módulos Antracita N2202 AN
+Conmutador 2 módulos Antracita Antracita N2202 AA
+Conmutador 2 módulos Plata N2202 PL
+Conmutador 2 módulos Cava N2202 CV
+Conmutador 2 módulos Negro Mate N2202 NT
+Conmutador 2 módulos Duna N2202 DN
+
+Cruzamiento 1 módulo Blanco N2110 BL
+Cruzamiento 1 módulo Blanco Blanco N2110 BB
+Cruzamiento 1 módulo Antracita N2110 AN
+Cruzamiento 1 módulo Antracita Antracita N2110 AA
+Cruzamiento 1 módulo Plata N2110 PL
+Cruzamiento 1 módulo Cava N2110 CV
+Cruzamiento 1 módulo Negro Mate N2110 NT
+Cruzamiento 1 módulo Duna N2110 DN
+
+Cruzamiento 2 módulos Blanco N2210 BL
+Cruzamiento 2 módulos Blanco Blanco N2210 BB
+Cruzamiento 2 módulos Antracita N2210 AN
+Cruzamiento 2 módulos Antracita Antracita N2210 AA
+Cruzamiento 2 módulos Plata N2210 PL
+Cruzamiento 2 módulos Cava N2210 CV
+Cruzamiento 2 módulos Negro Mate N2210 NT
+Cruzamiento 2 módulos Duna N2210 DN
+
+Conmutador con piloto de control 1 módulo Blanco N2102.51 BL
+Conmutador con piloto de control 1 módulo Antracita N2102.51 AN
+Conmutador con piloto de control 1 módulo Plata N2102.51 PL
+Conmutador con piloto de control 1 módulo Cava N2102.51 CV
+Conmutador con piloto de control 1 módulo Negro Mate N2102.51 NT
+Conmutador con piloto de control 1 módulo Duna N2102.51 DN
+
+Conmutador con piloto de control 2 módulos Blanco N2202.51 BL
+Conmutador con piloto de control 2 módulos Antracita N2202.51 AN
+Conmutador con piloto de control 2 módulos Plata N2202.51 PL
+Conmutador con piloto de control 2 módulos Cava N2202.51 CV
+Conmutador con piloto de control 2 módulos Negro Mate N2202.51 NT
+Conmutador con piloto de control 2 módulos Duna N2202.51 DN
+<!-- ========== End Conmutador ========== -->
+
+<!-- ========== Pulsador ========== -->
+Pulsador 1 módulo piloto Blanco N2104.51 BL
+Pulsador 1 módulo piloto Antracita N2104.51 AN
+Pulsador 1 módulo piloto Plata N2104.51 PL
+Pulsador 1 módulo piloto Cava N2104.51 CV
+Pulsador 1 módulo piloto Negro Mate N2104.51 NT
+Pulsador 1 módulo piloto Duna N2104.51 DN
+
+Pulsador 2 módulos piloto Blanco N2204.51 BL
+Pulsador 2 módulos piloto Antracita N2204.51 AN
+Pulsador 2 módulos piloto Plata N2204.51 PL
+Pulsador 2 módulos piloto Cava N2204.51 CV
+Pulsador 2 módulos piloto Negro Mate N2204.51 NT
+Pulsador 2 módulos piloto Duna N2204.51 DN
+
+Pulsador con símbolo timbre 1 módulo Blanco N2104 BL
+Pulsador con símbolo timbre 1 módulo Blanco Blanco N2104 BB
+Pulsador con símbolo timbre 1 módulo Antracita N2104 AN
+Pulsador con símbolo timbre 1 módulo Antracita Antracita N2104 AA
+Pulsador con símbolo timbre 1 módulo Plata N2104 PL
+Pulsador con símbolo timbre 1 módulo Cava N2104 CV
+Pulsador con símbolo timbre 1 módulo Negro Mate N2104 NT
+Pulsador con símbolo timbre 1 módulo Duna N2104 DN
+
+Pulsador con símbolo timbre 2 módulos Blanco N2204 BL
+Pulsador con símbolo timbre 2 módulos Blanco Blanco N2204 BB
+Pulsador con símbolo timbre 2 módulos Antracita N2204 AN
+Pulsador con símbolo timbre 2 módulos Antracita Antracita N2204 AA
+Pulsador con símbolo timbre 2 módulos Plata N2204 PL
+Pulsador con símbolo timbre 2 módulos Cava N2204 CV
+Pulsador con símbolo timbre 2 módulos Negro Mate N2204 NT
+Pulsador con símbolo timbre 2 módulos Duna N2204 DN
+
+Pulsador con símbolo luz 1 módulo Blanco N2104.2 BL
+Pulsador con símbolo luz 1 módulo Blanco Blanco N2104.2 BB
+Pulsador con símbolo luz 1 módulo Antracita N2104.2 AN
+Pulsador con símbolo luz 1 módulo Antracita Antracita N2104.2 AA
+Pulsador con símbolo luz 1 módulo Plata N2104.2 PL
+Pulsador con símbolo luz 1 módulo Cava N2104.2 CV
+Pulsador con símbolo luz 1 módulo Negro Mate N2104.2 NT
+Pulsador con símbolo luz 1 módulo Duna N2104.2 DN
+
+Pulsador con símbolo luz 2 módulos Blanco N2204.2 BL
+Pulsador con símbolo luz 2 módulos Blanco Blanco N2204.2 BB
+Pulsador con símbolo luz 2 módulos Antracita N2204.2 AN
+Pulsador con símbolo luz 2 módulos Antracita Antracita N2204.2 AA
+Pulsador con símbolo luz 2 módulos Plata N2204.2 PL
+Pulsador con símbolo luz 2 módulos Cava N2204.2 CV
+Pulsador con símbolo luz 2 módulos Negro Mate N2204.2 NT
+Pulsador con símbolo luz 2 módulos Duna N2204.2 DN
+
+Pulsador normalmente cerrado sin grabado 1 módulo Blanco N2104.6 BL
+Pulsador normalmente cerrado sin grabado 1 módulo Blanco Blanco N2104.6 BB
+Pulsador normalmente cerrado sin grabado 1 módulo Antracita N2104.6 AN
+Pulsador normalmente cerrado sin grabado 1 módulo Antracita Antracita N2104.6 AA
+Pulsador normalmente cerrado sin grabado 1 módulo Plata N2104.6 PL
+Pulsador normalmente cerrado sin grabado 1 módulo Cava N2104.6 CV
+Pulsador normalmente cerrado sin grabado 1 módulo Negro Mate N2104.6 NT
+Pulsador normalmente cerrado sin grabado 1 módulo Duna N2104.6 DN
+
+Pulsador normalmente cerrado sin grabado 2 módulos Blanco N2204.6 BL
+Pulsador normalmente cerrado sin grabado 2 módulos Blanco Blanco N2204.6 BB
+Pulsador normalmente cerrado sin grabado 2 módulos Antracita N2204.6 AN
+Pulsador normalmente cerrado sin grabado 2 módulos Antracita Antracita N2204.6 AA
+Pulsador normalmente cerrado sin grabado 2 módulos Plata N2204.6 PL
+Pulsador normalmente cerrado sin grabado 2 módulos Cava N2204.6 CV
+Pulsador normalmente cerrado sin grabado 2 módulos Negro Mate N2204.6 NT
+Pulsador normalmente cerrado sin grabado 2 módulos Duna N2204.6 DN
+
+Pulsador sin grabar 1 módulo Blanco N2104.7 BL
+Pulsador sin grabar 1 módulo Blanco Blanco N2104.7 BB
+Pulsador sin grabar 1 módulo Antracita N2104.7 AN
+Pulsador sin grabar 1 módulo Antracita Antracita N2104.7 AA
+Pulsador sin grabar 1 módulo Plata N2104.7 PL
+Pulsador sin grabar 1 módulo Cava N2104.7 CV
+Pulsador sin grabar 1 módulo Negro Mate N2104.7 NT
+Pulsador sin grabar 1 módulo Duna N2104.7 DN
+
+Pulsador sin grabar 2 módulos Blanco N2204.7 BL
+Pulsador sin grabar 2 módulos Blanco Blanco N2204.7 BB
+Pulsador sin grabar 2 módulos Antracita N2204.7 AN
+Pulsador sin grabar 2 módulos Antracita Antracita N2204.7 AA
+Pulsador sin grabar 2 módulos Plata N2204.7 PL
+Pulsador sin grabar 2 módulos Cava N2204.7 CV
+Pulsador sin grabar 2 módulos Negro Mate N2204.7 NT
+Pulsador sin grabar 2 módulos Duna N2204.7 DN
+<!-- ========== End Pulsador ========== -->
+
+<!-- ========== Pulsador / interruptor para persianas ========== -->
+Pulsador para persianas 1 módulo Blanco N2144 BL
+Pulsador para persianas 1 módulo Blanco Blanco N2144 BB
+Pulsador para persianas 1 módulo Antracita N2144 AN
+Pulsador para persianas 1 módulo Antracita Antracita N2144 AA
+Pulsador para persianas 1 módulo Plata N2144 PL
+Pulsador para persianas 1 módulo Cava N2144 CV
+Pulsador para persianas 1 módulo Negro Mate N2144 NT
+Pulsador para persianas 1 módulo Duna N2144 DN
+
+Doble pulsador para persianas 2 módulos Blanco N2244 BL
+Doble pulsador para persianas 2 módulos Blanco Blanco N2244 BB
+Doble pulsador para persianas 2 módulos Antracita N2244 AN
+Doble pulsador para persianas 2 módulos Antracita Antracita N2244 AA
+Doble pulsador para persianas 2 módulos Plata N2244 PL
+Doble pulsador para persianas 2 módulos Cava N2244 CV
+Doble pulsador para persianas 2 módulos Negro Mate N2244 NT
+Doble pulsador para persianas 2 módulos Duna N2244 DN
+
+Interruptor de persianas 1 módulo Blanco N2144.1 BL
+Interruptor de persianas 1 módulo Blanco Blanco N2144.1 BB
+Interruptor de persianas 1 módulo Antracita N2144.1 AN
+Interruptor de persianas 1 módulo Antracita Antracita N2144.1 AA
+Interruptor de persianas 1 módulo Plata N2144.1 PL
+Interruptor de persianas 1 módulo Cava N2144.1 CV
+Interruptor de persianas 1 módulo Negro Mate N2144.1 NT
+Interruptor de persianas 1 módulo Duna N2144.1 DN
+
+Doble interruptor de persianas 2 módulos Blanco N2244.1 BL
+Doble interruptor de persianas 2 módulos Blanco Blanco N2244.1 BB
+Doble interruptor de persianas 2 módulos Antracita N2244.1 AN
+Doble interruptor de persianas 2 módulos Antracita Antracita N2244.1 AA
+Doble interruptor de persianas 2 módulos Plata N2244.1 PL
+Doble interruptor de persianas 2 módulos Cava N2244.1 CV
+Doble interruptor de persianas 2 módulos Negro Mate N2244.1 NT
+Doble interruptor de persianas 2 módulos Duna N2244.1 DN
+
+Interruptor de persianas electrónico 2 módulos Blanco N2261.21 BL
+Interruptor de persianas electrónico 2 módulos Antracita N2261.21 AN
+Interruptor de persianas electrónico 2 módulos Plata N2261.21 PL
+Interruptor de persianas electrónico 2 módulos Cava N2261.21 CV
+Interruptor de persianas electrónico 2 módulos Negro Mate N2261.21 NT
+Interruptor de persianas electrónico 2 módulos Duna N2261.21 DN
+<!-- ========== End Pulsador / interruptor para persianas ========== -->
+
+<!-- ========== Bases de enchufe ========== -->
+Bipolar Euroamericana 1 módulo Blanco N2135 BL
+Bipolar Euroamericana 1 módulo Antracita N2135 AN
+Bipolar Euroamericana 1 módulo Plata N2135 PL
+Bipolar Euroamericana 1 módulo Cava N2135 CV
+Bipolar Euroamericana 1 módulo Negro Mate N2135 NT
+Bipolar Euroamericana 1 módulo Duna N2135 DN
+
+Bipolar con tierra mexicana 1 módulo Blanco N2128 BL
+Bipolar con tierra mexicana 1 módulo Antracita N2128 AN
+Bipolar con tierra mexicana 1 módulo Plata N2128 PL
+Bipolar con tierra mexicana 1 módulo Cava N2128 CV
+Bipolar con tierra mexicana 1 módulo Negro Mate N2128 NT
+Bipolar con tierra mexicana 1 módulo Duna N2128 DN
+
+Bipolar con tierra italiana 19-26 mm 1 módulo Blanco N2133 BL
+Bipolar con tierra italiana 19-26 mm 1 módulo Antracita N2133 AN
+Bipolar con tierra italiana 19-26 mm 1 módulo Plata N2133 PL
+Bipolar con tierra italiana 19-26 mm 1 módulo Cava N2133 CV
+Bipolar con tierra italiana 19-26 mm 1 módulo Negro Mate N2133 NT
+Bipolar con tierra italiana 19-26 mm 1 módulo Duna N2133 DN
+
+Bipolar con tierra italiana 19 mm 1 módulo Blanco N2133.1 BL
+Bipolar con tierra italiana 19 mm 1 módulo Antracita N2133.1 AN
+Bipolar con tierra italiana 19 mm 1 módulo Plata N2133.1 PL
+Bipolar con tierra italiana 19 mm 1 módulo Cava N2133.1 CV
+Bipolar con tierra italiana 19 mm 1 módulo Negro Mate N2133.1 NT
+Bipolar con tierra italiana 19 mm 1 módulo Duna N2133.1 DN
+
+Bipolar con tierra brasileña 20 A 1 módulo Blanco N2136.2 BL
+Bipolar con tierra brasileña 20 A 1 módulo Antracita N2136.2 AN
+Bipolar con tierra brasileña 20 A 1 módulo Plata N2136.2 PL
+Bipolar con tierra brasileña 20 A 1 módulo Cava N2136.2 CV
+Bipolar con tierra brasileña 20 A 1 módulo Negro Mate N2136.2 NT
+Bipolar con tierra brasileña 20 A 1 módulo Duna N2136.2 DN
+
+Base de enchufe British Standard 2 módulos Blanco N2237 BL
+Base de enchufe British Standard 2 módulos Antracita N2237 AN
+Base de enchufe British Standard 2 módulos Plata N2237 PL
+Base de enchufe British Standard 2 módulos Cava N2237 CV
+Base de enchufe British Standard 2 módulos Negro Mate N2237 NT
+Base de enchufe British Standard 2 módulos Duna N2237 DN
+
+Base de enchufe 2P+T Euroamericana 2 módulos Blanco N2238 BL
+Base de enchufe 2P+T Euroamericana 2 módulos Antracita N2238 AN
+Base de enchufe 2P+T Euroamericana 2 módulos Plata N2238 PL
+Base de enchufe 2P+T Euroamericana 2 módulos Cava N2238 CV
+Base de enchufe 2P+T Euroamericana 2 módulos Negro Mate N2238 NT
+Base de enchufe 2P+T Euroamericana 2 módulos Duna N2238 DN
+
+Base de enchufe universal 2 módulos Blanco N2239 BL
+Base de enchufe universal 2 módulos Antracita N2239 AN
+Base de enchufe universal 2 módulos Plata N2239 PL
+Base de enchufe universal 2 módulos Cava N2208 CV
+Base de enchufe universal 2 módulos Negro Mate N2239 NT
+Base de enchufe universal 2 módulos Duna N2239 DN
+
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Blanco N2338 BL
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Antracita N2338 AN
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Plata N2338 PL
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Cava N2338 CV
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Negro Mate N2338 NT
+Base duplex de enchufe 2P+T Euroamericana 3 módulos Duna N2338 DN
+<!-- ========== End Bases de enchufe ========== -->
+<!-- ========== Bases de enchufe (continuación) ========== -->
+Bipolar con T.T. lateral Schuko 2 módulos Blanco N2288 BL
+Bipolar con T.T. lateral Schuko 2 módulos Antracita N2288 AN
+Bipolar con T.T. lateral Schuko 2 módulos Plata N2288 PL
+Bipolar con T.T. lateral Schuko 2 módulos Cava N2288 CV
+Bipolar con T.T. lateral Schuko 2 módulos Negro Mate N2288 NT
+Bipolar con T.T. lateral Schuko 2 módulos Duna N2288 DN
+
+Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Naranja N2288 NA
+Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Rojo N2288 RJ
+Bipolar con T.T. lateral Schuko para circuitos especiales 2 módulos Verde N2288 VD
+
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Blanco N2288.1 BL
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Antracita N2288.1 AN
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Plata N2288.1 PL
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Cava N2288.1 CV
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Negro Mate N2288.1 NT
+Bipolar con T.T. lateral Schuko con tapa 2 módulos Duna N2288.1 DN
+
+Bipolar con T.T. lateral Schuko automático 2 módulos Blanco N2288.6 BL
+Bipolar con T.T. lateral Schuko automático 2 módulos Antracita N2288.6 AN
+Bipolar con T.T. lateral Schuko automático 2 módulos Plata N2288.6 PL
+Bipolar con T.T. lateral Schuko automático 2 módulos Cava N2288.6 CV
+Bipolar con T.T. lateral Schuko automático 2 módulos Negro Mate N2288.6 NT
+Bipolar con T.T. lateral Schuko automático 2 módulos Duna N2288.6 DN
+
+Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Blanco N2288.3 BL
+Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Antracita N2288.3 AN
+Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Plata N2288.3 PL
+Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Negro Mate N2288.3 NT
+Bipolar con T.T. lateral Schuko + USB-C+C 2 módulos Duna N2288.3 DN
+
+Bipolar normal europea 2 módulos Blanco N2203 BL
+Bipolar normal europea 2 módulos Antracita N2203 AN
+Bipolar normal europea 2 módulos Plata N2203 PL
+Bipolar normal europea 2 módulos Cava N2203 CV
+Bipolar normal europea 2 módulos Negro Mate N2203 NT
+Bipolar normal europea 2 módulos Duna N2203 DN
+
+Bipolar normal con T.T. sistema francés 2 módulos Blanco N2287 BL
+Bipolar normal con T.T. sistema francés 2 módulos Antracita N2287 AN
+Bipolar normal con T.T. sistema francés 2 módulos Plata N2287 PL
+Bipolar normal con T.T. sistema francés 2 módulos Cava N2287 CV
+Bipolar normal con T.T. sistema francés 2 módulos Negro Mate N2287 NT
+Bipolar normal con T.T. sistema francés 2 módulos Duna N2287 DN
+
+Bipolar con T.T. sistema francés para circuitos especiales 2 módulos Rojo N2287 RJ
+
+Bipolar con T.T. Schuko completa 2 módulos Blanco N2288.2 BL
+<!-- ========== End Bases de enchufe ========== -->
+
+<!-- ========== Cargadores USB ========== -->
+Cargador USB A+C 10,5W 1 módulo Blanco N2185.3 BL
+Cargador USB A+C 10,5W 1 módulo Antracita N2185.3 AN
+Cargador USB A+C 10,5W 1 módulo Plata N2185.3 PL
+Cargador USB A+C 10,5W 1 módulo Cava N2185.3 CV
+Cargador USB A+C 10,5W 1 módulo Negro Mate N2185.3 NT
+Cargador USB A+C 10,5W 1 módulo Duna N2185.3 DN
+
+Cargador USB A+C 15W 1 módulo Blanco N2185.4 BL
+Cargador USB A+C 15W 1 módulo Antracita N2185.4 AN
+Cargador USB A+C 15W 1 módulo Plata N2185.4 PL
+Cargador USB A+C 15W 1 módulo Cava N2185.4 CV
+Cargador USB A+C 15W 1 módulo Negro Mate N2185.4 NT
+Cargador USB A+C 15W 1 módulo Duna N2185.4 DN
+
+Cargador USB A+C 10,5W 2 módulos Blanco N2285.3 BL
+Cargador USB A+C 10,5W 2 módulos Antracita N2285.3 AN
+Cargador USB A+C 10,5W 2 módulos Plata N2285.3 PL
+Cargador USB A+C 10,5W 2 módulos Cava N2285.3 CV
+Cargador USB A+C 10,5W 2 módulos Negro Mate N2285.3 NT
+Cargador USB A+C 10,5W 2 módulos Duna N2285.3 DN
+
+Cargador USB A+C 15W 2 módulos Blanco N2285.4 BL
+Cargador USB A+C 15W 2 módulos Antracita N2285.4 AN
+Cargador USB A+C 15W 2 módulos Plata N2285.4 PL
+Cargador USB A+C 15W 2 módulos Cava N2285.4 CV
+Cargador USB A+C 15W 2 módulos Negro Mate N2285.4 NT
+Cargador USB A+C 15W 2 módulos Duna N2285.4 DN
+
+Cargador USB-C+C - 30W PD 2 módulos Blanco N2285.5 BL
+Cargador USB-C+C - 30W PD 2 módulos Antracita N2285.5 AN
+Cargador USB-C+C - 30W PD 2 módulos Plata N2285.5 PL
+Cargador USB-C+C - 30W PD 2 módulos Negro Mate N2285.5 NT
+Cargador USB-C+C - 30W PD 2 módulos Duna N2285.5 DN
+<!-- ========== End Cargadores USB ========== -->
+
+<!-- ========== Tomas de televisión ========== -->
+Toma TV final sencilla tipo F 1 módulo Blanco N2150 BL
+Toma TV final sencilla tipo F 1 módulo Antracita N2150 AN
+Toma TV final sencilla tipo F 1 módulo Plata N2150 PL
+Toma TV final sencilla tipo F 1 módulo Cava N2150 CV
+Toma TV final sencilla tipo F 1 módulo Negro Mate N2150 NT
+Toma TV final sencilla tipo F 1 módulo Duna N2150 DN
+
+Toma TV final tipo M 1 módulo Blanco N2150.7 BL
+Toma TV final tipo M 1 módulo Antracita N2150.7 AN
+Toma TV final tipo M 1 módulo Plata N2150.7 PL
+Toma TV final tipo M 1 módulo Cava N2150.7 CV
+Toma TV final tipo M 1 módulo Negro Mate N2150.7 NT
+Toma TV final tipo M 1 módulo Duna N2150.7 DN
+
+Toma TV-R/SAT final sencilla tipo M 1 módulo Blanco N2151.7 BL
+Toma TV-R/SAT final sencilla tipo M 1 módulo Antracita N2151.7 AN
+Toma TV-R/SAT final sencilla tipo M 1 módulo Plata N2151.7 PL
+Toma TV-R/SAT final sencilla tipo M 1 módulo Cava N2151.7 CV
+Toma TV-R/SAT final sencilla tipo M 1 módulo Negro Mate N2151.7 NT
+Toma TV-R/SAT final sencilla tipo M 1 módulo Duna N2151.7 DN
+
+Toma TV final tipo M 2 módulos Blanco N2250.7 BL
+Toma TV final tipo M 2 módulos Antracita N2250.7 AN
+Toma TV final tipo M 2 módulos Plata N2250.7 PL
+Toma TV final tipo M 2 módulos Cava N2250.7 CV
+Toma TV final tipo M 2 módulos Negro Mate N2250.7 NT
+Toma TV final tipo M 2 módulos Duna N2250.7 DN
+
+Toma TV-R/SAT final 2 módulos Blanco N2251.7 BL
+Toma TV-R/SAT final 2 módulos Antracita N2251.7 AN
+Toma TV-R/SAT final 2 módulos Plata N2251.7 PL
+Toma TV-R/SAT final 2 módulos Cava N2251.7 CV
+Toma TV-R/SAT final 2 módulos Negro Mate N2251.7 NT
+Toma TV-R/SAT final 2 módulos Duna N2251.7 DN
+
+Toma TV-R/SAT única 2 módulos Blanco N2251.3 BL
+Toma TV-R/SAT única 2 módulos Antracita N2251.3 AN
+Toma TV-R/SAT única 2 módulos Plata N2251.3 PL
+Toma TV-R/SAT única 2 módulos Cava N2251.3 CV
+Toma TV-R/SAT única 2 módulos Negro Mate N2251.3 NT
+Toma TV-R/SAT única 2 módulos Duna N2251.3 DN
+
+Toma TV-R/SAT intermedia 2 módulos Blanco N2251.8 BL
+Toma TV-R/SAT intermedia 2 módulos Antracita N2251.8 AN
+Toma TV-R/SAT intermedia 2 módulos Plata N2251.8 PL
+Toma TV-R/SAT intermedia 2 módulos Cava N2251.8 CV
+Toma TV-R/SAT intermedia 2 módulos Negro Mate N2251.8 NT
+Toma TV-R/SAT intermedia 2 módulos Duna N2251.8 DN
+
+Toma TV-R resistiva sin filtro 2 módulos 8150
+Toma TV-R resistiva con filtro 2 módulos 8150.3
+Toma TV-R inductiva intermedia 2 módulos 8150.7
+Toma TV-R inductiva inicial 2 módulos 8150.8
+TV-R/SAT única 2 módulos 8151.3
+TV-R/SAT final 2 módulos 8151.7
+TV-R/SAT intermedia 2 módulos 8151.8
+
+Tapa toma TV-R 2 módulos Blanco N2250.8 BL
+Tapa toma TV-R 2 módulos Antracita N2250.8 AN
+Tapa toma TV-R 2 módulos Plata N2250.8 PL
+Tapa toma TV-R 2 módulos Cava N2250.8 CV
+Tapa toma TV-R 2 módulos Negro Mate N2250.8 NT
+Tapa toma TV-R 2 módulos Duna N2250.8 DN
+
+Tapa toma TV-R/SAT 2 módulos Blanco N2250.1 BL
+Tapa toma TV-R/SAT 2 módulos Antracita N2250.1 AN
+Tapa toma TV-R/SAT 2 módulos Plata N2250.1 PL
+Tapa toma TV-R/SAT 2 módulos Cava N2250.1 CV
+Tapa toma TV-R/SAT 2 módulos Negro Mate N2250.1 NT
+Tapa toma TV-R/SAT 2 módulos Duna N2250.1 DN
+<!-- ========== End Tomas de televisión ========== -->
+
+<!-- ========== Reguladores ========== -->
+Regulador giratorio para LED 1 módulo Blanco N2160.3 BL
+Regulador giratorio para LED 1 módulo Antracita N2160.3 AN
+Regulador giratorio para LED 1 módulo Plata N2160.3 PL
+Regulador giratorio para LED 1 módulo Cava N2160.3 CV
+Regulador giratorio para LED 1 módulo Negro Mate N2160.3 NT
+Regulador giratorio para LED 1 módulo Duna N2160.3 DN
+
+Regulador giratorio para LED 2 módulos Blanco N2260.3 BL
+Regulador giratorio para LED 2 módulos Antracita N2260.3 AN
+Regulador giratorio para LED 2 módulos Plata N2260.3 PL
+Regulador giratorio para LED 2 módulos Cava N2260.3 CV
+Regulador giratorio para LED 2 módulos Negro Mate N2260.3 NT
+Regulador giratorio para LED 2 módulos Duna N2260.3 DN
+
+Regulador giratorio para fluorescentes 2 módulos Blanco N2260.9 BL
+Regulador giratorio para fluorescentes 2 módulos Antracita N2260.9 AN
+Regulador giratorio para fluorescentes 2 módulos Plata N2260.9 PL
+Regulador giratorio para fluorescentes 2 módulos Cava N2260.9 CV
+Regulador giratorio para fluorescentes 2 módulos Negro Mate N2260.9 NT
+Regulador giratorio para fluorescentes 2 módulos Duna N2260.9 DN
+<!-- ========== End Reguladores ========== -->

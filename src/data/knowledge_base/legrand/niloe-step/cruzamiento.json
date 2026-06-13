@@ -1,0 +1,174 @@
+{
+  "brand": "Legrand",
+  "series": "niloe-step",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie niloe-step de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "864005",
+      "description": "Ref. 864005 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864305",
+      "description": "Ref. 864305 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864505",
+      "description": "Ref. 864505 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864003",
+      "description": "Ref. 864003 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864303",
+      "description": "Ref. 864303 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864503",
+      "description": "Ref. 864503 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864006",
+      "description": "Ref. 864006 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864306",
+      "description": "Ref. 864306 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864506",
+      "description": "Ref. 864506 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864020",
+      "description": "Ref. 864020 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864320",
+      "description": "Ref. 864320 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864520",
+      "description": "Ref. 864520 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864021",
+      "description": "Ref. 864021 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864024",
+      "description": "Ref. 864024 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864324",
+      "description": "Ref. 864324 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864524",
+      "description": "Ref. 864524 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864032",
+      "description": "Ref. 864032 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864332",
+      "description": "Ref. 864332 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "864532",
+      "description": "Ref. 864532 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864002",
+      "description": "Ref. 864002 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864302",
+      "description": "Ref. 864302 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864502",
+      "description": "Ref. 864502 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864012",
+      "description": "Ref. 864012 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864007",
+      "description": "Ref. 864007 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864008",
+      "description": "Ref. 864008 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864308",
+      "description": "Ref. 864308 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "864508",
+      "description": "Ref. 864508 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864023",
+      "description": "Ref. 864023 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864323",
+      "description": "Ref. 864323 - Tapa para Cruzamiento"
+    },
+    {
+      "type": "Tapa",
+      "sku": "864523",
+      "description": "Ref. 864523 - Tapa para Cruzamiento"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

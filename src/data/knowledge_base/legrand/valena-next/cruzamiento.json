@@ -1,0 +1,194 @@
+{
+  "brand": "Legrand",
+  "series": "valena-next",
+  "mechanism_id": "cruzamiento",
+  "mechanism_name": "Cruzamiento",
+  "description": "Mecanismo Cruzamiento de la serie valena-next de Legrand.",
+  "technical_specs": {
+    "voltage": "250V~",
+    "amperage": "10AX"
+  },
+  "installation_steps": [
+    "Cortar el suministro eléctrico general.",
+    "Pelar los cables aproximadamente 11-14mm según las especificaciones del fabricante.",
+    "Conectar los cables en los bornes correspondientes (fase, neutro, tierra).",
+    "Fijar el mecanismo a la caja de empotrar.",
+    "Colocar el marco embellecedor y la tecla/tapa."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "741247",
+      "description": "Ref. 741247 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741347",
+      "description": "Ref. 741347 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741447",
+      "description": "Ref. 741447 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741244",
+      "description": "Ref. 741244 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741344",
+      "description": "Ref. 741344 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741444",
+      "description": "Ref. 741444 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741245",
+      "description": "Ref. 741245 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741345",
+      "description": "Ref. 741345 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741445",
+      "description": "Ref. 741445 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741256",
+      "description": "Ref. 741256 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741356",
+      "description": "Ref. 741356 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741456",
+      "description": "Ref. 741456 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741250",
+      "description": "Ref. 741250 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741350",
+      "description": "Ref. 741350 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741450",
+      "description": "Ref. 741450 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741258",
+      "description": "Ref. 741258 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741358",
+      "description": "Ref. 741358 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "741458",
+      "description": "Ref. 741458 - Mecanismo para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "067686",
+      "description": "Ref. 067686 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "067685",
+      "description": "Ref. 067685 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741243",
+      "description": "Ref. 741243 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741343",
+      "description": "Ref. 741343 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741443",
+      "description": "Ref. 741443 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "080251",
+      "description": "Ref. 080251 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "080261",
+      "description": "Ref. 080261 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "077015",
+      "description": "Ref. 077015 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "079215",
+      "description": "Ref. 079215 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741288",
+      "description": "Ref. 741288 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741388",
+      "description": "Ref. 741388 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741488",
+      "description": "Ref. 741488 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741251",
+      "description": "Ref. 741251 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741351",
+      "description": "Ref. 741351 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741451",
+      "description": "Ref. 741451 - Lámpara para Cruzamiento"
+    },
+    {
+      "type": "Lámpara",
+      "sku": "741259",
+      "description": "Ref. 741259 - Lámpara para Cruzamiento"
+    }
+  ],
+  "warnings": [
+    "La instalación debe ser realizada por un profesional cualificado.",
+    "Verificar la ausencia de tensión antes de manipular."
+  ]
+}

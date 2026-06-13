@@ -1,0 +1,28 @@
+Doble interruptor
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Tecla ref. 8811 y 8811.08.
+Código: 8111
+
+Doble conmutador
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Tecla ref. 8811 y 8811.08.
+Código: 8122
+
+Doble pulsador
+10 A; 250 V~
+Sin enclavamiento
+Teclas ref. 8811, 8811.08, 8844 y 8844.08.
+Código: 8144.2
+
+Conmutador + Pulsador
+10 AX; 250 V~
+200 W SBL: LEDi, CFLi
+Teclas ref. 8811, 8811.08, 8844 y 8844.08.
+Código: 8142
+
+Pulsador + Conmutador
+10 A; 250 V~
+Teclas ref. 8811 y 8811.08.
+Código: 8142.1

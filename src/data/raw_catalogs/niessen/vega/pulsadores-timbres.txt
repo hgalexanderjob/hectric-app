@@ -1,0 +1,37 @@
+Pulsador sin garras
+10 A; 250 V~
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.3, 8801.38, 8804, 8804.08, 8804.2, 8804.28, 8804.3, 8804.38, 8804.4 y 8804.48.
+Código: 8104
+
+Pulsador con piloto de control
+10 A; 250 V~
+Con lámpara 6192 BL incorporada.
+Teclas ref. 8801.3, 8801.38, 8804.3, 8804.38, 8804.4 y 8804.48.
+Código: 8104.5
+
+Pulsador con garras
+10 A; 250 V~
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.3, 8801.38, 8804, 8804.08, 8804.2, 8804.28, 8804.3, 8804.38, 8804.4 y 8804.48.
+Código: 8104.8
+
+Pulsador normalmente cerrado
+10 A; 250 V~
+Para iluminación nocturna, lámparas ref. 6192 BL ó 6192.24 BL.
+Teclas ref. 8801, 8801.08, 8801.3, 8801.38, 8804, 8804.08, 8804.2, 8804.28, 8804.3, 8804.38, 8804.4 y 8804.48.
+Código: 8104.9
+
+Timbre cuatro melodías
+230 V~; 50 Hz
+Cuatro melodías.
+Potencia acústica a 1m. con tapa: 72 dB.
+Tapa ref. 8829.
+Código: 8124.2
+
+Zumbador
+125 / 250 V~; 8 VA
+Tono regulable
+Potencia acústica a 1m. con tapa: 75 dB.
+Tapa ref. 8829.
+Código: 8119
