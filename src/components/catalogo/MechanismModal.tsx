@@ -220,7 +220,7 @@ export default function MechanismModal({ isOpen, onClose, serie }: MechanismModa
                 <div className="flex flex-col gap-3">
                   {/* Botón para continuar sin referencia exacta */}
                   <button
-                    onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism.id}`)}
+                    onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism?.id}`)}
                     className="flex flex-col sm:flex-row sm:items-center justify-between p-4 border-2 border-teal-500/30 bg-teal-50/20 rounded-xl hover:border-teal-500 hover:bg-teal-50 transition-all group w-full text-left focus:outline-hidden"
                   >
                     <div className="flex items-start gap-3">
@@ -248,7 +248,7 @@ export default function MechanismModal({ isOpen, onClose, serie }: MechanismModa
                   {references.map((ref: any, idx) => (
                     <button
                       key={idx}
-                      onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism.id}?ref=${ref.sku}`)}
+                      onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism?.id}?ref=${ref.sku}`)}
                       className="flex flex-col sm:flex-row sm:items-center justify-between p-4 border border-slate-200 rounded-xl hover:border-teal-500 hover:bg-teal-50/50 transition-all group w-full text-left focus:outline-hidden gap-4"
                     >
                       <div className="flex items-center gap-3 sm:gap-4">
@@ -291,7 +291,7 @@ export default function MechanismModal({ isOpen, onClose, serie }: MechanismModa
                     Aún no tenemos escaneadas las referencias exactas para esta familia, pero puedes continuar con la instalación general.
                   </p>
                   <button
-                    onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism.id}`)}
+                    onClick={() => handleReferenceClick(`${serie.href}/instalacion/${selectedMechanism?.id}`)}
                     className="inline-flex items-center justify-center px-6 py-2.5 bg-teal-600 text-white font-medium rounded-lg hover:bg-teal-700 transition-colors focus:outline-hidden"
                   >
                     Continuar con instalación general
