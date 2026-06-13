@@ -2,11 +2,10 @@
 
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
-import { HSStaticMethods } from "preline";
 
 declare global {
   interface Window {
-    HSStaticMethods: HSStaticMethods;
+    HSStaticMethods: any;
   }
 }
 
