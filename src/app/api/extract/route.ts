@@ -45,7 +45,7 @@ ${text}
 `;
 
     const { text: responseText } = await generateText({
-      model: google('gemini-1.5-flash'),
+      model: google('gemini-1.5-flash') as any, // Fix Vercel type mismatch
       prompt,
       temperature: 0.1,
     });
