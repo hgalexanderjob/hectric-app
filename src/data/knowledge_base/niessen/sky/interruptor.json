@@ -1,0 +1,84 @@
+{
+  "brand": "Niessen",
+  "series": "Sky",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptores, Conmutadores y Cruzamientos",
+  "description": "Mecanismos de mando de la serie Sky Niessen. Diseñada en tres líneas estéticas exclusivas: Sky Niessen (8,5mm de grosor, integración perfecta), Sky Essence (líneas depuradas sin curvas) y Skymoon (6mm de grosor, vanguardia y lujo con teclas mecanizadas).",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "10 AX (estándar) / 16 A (para ref. 8101.1)",
+    "terminal_type": "Automático (sin tornillos) con empujadores ergonómicos en la parte trasera",
+    "ip_rating": "IP20",
+    "led_compatibility": "Hasta 200W en cargas LED (SBL: LEDi, CFLi)",
+    "certifications": [
+      "Ecodiseño (Normas de Gestión Ambiental ISO 14006)",
+      "Certificación AENOR y CB"
+    ],
+    "features": [
+      "Utiliza el consolidado y fiable 'mecanismo de lujo' Niessen (81XX)",
+      "Compatibilidad total con instalaciones previas de series Niessen de empotrar",
+      "Iluminación nocturna mediante tecnología LED blanca sin parpadeos (ref. 6192 BL)"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Interrumpa el suministro eléctrico en el cuadro principal de la vivienda.",
+    "Paso 2: Identifique la función requerida (Interruptor 8101, Conmutador 8102, Cruzamiento 8110).",
+    "Paso 3: Si requiere iluminación piloto, acople la lámpara LED 6192 BL en el frontal del mecanismo.",
+    "Paso 4: Pele los cables 11,5 - 14 mm e insértelos en los bornes automáticos situados en la parte trasera.",
+    "Paso 5: Fije el bastidor metálico a la caja universal de pared mediante tornillos.",
+    "Paso 6: Seleccione el marco correspondiente (Sky, Sky Essence o Skymoon).",
+    "Paso 7: Encaje a presión la tecla decorativa (ref. 8501, etc.) hasta asegurar el conjunto."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8101",
+      "description": "Interruptor monopolar 10 AX",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8102",
+      "description": "Conmutador 10 AX",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8110",
+      "description": "Cruzamiento 10 AX",
+      "packaging_units": 10
+    },
+    {
+      "type": "Tecla Estética Sky",
+      "sku": "8501 XX",
+      "description": "Tecla estándar sin visor (XX: BL, PL, NS, DN, TP, CM, AI, OE, CB, CN)",
+      "packaging_units": 20
+    },
+    {
+      "type": "Tecla Estética Skymoon",
+      "sku": "8601 XX",
+      "description": "Tecla mecanizada Skymoon sin visor (XX: Acero Inoxidable, Cristal Negro, Cristal Blanco)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "6192 BL",
+      "description": "Lámpara de señalización LED 230V Blanca",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué diferencia hay entre Sky Niessen y Skymoon?",
+      "answer": "Sky Niessen ofrece un grosor de 8,5 mm con una amplia gama de 12 colores, mientras que Skymoon es la gama superior (solo 6 mm de grosor) con teclas metálicas mecanizadas redondeadas, disponible en materiales 100% nobles (acero y cristal)."
+    },
+    {
+      "question": "¿Los mecanismos son compatibles con otras series?",
+      "answer": "Sí, Sky Niessen utiliza los mismos mecanismos interiores (referencias 81XX) que series como Vega y Alba, lo que facilita enormemente la renovación de la vivienda cambiando solo las teclas y los marcos."
+    }
+  ],
+  "warnings": [
+    "Evite doblar excesivamente los cables dentro de la caja universal.",
+    "La protección IP20 está garantizada por el mecanismo incluso sin la tecla puesta, gracias a su diseño de seguridad."
+  ]
+}

@@ -1,0 +1,1362 @@
+[
+  {
+    "sku": "8501 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Sin visor"
+  },
+  {
+    "sku": "8101.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor bipolar 16 A"
+  },
+  {
+    "sku": "8501.2 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "On-Off sin visor"
+  },
+  {
+    "sku": "8101.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor bipolar"
+  },
+  {
+    "sku": "8501.3 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con visor"
+  },
+  {
+    "sku": "8101.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor monopolar con piloto de control"
+  },
+  {
+    "sku": "8501.4 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "On-Off con visor"
+  },
+  {
+    "sku": "8101.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor monopolar con garras"
+  },
+  {
+    "sku": "8102",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador"
+  },
+  {
+    "sku": "8102.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor conmutador 16 A"
+  },
+  {
+    "sku": "8102.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador con piloto de control"
+  },
+  {
+    "sku": "8102.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador con garras"
+  },
+  {
+    "sku": "8110",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Cruzamiento"
+  },
+  {
+    "sku": "8114",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptores de tarjeta\nTeclas\nInterruptor bipolar tarjeta"
+  },
+  {
+    "sku": "8514 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con visor"
+  },
+  {
+    "sku": "8114.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador tarjeta"
+  },
+  {
+    "sku": "8114.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor bipolar tarjeta 16 A"
+  },
+  {
+    "sku": "8114.5",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor temporizado de tarjeta"
+  },
+  {
+    "sku": "8104",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsadores\nTeclas\nPulsador"
+  },
+  {
+    "sku": "8501 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Sin visor"
+  },
+  {
+    "sku": "8104.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador con piloto de control"
+  },
+  {
+    "sku": "8501.3 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con visor"
+  },
+  {
+    "sku": "8104.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador con garras"
+  },
+  {
+    "sku": "8504 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Timbre sin visor"
+  },
+  {
+    "sku": "8104.9",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Pulsador normalmente cerrado"
+  },
+  {
+    "sku": "8504.2 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Luz sin visor"
+  },
+  {
+    "sku": "8504.3 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Timbre con visor"
+  },
+  {
+    "sku": "8504.4 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Luz con visor"
+  },
+  {
+    "sku": "8111",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Combinaciones\nTeclas\nDoble interruptor"
+  },
+  {
+    "sku": "8511 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Doble"
+  },
+  {
+    "sku": "8122",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Doble conmutador"
+  },
+  {
+    "sku": "8144.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Doble pulsador"
+  },
+  {
+    "sku": "8142",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador + pulsador"
+  },
+  {
+    "sku": "8142.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador + conmutador"
+  },
+  {
+    "sku": "8144",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Lámpara de señalización\nLámpara LED 230V\n6192\nBL\n10\nLámpara LED 24V\n6192.24\nBL\n10\nPulsador / interruptor para persianas\nTeclas\nPulsador para persianas"
+  },
+  {
+    "sku": "8544 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con sube-baja"
+  },
+  {
+    "sku": "8144.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor para persianas"
+  },
+  {
+    "sku": "8130.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor para persianas electrónico\nTeclas\nInterruptor para persianas electrónico"
+  },
+  {
+    "sku": "8530 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Electrónica"
+  },
+  {
+    "sku": "8148",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Pulsador de tirador\nTapas\nPulsador de tirador"
+  },
+  {
+    "sku": "8507 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador de tirador"
+  },
+  {
+    "sku": "8500 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tapa ciega / Salida de cable\nTapas\nTapa ciega"
+  },
+  {
+    "sku": "8107",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Salida de cable"
+  },
+  {
+    "sku": "8507 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": ""
+  },
+  {
+    "sku": "8153",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptores de llave\nTapas\nInterruptor / conmutador llave de 2 posiciones"
+  },
+  {
+    "sku": "8553 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa llave 2 posiciones"
+  },
+  {
+    "sku": "8153.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Pulsador llave de 2 posiciones"
+  },
+  {
+    "sku": "8153.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Conmutador llave de 3 posiciones"
+  },
+  {
+    "sku": "8553.1 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa llave 3 posiciones"
+  },
+  {
+    "sku": "8124.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Timbre / Zumbador\nTapas\nTimbre cuatro melodías"
+  },
+  {
+    "sku": "8529 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Timbre / Zumbador"
+  },
+  {
+    "sku": "8119",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Zumbador"
+  },
+  {
+    "sku": "8188",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bases de enchufe\nTapas\nBipolar con TT lateral Schuko sin garras"
+  },
+  {
+    "sku": "8588 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Base de enchufe"
+  },
+  {
+    "sku": "8188.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con TT lateral Schuko con garras"
+  },
+  {
+    "sku": "8588.1 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Abatible"
+  },
+  {
+    "sku": "8188.6",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con TT lateral Schuko conexión automática"
+  },
+  {
+    "sku": "8188.9",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con TT lateral Schuko sin garras plana"
+  },
+  {
+    "sku": "8588.9 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Plana"
+  },
+  {
+    "sku": "8188.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con T.T. sistema francés con piloto de control"
+  },
+  {
+    "sku": "8588.8 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con piloto de control"
+  },
+  {
+    "sku": "8187",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con T.T. sistema francés"
+  },
+  {
+    "sku": "8587 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Sistema francés"
+  },
+  {
+    "sku": "8187.9",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Bipolar con T.T sistema francés plano"
+  },
+  {
+    "sku": "8587.9 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Sistema francés plana"
+  },
+  {
+    "sku": "8139",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Base de enchufe universal"
+  },
+  {
+    "sku": "8538 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "BE Euroamericana"
+  },
+  {
+    "sku": "8539 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "BE Universal"
+  },
+  {
+    "sku": "8188.4",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Base de enchufe con doble cargador USB A+C"
+  },
+  {
+    "sku": "8588.4 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Con cargador USB"
+  },
+  {
+    "sku": "8134.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor magnetotérmico y diferencial\nTapas\nInterruptor de 6 A"
+  },
+  {
+    "sku": "8531 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa magnetotérmico\ny diferencial"
+  },
+  {
+    "sku": "8134.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor de 10 A"
+  },
+  {
+    "sku": "8134.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor de 16 A"
+  },
+  {
+    "sku": "8185.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Cargador USB\nTapas\nToma cargador USB A+C"
+  },
+  {
+    "sku": "8585 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa cargador USB"
+  },
+  {
+    "sku": "8150",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tomas de televisión\nTapas\nToma TV-R resistiva sin filtro"
+  },
+  {
+    "sku": "8550 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "TV / R"
+  },
+  {
+    "sku": "8150.3",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R resistiva con filtro"
+  },
+  {
+    "sku": "8150.7",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R inductiva intermedia"
+  },
+  {
+    "sku": "8151.3",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT única"
+  },
+  {
+    "sku": "8550.1 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "TV-R / SAT"
+  },
+  {
+    "sku": "8151.7",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT final"
+  },
+  {
+    "sku": "8151.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT intermedia"
+  },
+  {
+    "sku": "8117",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tomas de teléfono\nTapas\nToma teléfono RJ12"
+  },
+  {
+    "sku": "8517 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tapa toma telefónica"
+  },
+  {
+    "sku": "8118",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tomas informáticas\nTapas\nTomas informáticas RJ45"
+  },
+  {
+    "sku": "8517 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tapa toma informática"
+  },
+  {
+    "sku": "2016",
+    "packagingUnit": 10,
+    "full_specs_and_description": "NOTA: Existen funciones que no\ndisponen de tapas en acabados cristal.\nBlanco Essence (BE)\nNegro Essence (NE)\n===== PÁGINA 21 =====\n22\nSKY NIESSEN\nDenominación mecanismo\nCódigo\nEmb\n(ud.)\nDenominación\nCódigo\nColor\nEmb\n(ud.)\nSoportes conectores de teléfono e informática\nTapas\nSoporte informático Keystone, 3M, AMP"
+  },
+  {
+    "sku": "8516.8 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Inclinada con persiana\n2 soportes"
+  },
+  {
+    "sku": "2016.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte informático Systimax"
+  },
+  {
+    "sku": "2016.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte informático Panduit"
+  },
+  {
+    "sku": "2016.3",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte informático R&M"
+  },
+  {
+    "sku": "2016.60",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte con conector informático RJ45 Cat.5E UTP 2016.50\n10\nSoporte con conector informático RJ45 Cat.6 UTP"
+  },
+  {
+    "sku": "2016.9",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte con conector informático RJ45 Cat. 6A STP 2016.65\n10\nSoporte con conector fibra óptica SC"
+  },
+  {
+    "sku": "2017.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma de teléfono de 6 contactos"
+  },
+  {
+    "sku": "8518.1 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Plana 1 persiana"
+  },
+  {
+    "sku": "8518.2 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conector hembra inf. RJ45, 8 cont. Cat. 5E (mejorada) UTP 2018.5\n10\nPlana 2 persianas"
+  },
+  {
+    "sku": "2018.6",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conector hembra inf. RJ45, 8 cont. Cat. 6 UTP"
+  },
+  {
+    "sku": "2018",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45"
+  },
+  {
+    "sku": "2018.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45"
+  },
+  {
+    "sku": "2018.9",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conector fibra óptica SC"
+  },
+  {
+    "sku": "8155.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Conectores VDI\nTapas\nToma 2 RCA"
+  },
+  {
+    "sku": "8555.2 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa toma 2 RCA"
+  },
+  {
+    "sku": "8155.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma 3 RCA"
+  },
+  {
+    "sku": "8555.3 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa toma 3 RCA"
+  },
+  {
+    "sku": "8155.5",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma VGA"
+  },
+  {
+    "sku": "8555.5 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa toma VGA"
+  },
+  {
+    "sku": "8155.4",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma Mini-jack"
+  },
+  {
+    "sku": "8555 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa 1 conector"
+  },
+  {
+    "sku": "8155.6",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI"
+  },
+  {
+    "sku": "8155.7",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra"
+  },
+  {
+    "sku": "8155.71",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra con latiguillo"
+  },
+  {
+    "sku": "8155.8",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB"
+  },
+  {
+    "sku": "8155.9",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB hembra-hembra"
+  },
+  {
+    "sku": "8155.91",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB hembra-hembra con latiguillo"
+  },
+  {
+    "sku": "8155.68",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI cableado + USB"
+  },
+  {
+    "sku": "8555.1 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa 2 conectores"
+  },
+  {
+    "sku": "8155.78",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra + USB"
+  },
+  {
+    "sku": "8155.88",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra con latiguillo + USB\n8155.79\nToma doble USB"
+  },
+  {
+    "sku": "8160.7",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Reguladores electrónicos giratorios\nTeclas\nRegulador elect. giratorio LED con terminal N"
+  },
+  {
+    "sku": "8560.2 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Con botón"
+  },
+  {
+    "sku": "8160.9",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Regulador electrónico giratorio 1-10 VDC"
+  },
+  {
+    "sku": "8132.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Control de iluminación\nTeclas\nInterruptor elect. pastilla"
+  },
+  {
+    "sku": "8161.6",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Reguladores DALI giratorios\nTeclas\nPotenciómetro DALI"
+  },
+  {
+    "sku": "8560.2 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Con botón"
+  },
+  {
+    "sku": "8161.7",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Potenciómetro DALI con fuente de alimentación"
+  },
+  {
+    "sku": "8140.7",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Reguladores electrónicos de carril DIN\nTapas\nReguladores electrónicos universal de carril DIN 6586-500\n1\nControl de climatización\nTapas\nTermostato electrónico giratorio"
+  },
+  {
+    "sku": "8140.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa termostato giratorio 8540.7\nXX\n5\nCronotermostato digital"
+  },
+  {
+    "sku": "8565.3 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa cronotermostato"
+  },
+  {
+    "sku": "8154",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador rotativo\nTapas\nConmutador rotativo"
+  },
+  {
+    "sku": "8165.31",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa conmutador rotativo 8554\nXX\n1\nInterruptor programador\nTapas\nInterruptor programador"
+  },
+  {
+    "sku": "8161",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa programador horario 8565.3\nXX\n1\nInterruptor - relé"
+  },
+  {
+    "sku": "8161.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor - relé para persianas"
+  },
+  {
+    "sku": "8162.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptores temporizados\nTeclas\nInterruptor temporizado"
+  },
+  {
+    "sku": "8161",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa interruptor temporizado 8562\nXX\n1\nInterruptor detector de movimiento\nTeclas\nInterruptor - relé"
+  },
+  {
+    "sku": "8541.1 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Sensor detector"
+  },
+  {
+    "sku": "8180.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Pilotos de balizado y sistemas de señalización\nTapas\nIluminación por LED de luz blanca"
+  },
+  {
+    "sku": "8180.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "8581\nRJ\n5\nIluminación por LED de luz blanca"
+  },
+  {
+    "sku": "8581.10",
+    "packagingUnit": 5,
+    "full_specs_and_description": "8581\nVD\n5\n\"WC\""
+  },
+  {
+    "sku": "8581.11",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"WC hombre\""
+  },
+  {
+    "sku": "8581.12",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"WC mujer\""
+  },
+  {
+    "sku": "8581.13",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"WC minusválido\""
+  },
+  {
+    "sku": "8581.14",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"No fumar\""
+  },
+  {
+    "sku": "8581.15",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"No móvil\""
+  },
+  {
+    "sku": "8581.16",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"Silencio\""
+  },
+  {
+    "sku": "8581.17",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"Flecha\""
+  },
+  {
+    "sku": "8581.18",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"No pasar\""
+  },
+  {
+    "sku": "8581.19",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"Ascensor\""
+  },
+  {
+    "sku": "8581.20",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"Salida\""
+  },
+  {
+    "sku": "8581.21",
+    "packagingUnit": 5,
+    "full_specs_and_description": "\"Información\""
+  },
+  {
+    "sku": "8144.4",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Interruptor No molestar - Servicio"
+  },
+  {
+    "sku": "8544.4 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa interruptor"
+  },
+  {
+    "sku": "8180.4",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Señalizador No molestar - Servicio"
+  },
+  {
+    "sku": "8580.4 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa señalizador"
+  },
+  {
+    "sku": "9368",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Sistema de sonido Hit by Niessen\nTapas\nMódulo radio despertador"
+  },
+  {
+    "sku": "8568 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa módulo de radio"
+  },
+  {
+    "sku": "9368.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Módulo entrada / salida"
+  },
+  {
+    "sku": "9368.4",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa módulo de entrada/salida 8568.3\nXX\n1\nAmplificador de Bluetooth"
+  },
+  {
+    "sku": "9335.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa amplificador Bluetooth 8568.4\nXX\n1\nAmplificador de sonido"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Blanco Soft / Plata\n/ Negro Soft\ncód.\ncolor\nemb\n(ud.)\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Duna / Taupé / Comodoro\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Acero / Oro\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Madera\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Cristal\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8529 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa altavoz 2\""
+  },
+  {
+    "sku": "9399.4 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Rejilla emb. 2\""
+  },
+  {
+    "sku": "9329.1",
+    "packagingUnit": 12,
+    "full_specs_and_description": "Altavoz de 5\""
+  },
+  {
+    "sku": "9399",
+    "packagingUnit": 12,
+    "full_specs_and_description": "Caja empotrar"
+  },
+  {
+    "sku": "9399.1",
+    "packagingUnit": 12,
+    "full_specs_and_description": "Aro empotrar"
+  },
+  {
+    "sku": "9399.2",
+    "packagingUnit": 12,
+    "full_specs_and_description": "Rejilla emb. 5\""
+  },
+  {
+    "sku": "8157.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Unidades de conexión\nTapas\nToma altavoz por borna"
+  },
+  {
+    "sku": "8557.1 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tapa altavoz por borna"
+  },
+  {
+    "sku": "8159.3",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Control de altavoces\nTapas\nPotenciómetro bobinado para altavoces"
+  },
+  {
+    "sku": "8559 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa potenciómetro"
+  },
+  {
+    "sku": "8159.5",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Potenciómetro bobinado para altavoces"
+  },
+  {
+    "sku": "8531.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Teclas /Emisores Wireless\nTeclas\nTecla Wireless 1 canal stand-alone"
+  },
+  {
+    "sku": "8531.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Tecla Wireless 2 canales stand-alone"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Colores XX\nTeclas y tapas\nBL\t Blanco Soft\nBB\t Blanco Básico\nPL\nPlata\nNS\t Negro Soft\nDN\t Duna\nTP\nTaupé\nCM\t Comodoro\nAI\nAcero Inoxidable\nOE\t Oro Envejecido\nCB\t Cristal Blanco\nCN\t Cristal Negro\nBE\t Blanco Essence\nNE\t Negro Essence\nMarcos\nBL\t Blanco Soft\nPL\nPlata\nNS\t Negro Soft\nDN\t Duna\nTP\nTaupé\nCM\t Comodoro\nAI\nAcero Inoxidable\nOE\t Oro Envejecido\nFR\t Fresno\nWN\t Wengué Natural\nCB\t Cristal Blanco\nCN\t Cristal Negro\nBlanco Soft /\nPlata / Negro Soft\ncódigo color emb (ud.)\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "Duna / Taupé / Comodoro\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 20,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Acero / Oro\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 10,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Madera\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8571 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Cristal\n1 elemento"
+  },
+  {
+    "sku": "8572 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "2 elementos"
+  },
+  {
+    "sku": "8573 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "3 elementos"
+  },
+  {
+    "sku": "8574 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "4 elementos"
+  },
+  {
+    "sku": "8601 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Sin visor"
+  },
+  {
+    "sku": "8101.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor monopolar con piloto de control"
+  },
+  {
+    "sku": "8601.3 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Con visor"
+  },
+  {
+    "sku": "8101.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor monopolar con garras"
+  },
+  {
+    "sku": "8102",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador"
+  },
+  {
+    "sku": "8102.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor conmutador 16 A"
+  },
+  {
+    "sku": "8102.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador con piloto de control"
+  },
+  {
+    "sku": "8102.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador con garras"
+  },
+  {
+    "sku": "8110",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Cruzamiento"
+  },
+  {
+    "sku": "8104",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsadores\nTeclas\nPulsador"
+  },
+  {
+    "sku": "8601 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Sin visor"
+  },
+  {
+    "sku": "8104.9",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Pulsador normalmente cerrado"
+  },
+  {
+    "sku": "8601.3 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Con visor"
+  },
+  {
+    "sku": "8104.5",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador con piloto de control"
+  },
+  {
+    "sku": "8104.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador con garras"
+  },
+  {
+    "sku": "8111",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Combinaciones\nTeclas\nDoble interruptor"
+  },
+  {
+    "sku": "8611 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tecla doble"
+  },
+  {
+    "sku": "8122",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Doble conmutador"
+  },
+  {
+    "sku": "8144.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Doble pulsador"
+  },
+  {
+    "sku": "8142",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conmutador + pulsador"
+  },
+  {
+    "sku": "8142.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador + conmutador"
+  },
+  {
+    "sku": "8144",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Pulsador / interruptor para persianas\nTeclas\nPulsador para persianas"
+  },
+  {
+    "sku": "8644 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Con sube-baja"
+  },
+  {
+    "sku": "8144.1",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Interruptor para persianas"
+  },
+  {
+    "sku": "8630.3 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Interruptor para persianas electrónico\nInterruptor para persianas electrónico"
+  },
+  {
+    "sku": "8148",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Pulsador de tirador\nTapas\nPulsador de tirador"
+  },
+  {
+    "sku": "8607 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Pulsador de tirador"
+  },
+  {
+    "sku": "8688.9 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Lámpara de señalización\nLámpara LED 230V\n6192\nBL\n10\nLámpara LED 24V\n6192.24\nBL\n10\nBases de enchufe\nTapas\nBipolar con TT lateral Schuko sin garras plana 8188.9\n10"
+  },
+  {
+    "sku": "8185.1",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Cargador USB\nTapas\nToma cargador USB A+C"
+  },
+  {
+    "sku": "8600 XX",
+    "packagingUnit": 2,
+    "full_specs_and_description": "Tapa ciega / Salida de cable\nTapas\nTapa ciega"
+  },
+  {
+    "sku": "8107",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Salida de cable"
+  },
+  {
+    "sku": "8607 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": ""
+  },
+  {
+    "sku": "8150",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tomas de televisión\nTapas\nToma TV-R resistiva sin filtro"
+  },
+  {
+    "sku": "8650 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "TV / R"
+  },
+  {
+    "sku": "8150.3",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R resistiva con filtro"
+  },
+  {
+    "sku": "8150.7",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R inductiva intermedia"
+  },
+  {
+    "sku": "8151.3",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT única"
+  },
+  {
+    "sku": "8151.7",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT final"
+  },
+  {
+    "sku": "8151.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Toma TV-R / SAT intermedia"
+  },
+  {
+    "sku": "2017.2",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soportes conectores de teléfono e informática\nTapas\nToma de teléfono de 6 contactos"
+  },
+  {
+    "sku": "2018.6",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Con persiana 1 soporte 8618.1\nXX\n2\nConector hembra inf. RJ45, 8 cont. Cat. 5E (mejorada) UTP 2018.5\n10\nConector hembra inf. RJ45, 8 cont. Cat. 6 UTP"
+  },
+  {
+    "sku": "2018",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45"
+  },
+  {
+    "sku": "2018.8",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45"
+  },
+  {
+    "sku": "2018.9",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Conector fibra óptica SC"
+  },
+  {
+    "sku": "8155.4",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Conectores VDI\nTapas\nToma Mini-jack"
+  },
+  {
+    "sku": "8655 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": ""
+  },
+  {
+    "sku": "8155.6",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI"
+  },
+  {
+    "sku": "8155.7",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra"
+  },
+  {
+    "sku": "8155.71",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma HDMI hembra-hembra con latiguillo"
+  },
+  {
+    "sku": "8155.8",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB"
+  },
+  {
+    "sku": "8155.9",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB hembra-hembra"
+  },
+  {
+    "sku": "8155.91",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Toma USB hembra-hembra con latiguillo"
+  },
+  {
+    "sku": "8660.2 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Reguladores electrónicos giratorios\nRegulador giratorio para LED"
+  },
+  {
+    "sku": "8660.9 XX",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Regulador giratorio para fluorescentes"
+  },
+  {
+    "sku": "8132.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Control de iluminación\nTapas\nInterruptor elect. pastilla"
+  },
+  {
+    "sku": "8124.2",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Timbre / Zumbador\nTapas\nTimbre cuatro melodías"
+  },
+  {
+    "sku": "8119",
+    "packagingUnit": 10,
+    "full_specs_and_description": "Tapa Timbre / Zumbador 8629\nXX\n5\nZumbador"
+  },
+  {
+    "sku": "9329",
+    "packagingUnit": 1,
+    "full_specs_and_description": "Altavoz\nTapas\nAltavoz de 2\""
+  },
+  {
+    "sku": "8629 XX",
+    "packagingUnit": 5,
+    "full_specs_and_description": "Tapa altavoz 2\""
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "sku": "8101",
+    "description": "Interruptor monopolar",
+    "full_specs_and_description": "Interruptor monopolar\nCódigo: 8101\nDatos Técnicos: 10 AX / 250 V~ Para iluminación de orientación nocturna combinar con lámparas Ref.: 6190 y 6192. Mecanismos válidos para teclas Refs.: 8701, 8701.3"
+  },
+  {
+    "sku": "8102",
+    "description": "Conmutador",
+    "full_specs_and_description": "Conmutador\nCódigo: 8102\nDatos Técnicos: "
+  },
+  {
+    "sku": "8110",
+    "description": "Cruzamiento",
+    "full_specs_and_description": "Cruzamiento\nCódigo: 8110\nDatos Técnicos: "
+  },
+  {
+    "sku": "8701 BA",
+    "description": "Tecla para Interruptor, conmutador y cruzamiento (Ref. 8101, 8102, 8110, 8102.1)",
+    "full_specs_and_description": "Tecla para Interruptor, conmutador y cruzamiento (Ref. 8101, 8102, 8110, 8102.1)\nCódigo: 8701 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8102.1",
+    "description": "Interruptor conmutador 16A",
+    "full_specs_and_description": "Interruptor conmutador 16A\nCódigo: 8102.1\nDatos Técnicos: 16 AX / 250 V~ Para iluminación combinar con lámparas Refs.: 6190 y 6192. Mecanismo válido para teclas refs.: 8701, 8701.3"
+  },
+  {
+    "sku": "8101.5",
+    "description": "Interruptor monopolar con piloto de control",
+    "full_specs_and_description": "Interruptor monopolar con piloto de control\nCódigo: 8101.5\nDatos Técnicos: 10 AX / 250 V~ Con lámpara incorporada Ref. 6192. Mecanismo válido para tecla Ref.: 8701.3"
+  },
+  {
+    "sku": "8102.5",
+    "description": "Conmutador con piloto de control",
+    "full_specs_and_description": "Conmutador con piloto de control\nCódigo: 8102.5\nDatos Técnicos: "
+  },
+  {
+    "sku": "8701.3 BA",
+    "description": "Tecla con Visor para Interruptor conmutador y cruzamiento (Ref. 8101, 8102, 8110, 8102.1, 8101.5, 8102.5)",
+    "full_specs_and_description": "Tecla con Visor para Interruptor conmutador y cruzamiento (Ref. 8101, 8102, 8110, 8102.1, 8101.5, 8102.5)\nCódigo: 8701.3 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8101.1",
+    "description": "Interruptor bipolar 16A",
+    "full_specs_and_description": "Interruptor bipolar 16A\nCódigo: 8101.1\nDatos Técnicos: 16 AX / 250 V~ Para iluminación de orientación nocturna o piloto de control combinar con lámparas Refs.: 6190 y 6192. Mecanismo válido para teclas Refs.: 8701.2, y 8701.4"
+  },
+  {
+    "sku": "8701.2 BA",
+    "description": "Tecla para interruptor bipolar (Ref. 8101.1, 8101.2)",
+    "full_specs_and_description": "Tecla para interruptor bipolar (Ref. 8101.1, 8101.2)\nCódigo: 8701.2 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8101.2",
+    "description": "Interruptor bipolar",
+    "full_specs_and_description": "Interruptor bipolar\nCódigo: 8101.2\nDatos Técnicos: 10 AX / 250 V~ Para iluminación de orientación nocturna o piloto de control combinar con lámparas Refs.: 6190 y 6192. Mecanismo válido para teclas Refs.: 8701.2, y 8701.4"
+  },
+  {
+    "sku": "8701.4 BA",
+    "description": "Tecla con visor para interruptor bipolar con piloto (Ref: 8101.1, 8101.2)",
+    "full_specs_and_description": "Tecla con visor para interruptor bipolar con piloto (Ref: 8101.1, 8101.2)\nCódigo: 8701.4 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8104",
+    "description": "Pulsador",
+    "full_specs_and_description": "Pulsador\nCódigo: 8104\nDatos Técnicos: 10 A / 250 V~ Para iluminación nocturna combinar con lámparas Refs.: 6190 y 6192. Mecanismos válidos para teclas Refs.: 8704, 8704.2, 8704.3, 8704.4."
+  },
+  {
+    "sku": "8104.9",
+    "description": "Pulsador normalmente cerrado",
+    "full_specs_and_description": "Pulsador normalmente cerrado\nCódigo: 8104.9\nDatos Técnicos: "
+  },
+  {
+    "sku": "8704 BA",
+    "description": "Tecla con símbolo timbre para pulsador (Ref. 8104, 8104.9)",
+    "full_specs_and_description": "Tecla con símbolo timbre para pulsador (Ref. 8104, 8104.9)\nCódigo: 8704 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8704.2 BA",
+    "description": "Tecla con símbolo luz, para pulsador (Ref. 8104, 8104.9)",
+    "full_specs_and_description": "Tecla con símbolo luz, para pulsador (Ref. 8104, 8104.9)\nCódigo: 8704.2 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8104.5",
+    "description": "Pulsador con piloto de control",
+    "full_specs_and_description": "Pulsador con piloto de control\nCódigo: 8104.5\nDatos Técnicos: 10 A / 250 V~ Con lámpara incorporada. Ref. 6192. Mecanismo válido para teclas Refs.: 8704.3 y 8704.4"
+  },
+  {
+    "sku": "8704.3 BA",
+    "description": "Tecla con visor y símbolo timbre, para pulsadores (Ref. 8104.5, 8104, 8104.9)",
+    "full_specs_and_description": "Tecla con visor y símbolo timbre, para pulsadores (Ref. 8104.5, 8104, 8104.9)\nCódigo: 8704.3 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8704.4 BA",
+    "description": "Tecla con visor y símbolo luz, para pulsadores (Ref. 8104.5, 8104, 8104.9)",
+    "full_specs_and_description": "Tecla con visor y símbolo luz, para pulsadores (Ref. 8104.5, 8104, 8104.9)\nCódigo: 8704.4 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "6190",
+    "description": "Luz puntual",
+    "full_specs_and_description": "Luz puntual\nCódigo: 6190\nDatos Técnicos: 1 mA a 250 V~ Permiten la conversión de mecanismos, en luminosos para orientación nocturna o como piloto de control. Conexión automática para mecanismos."
+  },
+  {
+    "sku": "6192",
+    "description": "Lámpara LED",
+    "full_specs_and_description": "Lámpara LED\nCódigo: 6192\nDatos Técnicos: Mecanismos de lujo 230 V."
+  },
+  {
+    "sku": "8111",
+    "description": "Doble interruptor",
+    "full_specs_and_description": "Doble interruptor\nCódigo: 8111\nDatos Técnicos: 10 AX / 250 V~ Mecanismos válidos para tecla ref.: 8711"
+  },
+  {
+    "sku": "8122",
+    "description": "Doble conmutador",
+    "full_specs_and_description": "Doble conmutador\nCódigo: 8122\nDatos Técnicos: 10 AX / 250 V~ Mecanismos válidos para tecla Ref.: 8711"
+  },
+  {
+    "sku": "8711 BA",
+    "description": "Tecla para doble interruptor conmutador (Ref. 8111, 8122, 8142, 8144.2)",
+    "full_specs_and_description": "Tecla para doble interruptor conmutador (Ref. 8111, 8122, 8142, 8144.2)\nCódigo: 8711 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8142",
+    "description": "Pulsador + conmutador",
+    "full_specs_and_description": "Pulsador + conmutador\nCódigo: 8142\nDatos Técnicos: 10 A / 250 V~ + 10 AX / 250 V~ Mecanismo válido para tecla Ref.: 8711"
+  },
+  {
+    "sku": "8144.2",
+    "description": "Doble pulsador",
+    "full_specs_and_description": "Doble pulsador\nCódigo: 8144.2\nDatos Técnicos: 10 A / 250 V~ Sin enclavamiento. Mecanismo válido para tecla Refs.: 8711"
+  },
+  {
+    "sku": "8188",
+    "description": "Bipolar con TT lateral Schuko con protección infantil sin garras",
+    "full_specs_and_description": "Bipolar con TT lateral Schuko con protección infantil sin garras\nCódigo: 8188\nDatos Técnicos: 16 A/ 250 V~ Con sistema de seguridad que impide contactos directos involuntarios. Grado de protección con tapa 8788 IP:44. Mecanismo válido para tapa ref: 8788"
+  },
+  {
+    "sku": "8188.5",
+    "description": "Bipolar con TT lateral Schuko con protección infantil con garras",
+    "full_specs_and_description": "Bipolar con TT lateral Schuko con protección infantil con garras\nCódigo: 8188.5\nDatos Técnicos: 16 A/ 250 V~ Con sistema de seguridad que impide contactos directos involuntarios. Grado de protección con tapa 8788 IP:44. Mecanismo válido para tapa ref: 8788"
+  },
+  {
+    "sku": "8188.6",
+    "description": "Bipolar con TT lateral Schuko de conexión automática con protección infantil",
+    "full_specs_and_description": "Bipolar con TT lateral Schuko de conexión automática con protección infantil\nCódigo: 8188.6\nDatos Técnicos: 16 A / 250 V~ Con sistema de seguridad que impide contactos directos involuntarios. Conexión tipo \"borne sin tornillos\". Reduce los tiempos de instalación en un 40%. Grado de protección con tapa 8788 IP:44. Mecanismo válido para tapa ref: 8788"
+  },
+  {
+    "sku": "8788 BA",
+    "description": "Tapa para BE con TT lateral schuko (Ref. 8188, 8188.5, 8188.6) - Apertura de tapa 90º",
+    "full_specs_and_description": "Tapa para BE con TT lateral schuko (Ref. 8188, 8188.5, 8188.6) - Apertura de tapa 90º\nCódigo: 8788 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8108",
+    "description": "Portafusibles",
+    "full_specs_and_description": "Portafusibles\nCódigo: 8108\nDatos Técnicos: 16 A / 250 V~ Para fusibles calibrados medidas: ø 6 x 24mm. Mecanismo válido para tapa de Ref.: 8708"
+  },
+  {
+    "sku": "6.1",
+    "description": "Fusible 6 A",
+    "full_specs_and_description": "Fusible 6 A\nCódigo: 6.1\nDatos Técnicos: "
+  },
+  {
+    "sku": "10.1",
+    "description": "Fusible 10 A",
+    "full_specs_and_description": "Fusible 10 A\nCódigo: 10.1\nDatos Técnicos: "
+  },
+  {
+    "sku": "16.1",
+    "description": "Fusible 16 A",
+    "full_specs_and_description": "Fusible 16 A\nCódigo: 16.1\nDatos Técnicos: "
+  },
+  {
+    "sku": "8708 BA",
+    "description": "Tapa para portafusibles (Ref. 8108)",
+    "full_specs_and_description": "Tapa para portafusibles (Ref. 8108)\nCódigo: 8708 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8700 BA",
+    "description": "Tapa ciega",
+    "full_specs_and_description": "Tapa ciega\nCódigo: 8700 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8151.3",
+    "description": "Toma TV-R / SAT Única",
+    "full_specs_and_description": "Toma TV-R / SAT Única\nCódigo: 8151.3\nDatos Técnicos: Para instalación en configuración estrella (sin resistencia de cierre)."
+  },
+  {
+    "sku": "8151.7",
+    "description": "Toma TV-R / SAT Final",
+    "full_specs_and_description": "Toma TV-R / SAT Final\nCódigo: 8151.7\nDatos Técnicos: Toma final para instalación en configuración serie o cascada."
+  },
+  {
+    "sku": "8151.8",
+    "description": "Toma TV-R / SAT Intermedia",
+    "full_specs_and_description": "Toma TV-R / SAT Intermedia\nCódigo: 8151.8\nDatos Técnicos: Toma intermedia para instalación en configuración serie o cascada. Mecanismos válidos para tapa Ref. 8750.1. Cumplen UNE 20628-2-79 y UNE 20523-7-76. Según RD 279/1999, Reglamento regulador de las Infraestructuras Comunes de Telecomunicaciones para el acceso a los servicios de Telecomunicación en el interior de los edificios. (ICT)"
+  },
+  {
+    "sku": "8750.1 BA",
+    "description": "Tapa para mecanismo de TV-R / SAT (Ref.: 8151.3, 8151.7 y 8151.8) - Apertura de tapa 90º",
+    "full_specs_and_description": "Tapa para mecanismo de TV-R / SAT (Ref.: 8151.3, 8151.7 y 8151.8) - Apertura de tapa 90º\nCódigo: 8750.1 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "2018",
+    "description": "Soporte para conectores informáticos RJ45",
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45\nCódigo: 2018\nDatos Técnicos: Para anclajes tipo keystone AMP, BranD-Rex, Openet-ics, THT Leviton, Krone. Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "2018.8",
+    "description": "Soporte para conectores informáticos RJ45",
+    "full_specs_and_description": "Soporte para conectores informáticos RJ45\nCódigo: 2018.8\nDatos Técnicos: Avaya Lucent-Technologies (AT&T). Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "2017.2",
+    "description": "Toma de teléfono 6 contactos",
+    "full_specs_and_description": "Toma de teléfono 6 contactos\nCódigo: 2017.2\nDatos Técnicos: Conector RJ12 con 6 contactos válidos por jack de 2, 4 y 6 contactos según RD 279/1999 (ICT). Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "2017.3",
+    "description": "Toma de teléfono 8 contactos RJ45 Categoría 3",
+    "full_specs_and_description": "Toma de teléfono 8 contactos RJ45 Categoría 3\nCódigo: 2017.3\nDatos Técnicos: Conector RJ45 con 8 contactos. Categoría 3 S/UNE EN 50173 ó ISO 11801. Válido para jack de 8 contactos, según RD 279/1999. Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "2018.5",
+    "description": "Conector hembra informático RJ45, 8 contactos. Categoría 5E (mejorada) UTP",
+    "full_specs_and_description": "Conector hembra informático RJ45, 8 contactos. Categoría 5E (mejorada) UTP\nCódigo: 2018.5\nDatos Técnicos: Rango de frecuencia: 1-160 MHz. Velocidad de transmisión: 1,2 Gb/seg. Según ISO 11801 Draff. Según FCC parte 68 subparte F y cumplimiento de IEC60603-7-2. Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "2018.6",
+    "description": "Conector hembra informático RJ45, 8 contactos. Categoría 6 UTP",
+    "full_specs_and_description": "Conector hembra informático RJ45, 8 contactos. Categoría 6 UTP\nCódigo: 2018.6\nDatos Técnicos: Rango de frecuencia: 1-300 MHz. Velocidad de transmisión: 4,8 Gb/seg. Según ISO 11801 Draff. Según FCC parte 68 subparte F y cumplimiento de IEC60603-7-3. Adaptador válido para tapa Ref.: 8718.2"
+  },
+  {
+    "sku": "8718.2 BA (disponible en GP, AN, CV, PL)",
+    "description": "Tapa para soporte (Ref. 2017.2, 2017.3, 2018, 2018.5, 2018.6, 2018.8) - Preparado para dos conectores",
+    "full_specs_and_description": "Tapa para soporte (Ref. 2017.2, 2017.3, 2018, 2018.5, 2018.6, 2018.8) - Preparado para dos conectores\nCódigo: 8718.2 BA (disponible en GP, AN, CV, PL)\nDatos Técnicos: "
+  },
+  {
+    "sku": "8180.1",
+    "description": "Señalizador luminoso por LED",
+    "full_specs_and_description": "Señalizador luminoso por LED\nCódigo: 8180.1\nDatos Técnicos: 230 V~; 50 Hz. Flujo luminoso > 2 lúmenes a 1 metro. Iluminación por LED. Supresión de interferencias según UNE-21806 y EN-55014. Mecanismo válido para tapas 8781."
+  },
+  {
+    "sku": "8180.2",
+    "description": "Señalizador pase-espere por LED",
+    "full_specs_and_description": "Señalizador pase-espere por LED\nCódigo: 8180.2\nDatos Técnicos: 230 V~; 50 Hz. Flujo luminoso > 2 lúmenes a 1 metro. Iluminación por LED. Supresión de interferencias según UNE-21806 y EN-55014. Mecanismo válido para tapas 8781."
+  },
+  {
+    "sku": "8781 BA",
+    "description": "Tapa señalización y balizado (8180.1, 8180.2, 8181.2)",
+    "full_specs_and_description": "Tapa señalización y balizado (8180.1, 8180.2, 8181.2)\nCódigo: 8781 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8281.1",
+    "description": "Rótulos de Señalización Arco",
+    "full_specs_and_description": "Rótulos de Señalización Arco\nCódigo: 8281.1\nDatos Técnicos: Rótulos válidos para tapa Ref. 8281BA y 8781BA."
+  },
+  {
+    "sku": "8181.2",
+    "description": "Piloto de balizado por LED",
+    "full_specs_and_description": "Piloto de balizado por LED\nCódigo: 8181.2\nDatos Técnicos: 230 V~; 50 Hz. Flujo luminoso > 2 lúmenes a 1m. Autonomía: 3h. 1h a máxima iluminación y 2h a menor iluminación. Batería de Níquel-Metal-Hidruro (Ni-MH), de mínimo impacto medioambiental según RD2816/1982 (Art.15.2), RD314/2006 (DB-SU4), REBT 2002 (ITC-BT-28) y UNE-EN 60598-2-22. Mecanismo válido para tapas 8781."
+  },
+  {
+    "sku": "8781 BA",
+    "description": "Tapa señalización y balizado (8180.1, 8180.2, 8181.2)",
+    "full_specs_and_description": "Tapa señalización y balizado (8180.1, 8180.2, 8181.2)\nCódigo: 8781 BA\nDatos Técnicos: "
+  },
+  {
+    "sku": "8771 BA",
+    "description": "Marco 1 elemento",
+    "full_specs_and_description": "Marco 1 elemento\nCódigo: 8771 BA\nDatos Técnicos: Estos marcos no combinan con los marcos tecla de Ref.: 8270. Medidas (alto x ancho): 90 x 90 mm."
+  },
+  {
+    "sku": "8772 BA",
+    "description": "Marco 2 elementos",
+    "full_specs_and_description": "Marco 2 elementos\nCódigo: 8772 BA\nDatos Técnicos: Medidas (alto x ancho): 161 x 90 mm."
+  },
+  {
+    "sku": "8773 BA",
+    "description": "Marco 3 elementos",
+    "full_specs_and_description": "Marco 3 elementos\nCódigo: 8773 BA\nDatos Técnicos: Medidas (alto x ancho): 232 x 90 mm."
+  },
+  {
+    "sku": "3002",
+    "description": "Interruptor-Conmutador",
+    "full_specs_and_description": "Interruptor-Conmutador\nCódigo: 3002\nDatos Técnicos: IP44. 10AX/250V~. Rótulo insertable: 3000. Led para iluminación de rótulo: 3090.1"
+  },
+  {
+    "sku": "3001.2",
+    "description": "Interruptor bipolar",
+    "full_specs_and_description": "Interruptor bipolar\nCódigo: 3001.2\nDatos Técnicos: "
+  },
+  {
+    "sku": "3010",
+    "description": "Cruzamiento",
+    "full_specs_and_description": "Cruzamiento\nCódigo: 3010\nDatos Técnicos: "
+  },
+  {
+    "sku": "3004",
+    "description": "Pulsador con visor",
+    "full_specs_and_description": "Pulsador con visor\nCódigo: 3004\nDatos Técnicos: IP44. 10A/250V~. Iluminable con lámpara: 3090. Rótulo insertable: 3000. Led para iluminación de rótulo: 3090.1"
+  },
+  {
+    "sku": "3004.14",
+    "description": "Símbolo luz",
+    "full_specs_and_description": "Símbolo luz\nCódigo: 3004.14\nDatos Técnicos: "
+  },
+  {
+    "sku": "3004.15",
+    "description": "Símbolo timbre",
+    "full_specs_and_description": "Símbolo timbre\nCódigo: 3004.15\nDatos Técnicos: "
+  },
+  {
+    "sku": "3011",
+    "description": "Doble interruptor",
+    "full_specs_and_description": "Doble interruptor\nCódigo: 3011\nDatos Técnicos: IP44. 10AX/250V~. Rótulo insertable: 3000. Led para iluminación de rótulo: 3090.1"
+  },
+  {
+    "sku": "3044",
+    "description": "Doble interruptor de persianas con rótulo de persianas",
+    "full_specs_and_description": "Doble interruptor de persianas con rótulo de persianas\nCódigo: 3044\nDatos Técnicos: "
+  },
+  {
+    "sku": "3088",
+    "description": "Bipolar con T.T. lateral Schuko con tapa y protección infantil",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko con tapa y protección infantil\nCódigo: 3088\nDatos Técnicos: IP44. Con sistema de seguridad que impide contactos directos involuntarios. Grado de protección: IP21. 16A/250V~. Rótulo insertable: 3000. Led para iluminación de rótulo: 3090.1"
+  },
+  {
+    "sku": "3088.9",
+    "description": "Bipolar con T.T. lateral Schuko con tapa roja y rótulo y protección infantil",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko con tapa roja y rótulo y protección infantil\nCódigo: 3088.9\nDatos Técnicos: "
+  },
+  {
+    "sku": "3088.2",
+    "description": "Bipolar con T.T. lateral Schuko doble horizontal con tapa y protección infantil",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko doble horizontal con tapa y protección infantil\nCódigo: 3088.2\nDatos Técnicos: IP44. 16A/250V~. Rótulo insertable: 3000"
+  },
+  {
+    "sku": "3088.4",
+    "description": "Bipolar con T.T. lateral Schuko doble vertical con tapa y protección infantil",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko doble vertical con tapa y protección infantil\nCódigo: 3088.4\nDatos Técnicos: IP44. 16A/250V~. Rótulo insertable: 3000"
+  },
+  {
+    "sku": "3082",
+    "description": "Bipolar con T.T. lateral Schuko con tapa + interruptor-conmutador y protección infantil",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko con tapa + interruptor-conmutador y protección infantil\nCódigo: 3082\nDatos Técnicos: IP44. 16A/250V~ + 10AX/250V~. Rótulo insertable: 3000. Led para iluminación de rótulo: 3090.1"
+  },
+  {
+    "sku": "3088.3",
+    "description": "Bipolar con T.T. lateral Schuko triple horizontal con tapa",
+    "full_specs_and_description": "Bipolar con T.T. lateral Schuko triple horizontal con tapa\nCódigo: 3088.3\nDatos Técnicos: IP44. 16A/250V~. Rótulo insertable: 3000"
+  },
+  {
+    "sku": "3099.2",
+    "description": "Adaptador Roscado M20",
+    "full_specs_and_description": "Adaptador Roscado M20\nCódigo: 3099.2\nDatos Técnicos: "
+  },
+  {
+    "sku": "3099.5",
+    "description": "Acoplador dos mecanismos",
+    "full_specs_and_description": "Acoplador dos mecanismos\nCódigo: 3099.5\nDatos Técnicos: "
+  },
+  {
+    "sku": "3099.7",
+    "description": "Entrada de tres cables",
+    "full_specs_and_description": "Entrada de tres cables\nCódigo: 3099.7\nDatos Técnicos: "
+  },
+  {
+    "sku": "3000",
+    "description": "Rótulo",
+    "full_specs_and_description": "Rótulo\nCódigo: 3000\nDatos Técnicos: Distribución de luz uniforme en el rótulo."
+  },
+  {
+    "sku": "3090",
+    "description": "Lámpara de neón",
+    "full_specs_and_description": "Lámpara de neón\nCódigo: 3090\nDatos Técnicos: "
+  },
+  {
+    "sku": "3090.1",
+    "description": "Led para iluminación de los rótulos",
+    "full_specs_and_description": "Led para iluminación de los rótulos\nCódigo: 3090.1\nDatos Técnicos: "
+  },
+  {
+    "sku": "6108/04-500",
+    "description": "Acoplador KNX Ocean, 1 canal",
+    "full_specs_and_description": "Acoplador KNX Ocean, 1 canal\nCódigo: 6108/04-500\nDatos Técnicos: Para insertar en la serie Ocean. [NOVEDAD]"
+  },
+  {
+    "sku": "6108/05-500",
+    "description": "Acoplador KNX Ocean, 2 canales",
+    "full_specs_and_description": "Acoplador KNX Ocean, 2 canales\nCódigo: 6108/05-500\nDatos Técnicos: Para insertar en la serie Ocean. [NOVEDAD]"
+  },
+  {
+    "sku": "N3202",
+    "description": "Interruptor conmutador estanco",
+    "full_specs_and_description": "Interruptor conmutador estanco\nCódigo: N3202\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Caja estanca Color Gris, RAL 7035. Incluye mecanismo N2202BL, RAL 9010, 16AX / 250 V. Medidas: Largo x Alto x Ancho: 65 x 80 x 63 mm. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3204",
+    "description": "Pulsador estanco",
+    "full_specs_and_description": "Pulsador estanco\nCódigo: N3204\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Caja estanca Color Gris, RAL 7035. Incluye mecanismo N2204.7, RAL 9010, 16A / 250 V. Sin grabado. Medidas: Largo x Alto x Ancho: 65 x 80 x 63 mm. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3288",
+    "description": "Base enchufe Schuko estanco",
+    "full_specs_and_description": "Base enchufe Schuko estanco\nCódigo: N3288\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Caja estanca Color Gris, RAL 7035. Incluye mecanismo N2288BL, RAL 9010, 16A / 250 V. Medidas: Largo x Alto x Ancho: 65 x 80 x 63 mm. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3291",
+    "description": "Caja 2 módulos",
+    "full_specs_and_description": "Caja 2 módulos\nCódigo: N3291\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Color Gris, RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 65 x 80 x 63 mm. Se suministra sin mecanismos. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3391",
+    "description": "Caja 3 módulos",
+    "full_specs_and_description": "Caja 3 módulos\nCódigo: N3391\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Color Gris, RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 104 x 80 x 63 mm. Se suministra sin mecanismos. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3292",
+    "description": "Caja 4 módulos",
+    "full_specs_and_description": "Caja 4 módulos\nCódigo: N3292\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Color Gris, RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 130 x 80 x 63 mm. Se suministra sin mecanismos. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3293",
+    "description": "Caja 6 módulos",
+    "full_specs_and_description": "Caja 6 módulos\nCódigo: N3293\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE-EN 60695-2-11. Color Gris, RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 195 x 80 x 63 mm. Se suministra sin mecanismos. Con tapa que permite el accionamiento de los mecanismos directamente, de ángulo de apertura: 120º. Cajas de doble aislamiento con cierre hermético. [NOVEDAD]"
+  },
+  {
+    "sku": "N3291.1",
+    "description": "Caja 2 módulos",
+    "full_specs_and_description": "Caja 2 módulos\nCódigo: N3291.1\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE EN 60695-2-11. Color gris RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 65 x 80 x 55 mm. Se suministra sin mecanismos. Resistencia al impacto IK06 según UNE EN 50102. [NOVEDAD]"
+  },
+  {
+    "sku": "N3391.1",
+    "description": "Caja 3 módulos",
+    "full_specs_and_description": "Caja 3 módulos\nCódigo: N3391.1\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE EN 60695-2-11. Color gris RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 104 x 80 x 55 mm. Se suministra sin mecanismos. Resistencia al impacto IK06 según UNE EN 50102. [NOVEDAD]"
+  },
+  {
+    "sku": "N3292.1",
+    "description": "Caja 4 módulos",
+    "full_specs_and_description": "Caja 4 módulos\nCódigo: N3292.1\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE EN 60695-2-11. Color gris RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 130 x 80 x 55 mm. Se suministra sin mecanismos. Resistencia al impacto IK06 según UNE EN 50102. [NOVEDAD]"
+  },
+  {
+    "sku": "N3293.1",
+    "description": "Caja 6 módulos",
+    "full_specs_and_description": "Caja 6 módulos\nCódigo: N3293.1\nDatos Técnicos: Cajas para instalación en superficie. Temperatura de servicio: -20º a +85º C. Material autoextinguible según UNE EN 60695-2-11. Color gris RAL 7035. Entradas con cono multidiámetro para tubo/cable de máximo Ø 20. Medidas: Largo x Alto x Ancho: 195 x 80 x 55 mm. Se suministra sin mecanismos. Resistencia al impacto IK06 según UNE EN 50102. [NOVEDAD]"
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "brand": "Niessen",
+  "series": "Over",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptores y Conmutadores de Superficie",
+  "description": "Mecanismos de mando de la serie de superficie Over de Niessen. Destacan por su diseño de líneas suaves y el mínimo volumen, sobresaliendo apenas de la pared. Especialmente diseñados para instalaciones rápidas sobre la pared o enlazadas con minicanales (tubos de 16mm).",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "10 AX",
+    "terminal_type": "Tornillo mordaza (Tuerca deslizante)",
+    "ip_rating": "IP20",
+    "certifications": [
+      "Directiva de Baja Tensión 73/23/CEE",
+      "Directiva de Compatibilidad Electromagnética 89/336/CEE",
+      "Marcado CE"
+    ],
+    "features": [
+      "Se suministran montados para facilitar la instalación",
+      "El zócalo tiene precortes para permitir la entrada de tubos de 16 mm Ø por cualquiera de los 4 lados",
+      "Color base: Blanco RAL 9010",
+      "Fijación del mecanismo sobre el zócalo sin herramientas (a presión)"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Fije a la pared la canalización (minicanal, tubo o cable) y el adaptador a la minicanal si existiera.",
+    "Paso 2: Corte con cuchilla uno de los lados del zócalo, aprovechando los precortes indicados.",
+    "Paso 3: Fije el zócalo a la pared, preferiblemente usando tornillos de cabeza plana.",
+    "Paso 4: Pase los conductores eléctricos aislados hacia el interior del zócalo.",
+    "Paso 5: Realice las conexiones eléctricas aflojando y apretando los tornillos con tuerca deslizante del mecanismo.",
+    "Paso 6: Inserte a presión el mecanismo ya cableado dentro del zócalo (fijación sin herramientas).",
+    "Paso 7: Inserte el marco exterior y el marquito de color (si lo tiene) sobre el conjunto con una leve presión.",
+    "Paso 8: Finalmente, coloque la tecla principal a presión. (Las lámparas de iluminación nocturna se pueden recambiar desde aquí sin desmontar el mecanismo)."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo completo",
+      "sku": "1501 BL",
+      "description": "Interruptor monopolar 10 AX blanco",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo completo",
+      "sku": "1502 BL",
+      "description": "Conmutador 10 AX blanco",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo completo",
+      "sku": "1510 BL",
+      "description": "Cruzamiento 10 AX blanco",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo completo",
+      "sku": "1501.3 BL",
+      "description": "Interruptor monopolar con orientación nocturna (Lámpara ref. 1591 BL incorporada)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "1599",
+      "description": "Acoplador de unión (para enlazar mecanismos de superficie contiguos horizontal o verticalmente)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "1591",
+      "description": "Lámpara de recambio 110-250 V~",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Se pueden juntar varios interruptores Over en la pared?",
+      "answer": "Sí, la serie cuenta con el accesorio 'acoplador de unión' (ref. 1599) que permite enlazar los zócalos de los mecanismos entre sí, tanto de forma vertical como horizontal."
+    }
+  ],
+  "warnings": [
+    "Recuerde que esta serie es de superficie. No requiere caja universal de empotrar en la pared.",
+    "Utilice siempre tornillos de cabeza plana para fijar el zócalo a la pared y evitar rozamientos."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "brand": "Niessen",
+  "series": "Zenit",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Base de Enchufe Schuko y Derivados",
+  "description": "Bases de enchufe de la serie Zenit de Niessen. La gama más completa del mercado. Su diseño modular y de instalación frontal reduce tiempos y optimiza el espacio de cableado (solo 21 mm de profundidad de mecanismo). Disponen de protección infantil en todas las referencias y acabados ecosostenibles.",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "16 A",
+    "terminal_type": "Automático (sin tornillos) en la mayoría de modelos, permitiendo una instalación 40% más rápida",
+    "wire_stripping_mm": 14,
+    "ip_rating": "IP20 (Convertibles a IP44 con el marco específico o instalables en superficie IP40)",
+    "protection": "Persianas de protección infantil (alveolos protegidos) integradas de serie",
+    "certifications": [
+      "ISO 14006 (Ecosolutions ABB)"
+    ],
+    "features": [
+      "Diseño ultracompacto (21 mm de fondo) dejando más espacio para los cables en la caja",
+      "Formatos modulares de 2 módulos que encajan en bastidores de plástico o acero galvanizado",
+      "Existen versiones innovadoras que incluyen doble cargador USB-C (15W) compartiendo el mismo espacio que un enchufe estándar",
+      "Bastidores con tratamiento anticorrosivo para máxima durabilidad"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Por seguridad, corte el suministro eléctrico general.",
+    "Paso 2: Atornille el bastidor (metálico o termoplástico) a la caja universal de pared.",
+    "Paso 3: Pele los extremos de los cables (Fase, Neutro y Tierra) exactamente 14 mm.",
+    "Paso 4: Conecte los cables en sus bornes correspondientes (Tierra siempre al borne central o marcado).",
+    "Paso 5: Inserte el mecanismo en el bastidor PRESIONANDO DESDE LA PARTE FRONTAL. A diferencia de series antiguas, no hace falta introducir la base desde atrás del bastidor.",
+    "Paso 6: Asegúrese de escuchar el 'click' de anclaje. Para retirar, puede usar un destornillador en las pestañas laterales.",
+    "Paso 7: Por último, fije el marco y la placa frontal decorativa de su color preferido."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo (2 Módulos)",
+      "sku": "N2288 XX",
+      "description": "Base de enchufe Schuko 16A bipolar con Toma de Tierra (Conexión a tornillo)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo (2 Módulos)",
+      "sku": "N2288.6 XX",
+      "description": "Base de enchufe Schuko 16A bipolar con Toma de Tierra (Conexión Automática)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo Innovación (2 Módulos)",
+      "sku": "Base Schuko + Doble USB-C",
+      "description": "Base Schuko con doble cargador USB-C 15W integrado. (Ahorro de espacio, carga hasta 3 productos).",
+      "packaging_units": 1
+    },
+    {
+      "type": "Mecanismo (2 Módulos)",
+      "sku": "N2288.1 XX",
+      "description": "Base de enchufe Schuko con tapa abatible",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿El mecanismo entra por delante o por detrás del marco?",
+      "answer": "A diferencia de otras series tradicionales, todos los mecanismos Zenit (enchufes, interruptores) se instalan empujando desde la parte FRONTAL hacia la pared una vez que el bastidor ya está atornillado. Esto simplifica enormemente organizar los cables."
+    },
+    {
+      "question": "¿Tienen protección para niños?",
+      "answer": "Sí, todas las bases de enchufe de la gama Zenit vienen equipadas de serie con protección infantil en los alveolos."
+    }
+  ],
+  "warnings": [
+    "Peligro Eléctrico: Asegúrese siempre de conectar el conductor verde/amarillo (Tierra) al borne designado para ello, jamás a L o N."
+  ]
+}

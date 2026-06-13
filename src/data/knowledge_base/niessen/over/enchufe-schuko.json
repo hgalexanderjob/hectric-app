@@ -1,0 +1,55 @@
+{
+  "brand": "Niessen",
+  "series": "Over",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Base de Enchufe Schuko de Superficie",
+  "description": "Base de enchufe de la serie Over de Niessen, diseñada para instalaciones de superficie (sin caja de empotrar). Ofrece un perfil de muy reducidas dimensiones. Se integra perfectamente con sistemas de minicanal mediante los precortes laterales de su zócalo.",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "16 A",
+    "terminal_type": "Tornillo mordaza (Tuerca deslizante)",
+    "ip_rating": "IP20",
+    "protection": "Protección contra contactos directos involuntarios (protección infantil)",
+    "certifications": [
+      "Directiva de Baja Tensión 73/23/CEE",
+      "Directiva de Compatibilidad Electromagnética 89/336/CEE",
+      "Marcado CE"
+    ],
+    "features": [
+      "Color base: Blanco RAL 9010",
+      "El producto incluye zócalo, mecanismo y marco embellecedor integrado"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Por su seguridad, asegúrese de desconectar la corriente general.",
+    "Paso 2: Con la ayuda de un cúter o cuchilla, retire los precortes laterales del zócalo para permitir el paso de los cables o el acople directo de la minicanal.",
+    "Paso 3: Atornille el zócalo de la base de enchufe a la pared (se recomienda usar tornillos de cabeza plana).",
+    "Paso 4: Pase los cables de Fase, Neutro y Tierra (verde/amarillo).",
+    "Paso 5: Afloje los tornillos de tuerca deslizante, introduzca los cables en los bornes correspondientes y apriételos fuertemente.",
+    "Paso 6: Inserte el mecanismo en el zócalo fijándolo a presión.",
+    "Paso 7: Encaje el marco embellecedor."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo completo",
+      "sku": "1588 BL",
+      "description": "Base de enchufe bipolar con T.T. lateral Schuko 16 A blanca",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "1599",
+      "description": "Acoplador de unión (para enlazar la base de enchufe con otro mecanismo Over)",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Sirve este enchufe para cajas de pared estándar?",
+      "answer": "No. La serie Over es un mecanismo 'de superficie'. Se atornilla directamente sobre la pared plana y los cables llegan generalmente a través de una canaleta o tubo visto."
+    }
+  ],
+  "warnings": [
+    "El cable de Tierra (verde y amarillo) siempre debe ir conectado al borne de tierra."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "brand": "Niessen",
+  "series": "Sky",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Base de Enchufe Schuko",
+  "description": "Bases de enchufe de la serie Sky Niessen. Destacan por integrar la máxima funcionalidad en el menor volumen (solo 8,5 mm de saliente de pared). Incorporan los fiables mecanismos de lujo Niessen garantizando estética premium y durabilidad máxima.",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "16 A",
+    "terminal_type": "Tornillo (todas las conexiones desde la parte superior) o Automático",
+    "ip_rating": "IP20",
+    "protection": "Protección infantil (alveolos protegidos) montada directamente en el mecanismo",
+    "certifications": [
+      "Ecodiseño (Normas de Gestión Ambiental ISO 14006)"
+    ],
+    "features": [
+      "Tornillería dispuesta desde la parte superior para una visión y comodidad inmejorables",
+      "Entradas de cable situadas en la parte trasera (no lateral) para evitar radios de giro estrechos en la caja",
+      "Nueva base de enchufe que incorpora doble cargador USB A+C (10W compartidos)",
+      "Opción de instalar bases de enchufe con piloto de control LED para conocer la presencia de tensión"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Desconecte la tensión de red en el cuadro eléctrico.",
+    "Paso 2: Atornille el bastidor a la caja universal de empotrar.",
+    "Paso 3: Si usa modelo de tornillo (ref. 8188), afloje los tornillos situados en la parte superior del mecanismo.",
+    "Paso 4: Inserte los cables rectos por la parte trasera: Tierra al borne central, Fase a L y Neutro a N. Apriete los tornillos. (Si es automático, simplemente empuje el cable).",
+    "Paso 5: La protección IP20 se mantiene incluso sin la tapa colocada, protegiendo al instalador.",
+    "Paso 6: Seleccione el marco de la línea estética (Sky, Sky Essence o Skymoon).",
+    "Paso 7: Atornille la tapa frontal de enchufe (ref. 8588) fijando simultáneamente el marco a la pared."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8188",
+      "description": "Base de enchufe bipolar con T.T. lateral Schuko (conexión a tornillo)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.6",
+      "description": "Base de enchufe bipolar con T.T. lateral Schuko (conexión automática)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo Innovación",
+      "sku": "8188.3",
+      "description": "Base de enchufe Schuko con doble cargador USB A+C (10W)",
+      "packaging_units": 1
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.8",
+      "description": "Base de enchufe Schuko con piloto de control (indicador LED de tensión)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Tapa Estética Sky",
+      "sku": "8588 XX",
+      "description": "Tapa para base de enchufe Schuko (XX: BL, PL, NS, DN, TP, CM, AI, OE, CB, CN)",
+      "packaging_units": 20
+    },
+    {
+      "type": "Tapa Estética Skymoon",
+      "sku": "8688 XX",
+      "description": "Tapa mecanizada redonda Skymoon para base Schuko",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿El enchufe entra dentro del marco o sobresale mucho?",
+      "answer": "La serie Sky Niessen está diseñada para que el hueco entre tecla/tapa y marco esté minimizado. Toda la serie resalta solo 8,5 mm de la pared, integrándose con una elegancia máxima."
+    },
+    {
+      "question": "¿Cómo funciona el enchufe con USB integrado?",
+      "answer": "La referencia 8188.3 permite enchufar un aparato y cargar dos dispositivos por USB A+C a la vez (10W máximo). Incorpora un termostato de seguridad que desactiva los USB si detecta más de 30ºC, manteniendo la corriente del enchufe."
+    }
+  ],
+  "warnings": [
+    "Peligro eléctrico: NUNCA conecte la toma de tierra (cable verde/amarillo) a los bornes L o N."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "brand": "Niessen",
+  "series": "Zenit",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptores, Conmutadores y Cruzamientos",
+  "description": "Mecanismos de mando de la serie Zenit de Niessen. La serie modular más completa del mercado. Perfiles ultra finos (desde 3,9 mm en Zenit S), materiales ecosostenibles y diseño vanguardista. Disponen de instalación frontal y ocupan menos espacio en la caja (solo 21 mm de profundidad).",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "16 AX (para toda la gama estándar)",
+    "terminal_type": "Automático (Empujadores rediseñados más grandes y suaves)",
+    "wire_stripping_mm": 14,
+    "ip_rating": "IP20 (Ampliable a IP44 con marco especial o IP40 con caja de superficie)",
+    "led_compatibility": "Hasta 200W en cargas LED (según últimos requisitos IEC)",
+    "certifications": [
+      "Diseño Ecológico certificado según ISO 14006 (Ecosolutions)"
+    ],
+    "features": [
+      "Instalación frontal desde el marco",
+      "Formatos modulares: 1 módulo (estrecho) o 2 módulos (ancho)",
+      "Sistema de conexión automática que ahorra hasta un 40% de tiempo de instalación",
+      "Nueva iluminación LED blanca en lugar de neón verde, consume menos energía y dura 10 años"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Desconectar la corriente principal.",
+    "Paso 2: Pelar el cable unos 14 mm e introducirlo en el terminal automático.",
+    "Paso 3: Para desconectar, presionar el empujador y tirar del cable.",
+    "Paso 4: Fijar el bastidor (metálico con tratamiento anticorrosivo) a la caja universal.",
+    "Paso 5: Insertar el mecanismo desde la parte frontal hasta hacer 'click'. El sistema frontal simplifica la tarea en cajas con muchos cables.",
+    "Paso 6: Si utiliza iluminación, el piloto LED blanco (ref. N2191) se cambia desde la parte frontal sin desmontar cables.",
+    "Paso 7: Colocar el marco embellecedor Zenit S o Zenit Básico."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo (1 Módulo)",
+      "sku": "N2101 XX",
+      "description": "Interruptor monopolar 1 módulo 16 AX. Iluminable.",
+      "packaging_units": 20
+    },
+    {
+      "type": "Mecanismo (1 Módulo)",
+      "sku": "N2102 XX",
+      "description": "Conmutador 1 módulo 16 AX. Iluminable.",
+      "packaging_units": 20
+    },
+    {
+      "type": "Mecanismo (2 Módulos)",
+      "sku": "N2201 XX",
+      "description": "Interruptor monopolar 2 módulos 16 AX. Iluminable.",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo (2 Módulos)",
+      "sku": "N2202 XX",
+      "description": "Conmutador 2 módulos 16 AX. Iluminable.",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "N2101.51 XX",
+      "description": "Interruptor monopolar con piloto de control y visor transparente (1 Módulo)",
+      "packaging_units": 5
+    },
+    {
+      "type": "Accesorio",
+      "sku": "N2191 BB",
+      "description": "Lámpara LED blanca 110-220V para interruptores monopolares (Consumo <0,2mA)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "N2192 BB",
+      "description": "Lámpara LED blanca 110-220V para conmutadores y cruzamientos",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué significa que Zenit sea 'modular'?",
+      "answer": "Significa que la base ocupa un tamaño estandarizado (1 módulo estrecho o 2 módulos anchos) lo que permite poner, por ejemplo, dos interruptores de 1 módulo dentro del mismo espacio (ventana) de un marco tradicional."
+    },
+    {
+      "question": "¿Cómo se ilumina el interruptor?",
+      "answer": "La serie Zenit ha sustituido el neón verde por un LED de color blanco que dura 10 años. Se instala y cambia directamente desde el frontal retirando la tapa del mecanismo."
+    }
+  ],
+  "warnings": [
+    "Precaución eléctrica. Corte la corriente en el cuadro principal.",
+    "Los acabados disponibles son: Blanco (BL), Antracita (AN), Plata (PL), Cava (CV), Negro Mate (NT), Duna (DN) y los nuevos modelos Zenit S."
+  ]
+}

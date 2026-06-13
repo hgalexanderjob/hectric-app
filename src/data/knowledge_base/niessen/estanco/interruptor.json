@@ -1,0 +1,77 @@
+{
+  "brand": "Niessen",
+  "series": "Arco Estanco y Ocean",
+  "mechanism_id": "interruptor",
+  "mechanism_name": "Interruptores y Conmutadores Estancos (IP44 / IP55)",
+  "description": "Mecanismos de mando diseñados para resistir en el exterior, a la intemperie, sótanos, garajes o espacios de gran humedad. La serie Ocean ofrece un acabado azul robusto, mientras que Arco Estanco combina la estética elegante de la serie Arco con protección contra el agua. También incluye cajas IP55/IP40 para hacer estanca la serie Zenit.",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "10 AX (estándar) / 16 A (modelos específicos)",
+    "terminal_type": "Automático (sin tornillos) en la mayoría de modelos",
+    "ip_rating": "IP44 (Ocean y Arco Estanco) / IP55 (Cajas especiales para Zenit)",
+    "certifications": [
+      "UNE 20534 (EN 60529)",
+      "VDE y AENOR"
+    ],
+    "features": [
+      "Arco Estanco utiliza los mismos mecanismos de lujo (81XX) de Niessen que las series de interior",
+      "Doble barrera de evacuación de agua: junta a pared + junta envolvente de mecanismo",
+      "Ocean dispone de portarrótulos iluminables para identificar funciones en la oscuridad",
+      "Las cajas estancas IP55 permiten alojar mecanismos estándar de la serie Zenit"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Corte la corriente general por seguridad antes de manipular en zonas húmedas.",
+    "Paso 2: Presente la caja estanca en la pared. Si la pared tiene desnivel, utilice los tornillos dispuestos en diagonal para fijarla correctamente.",
+    "Paso 3: Perfore los conos multidiámetro o las tapas de goma y pase el tubo o cable.",
+    "Paso 4: Realice las conexiones en el mecanismo base. El amplio espacio interior permite trabajar con cables de hasta 2,5 mm² sin forzarlos.",
+    "Paso 5: Asegúrese de colocar correctamente las juntas de estanqueidad entre la pared, la caja y la tapa frontal.",
+    "Paso 6: En Arco Estanco, presione la tecla (Ref. 8701) sobre la membrana de sellado.",
+    "Paso 7: Compruebe el cierre hermético de toda la envolvente."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo (Arco Estanco)",
+      "sku": "8101",
+      "description": "Interruptor monopolar 10 AX / 250 V~ (Mecanismo interior compartido con series de lujo)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Tecla Estética (Arco Estanco)",
+      "sku": "8701 BA",
+      "description": "Tecla para interruptor, conmutador y cruzamiento Arco Estanco",
+      "packaging_units": 10
+    },
+    {
+      "type": "Conjunto Completo (Ocean)",
+      "sku": "3002",
+      "description": "Interruptor-Conmutador Ocean IP44. Rótulo insertable.",
+      "packaging_units": 10
+    },
+    {
+      "type": "Caja Vacía IP55 (Para Zenit)",
+      "sku": "N3291",
+      "description": "Caja estanca IP55 para instalación en superficie de mecanismos Zenit (2 módulos)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Accesorio",
+      "sku": "6190",
+      "description": "Luz puntual LED para iluminación nocturna en mecanismos estancos",
+      "packaging_units": 10
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Arco Estanco viene completo o se compra por piezas?",
+      "answer": "La serie Arco Estanco requiere adquirir por separado el mecanismo interior (referencias 81XX que son las mismas que se usan en interiores) y las teclas/marcos estancos (referencias 87XX)."
+    },
+    {
+      "question": "¿Ocean se puede unir a otras cajas?",
+      "answer": "Sí, Ocean ofrece la posibilidad de enlazar un número ilimitado de cajas utilizando el acoplamiento Ref. 3099.5."
+    }
+  ],
+  "warnings": [
+    "Precaución en Zonas Húmedas: Para mantener el grado IP44 / IP55 es imprescindible no dañar las membranas de goma al pasar los cables."
+  ]
+}

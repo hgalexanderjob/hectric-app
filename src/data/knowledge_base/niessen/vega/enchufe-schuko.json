@@ -1,0 +1,109 @@
+{
+  "brand": "Niessen",
+  "series": "Vega",
+  "mechanism_id": "enchufe-schuko",
+  "mechanism_name": "Base de Enchufe Schuko y Derivados",
+  "description": "Bases de enchufe de la serie Vega de Niessen. Diseñadas para proporcionar seguridad, facilidad de instalación y una estética depurada. Compatibles con la directiva RoHS y certificaciones AENOR/CB.",
+  "technical_specs": {
+    "voltage": "250 V~",
+    "amperage": "16 A",
+    "ip_rating": "IP20",
+    "terminal_type": "Automático (ref. 8188.6) / Tornillo (ref. 8188 y 8188.5)",
+    "wire_section_mm2": "Hasta 2.5 mm² para conexión estándar en viviendas",
+    "protection": "Protección contra contactos directos involuntarios (alveolos protegidos)",
+    "certifications": [
+      "Certificado AENOR de producto conforme a: UNE 20315-1-1 y UNE 20315-1-2",
+      "Certificado CB de producto conforme a: IEC 60884-1"
+    ],
+    "regulations": [
+      "Directiva europea RoHS 2011/65/EU",
+      "EN IEC 63000"
+    ],
+    "features": [
+      "Modelos con y sin garras disponibles",
+      "La versión automática reduce tiempos de instalación en un 40%",
+      "Disponibles opciones con tapa abatible para entornos húmedos o de suciedad (cocinas)",
+      "Opción de base con doble cargador USB A+C integrado"
+    ]
+  },
+  "installation_steps": [
+    "Paso 1: Por su seguridad, asegúrese de desconectar la corriente general en el cuadro eléctrico.",
+    "Paso 2: Pele los extremos de los cables (Fase, Neutro y Tierra) según la medida que indica el dorso del mecanismo (generalmente unos 12-14 mm).",
+    "Paso 3: Identifique el borne central o marcado con el símbolo de tierra y conecte allí el cable verde/amarillo (T.T.). Este paso es vital para la seguridad.",
+    "Paso 4: Conecte la Fase (cable negro, marrón o gris) al borne L y el Neutro (cable azul) al borne N.",
+    "Paso 5: Si utiliza el modelo 8188.6 (conexión automática), basta con introducir el cable rígido recto o presionar la palanca si es cable flexible.",
+    "Paso 6: Inserte el mecanismo en la caja universal de la pared y fíjelo mediante los tornillos del bastidor o con las garras (según modelo).",
+    "Paso 7: Coloque el marco embellecedor Vega y finalmente atornille la tapa frontal de enchufe (ref. 8888 o 8888.1)."
+  ],
+  "bom_references": [
+    {
+      "type": "Mecanismo",
+      "sku": "8188",
+      "description": "Bipolar con T.T. lateral Schuko sin garras (bornes a tornillo)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.5",
+      "description": "Bipolar con T.T. lateral Schuko con garras",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.6",
+      "description": "Bipolar con T.T. lateral Schuko conexión automática",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8187",
+      "description": "Bipolar con T.T. sistema francés (espiga saliente)",
+      "packaging_units": 10
+    },
+    {
+      "type": "Mecanismo",
+      "sku": "8188.4",
+      "description": "Base de enchufe Schuko combinada con doble cargador USB A+C (Carga compartida 2000mA)",
+      "packaging_units": 1
+    },
+    {
+      "type": "Tapa Estética Vega",
+      "sku": "8888 XX",
+      "description": "Tapa estándar para base de enchufe Schuko (XX indica el código de color)",
+      "packaging_units": 20
+    },
+    {
+      "type": "Tapa Estética Vega",
+      "sku": "8888.1 XX",
+      "description": "Tapa base de enchufe con cubierta abatible (Apertura 90º)",
+      "packaging_units": 5
+    },
+    {
+      "type": "Tapa Estética Vega",
+      "sku": "8887 XX",
+      "description": "Tapa para base de enchufe sistema francés",
+      "packaging_units": 5
+    },
+    {
+      "type": "Tapa Estética Vega",
+      "sku": "8888.4 XX",
+      "description": "Tapa para base de enchufe con cargador USB A+C",
+      "packaging_units": 5
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué ventaja tiene el modelo de conexión automática (8188.6)?",
+      "answer": "El sistema de borne sin tornillos permite insertar el cable directamente, reduciendo el tiempo de instalación del enchufe en un 40% respecto al modelo tradicional a tornillo."
+    },
+    {
+      "question": "¿Puedo instalar una tapa abatible en cualquier enchufe?",
+      "answer": "Sí, la tapa con cubierta abatible (ref. 8888.1) se acopla a cualquiera de los mecanismos base Schuko (8188, 8188.5 o 8188.6) y es ideal para cocinas."
+    }
+  ],
+  "warnings": [
+    "Precaución: El cable de Tierra (verde/amarillo) NUNCA debe conectarse a los bornes L o N.",
+    "No sobrepasar la carga máxima de 16 Amperios (aprox. 3680 W).",
+    "Los colores disponibles para las tapas Vega incluyen Blanco Brillo (BL), Blanco Mate (BT), Negro Mate (NT), Gris Niebla (GN), Duna (DN), Acero (AZ) y Níquel (NZ)."
+  ]
+}
