@@ -56,7 +56,7 @@ Instrucciones de formato:
 
     // Call the language model
     const result = await streamText({
-      model: google('gemini-1.5-flash'), // Using 1.5 as 2.5 might not be available for the current API key
+      model: google('gemini-1.5-flash') as any, // Fix Vercel type mismatch between ai and @ai-sdk/google
       system: systemPrompt,
       messages,
       temperature: 0.2, // Low temperature for factual precision
