@@ -109,7 +109,7 @@ export default function SafetySteps({
                 3. Comprobación de ausencia de tensión
                 <span className="ms-2 bg-teal-50 border border-teal-200 text-teal-700 text-xs font-medium px-1.5 py-0.5 rounded">¡Crítico!</span>
               </h3>
-              <p className="mb-4 max-w-4xl text-slate-600">Nunca te fíes. Antes de manipular los conductores en la caja del mecanismo, utiliza un multímetro o un detector de tensión para confirmar la ausencia total de corriente.</p>
+              <p className="mb-4 max-w-4xl text-slate-600">Antes de manipular los conductores en la caja del mecanismo, es imperativo utilizar un multímetro o detector de tensión homologado para confirmar la ausencia total de corriente en el circuito.</p>
             </li>
             <li className="mb-10 ms-6">
               <span className="absolute flex items-center justify-center w-6 h-6 bg-teal-50 rounded-full -start-3 ring-8 ring-white">
