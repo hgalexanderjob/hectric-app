@@ -13,18 +13,18 @@ export default function TutorialCard({ tutorial }: { tutorial: Tutorial }) {
   return (
     <Link href={`/tutoriales/${tutorial.id}`} className="block group h-full">
       <div className="flex flex-col h-full bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm hover:shadow-xl hover:border-teal-500/30 transition-all duration-300">
-        
+
         {/* Thumbnail Section */}
         <div className="relative aspect-video bg-slate-50 flex items-center justify-center p-6 border-b border-slate-100 overflow-hidden">
-          <img 
-            src={tutorial.thumbnail} 
+          <img
+            src={tutorial.thumbnail}
             alt={tutorial.title}
             className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500 mix-blend-multiply"
             onError={(e) => {
               (e.target as HTMLImageElement).src = "/assets/images/category/mechanisms/niessen.png";
             }}
           />
-          
+
           {/* Play/Read Icon Overlay on Hover */}
           <div className="absolute inset-0 bg-slate-900/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
             <div className="bg-white/90 backdrop-blur-sm text-teal-600 rounded-full p-4 shadow-lg transform translate-y-4 group-hover:translate-y-0 transition-all duration-300">

@@ -50,7 +50,7 @@ export default function TutorialesPage() {
           </div>
           <input
             type="text"
-            className="block w-full pl-11 pr-4 py-3.5 text-lg border border-slate-200 rounded-2xl leading-5 bg-white placeholder-slate-400 focus:outline-hidden focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-all shadow-sm"
+            className="block w-full pl-11 pr-4 py-3.5 text-lg border border-slate-200 rounded-lg leading-5 bg-white placeholder-slate-400 focus:outline-hidden focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-all shadow-sm"
             placeholder="Buscar por título, categoría o palabra clave..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
@@ -63,7 +63,7 @@ export default function TutorialesPage() {
             <button
               key={category}
               onClick={() => setActiveCategory(category)}
-              className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
+              className={`px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                 activeCategory === category
                   ? "bg-teal-600 text-white shadow-md shadow-teal-500/30 ring-2 ring-teal-600 ring-offset-2"
                   : "bg-white text-slate-600 border border-slate-200 hover:bg-slate-50 hover:border-slate-300 hover:text-slate-900"
