@@ -39,34 +39,34 @@ export default function TutorialesPage() {
       </div>
 
       {/* Search and Filters */}
-      <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-10">
+      <div className="flex flex-col items-center gap-6 mb-12">
         
         {/* Search Bar */}
-        <div className="relative w-full md:max-w-md">
-          <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+        <div className="relative w-full max-w-2xl">
+          <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
             <svg className="h-5 w-5 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
             </svg>
           </div>
           <input
             type="text"
-            className="block w-full pl-10 pr-3 py-3 border border-slate-200 rounded-xl leading-5 bg-white placeholder-slate-400 focus:outline-hidden focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-shadow shadow-sm"
-            placeholder="Buscar tutoriales..."
+            className="block w-full pl-11 pr-4 py-3.5 text-lg border border-slate-200 rounded-2xl leading-5 bg-white placeholder-slate-400 focus:outline-hidden focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-all shadow-sm"
+            placeholder="Buscar por título, categoría o palabra clave..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
         </div>
 
         {/* Categories (Pills) */}
-        <div className="flex flex-wrap justify-center md:justify-end gap-2 w-full md:w-auto">
+        <div className="flex flex-wrap justify-center gap-2 max-w-3xl">
           {CATEGORIES.map((category) => (
             <button
               key={category}
               onClick={() => setActiveCategory(category)}
               className={`px-4 py-2 rounded-full text-sm font-medium transition-all duration-200 ${
                 activeCategory === category
-                  ? "bg-teal-600 text-white shadow-md shadow-teal-500/30"
-                  : "bg-white text-slate-600 border border-slate-200 hover:bg-slate-50 hover:border-slate-300"
+                  ? "bg-teal-600 text-white shadow-md shadow-teal-500/30 ring-2 ring-teal-600 ring-offset-2"
+                  : "bg-white text-slate-600 border border-slate-200 hover:bg-slate-50 hover:border-slate-300 hover:text-slate-900"
               }`}
             >
               {category}
