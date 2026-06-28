@@ -1,72 +1,70 @@
-export type TutorialCategory = 'Mecanismos' | 'Cuadros Eléctricos' | 'Domótica' | 'Normativa' | 'Movilidad Eléctrica';
+export type TutorialCategory = "Todas" | "Mecanismos" | "Cuadros Eléctricos" | "Domótica" | "Normativa" | "Herramientas";
 
+// The full data structure used by the UI (populated by the YouTube API)
 export interface Tutorial {
   id: string;
+  youtubeId: string;
   title: string;
-  description: string;
+  channelName: string;
+  channelAvatar: string;
+  views: string;
+  publishedAt: string;
+  duration?: string;
   category: TutorialCategory;
-  thumbnail: string;
-  videoUrl?: string;
-  duration: string;
-  readTime: string;
-  difficulty: 'Baja' | 'Media' | 'Alta';
-  featured?: boolean;
+  description?: string;
+  aiTutorialUrl?: string;
 }
 
-export const tutorialsData: Tutorial[] = [
+// The raw source data we store in our app
+export interface TutorialSource {
+  id: string; // The URL slug (e.g., 'instalar-conmutador')
+  youtubeId: string; // The ID of the YouTube video
+  category: TutorialCategory;
+  isFeatured?: boolean; // Whether to highlight it on the main page
+  aiTutorialUrl?: string; // Link to the interactive AI catalog tutorial
+}
+
+export const tutorialSources: TutorialSource[] = [
   {
-    id: "instalacion-conmutador-niessen",
-    title: "Cómo instalar un Conmutador Niessen",
-    description: "Guía paso a paso para cablear e instalar un conmutador de la serie Niessen Zenit o Alba en un circuito de iluminación.",
+    id: "instalar-conmutador-niessen",
+    youtubeId: "8-M-3-mEaUE",
     category: "Mecanismos",
-    thumbnail: "/hectric/niessen/assets/png/mechanisms/niessen-8102.png",
-    videoUrl: "https://www.youtube.com/embed/8-M-3-mEaUE",
-    duration: "4:30",
-    readTime: "5 min",
-    difficulty: "Baja",
-    featured: true
+    isFeatured: true,
+    aiTutorialUrl: "/catalogo/niessen/alba/instalacion/conmutador?ref=8102"
   },
   {
-    id: "cableado-cuadro-general-vivienda",
-    title: "Cableado de Cuadro General (CGMP)",
-    description: "Distribución correcta de IGA, Diferenciales y PIAs según el REBT para una vivienda con electrificación elevada.",
+    id: "cuadro-electrico-vivienda",
+    youtubeId: "8-M-3-mEaUE", // Placeholder until user adds more
     category: "Cuadros Eléctricos",
-    thumbnail: "/assets/images/category/mechanisms/niessen.png",
-    videoUrl: "https://www.youtube.com/embed/8-M-3-mEaUE",
-    duration: "12:15",
-    readTime: "10 min",
-    difficulty: "Alta",
-    featured: true
   },
   {
-    id: "punto-recarga-vehiculo-electrico",
-    title: "Instalación de Punto de Recarga EV",
-    description: "Requisitos normativos (ITC-BT-52) y pasos técnicos para instalar un cargador Wallbox en un garaje comunitario.",
-    category: "Movilidad Eléctrica",
-    thumbnail: "/assets/images/category/mechanisms/niessen.png",
-    videoUrl: "https://www.youtube.com/embed/8-M-3-mEaUE",
-    duration: "8:45",
-    readTime: "7 min",
-    difficulty: "Media"
-  },
-  {
-    id: "domotica-free-home",
-    title: "Configuración Básica de ABB free@home",
-    description: "Primeros pasos para emparejar actuadores y sensores en el sistema de domótica de ABB / Niessen.",
+    id: "domotica-abb-free-home",
+    youtubeId: "8-M-3-mEaUE",
     category: "Domótica",
-    thumbnail: "/hectric/niessen/assets/png/mechanisms/niessen-8101.png",
-    duration: "15:00",
-    readTime: "12 min",
-    difficulty: "Media"
   },
   {
     id: "normativa-itc-bt-25",
-    title: "Resumen Práctico ITC-BT-25",
-    description: "Guía de referencia rápida sobre el número de circuitos y secciones mínimas obligatorias en viviendas.",
+    youtubeId: "8-M-3-mEaUE",
     category: "Normativa",
-    thumbnail: "/assets/images/category/mechanisms/niessen.png",
-    duration: "0:00",
-    readTime: "4 min",
-    difficulty: "Baja"
+  },
+  {
+    id: "instalar-enchufe-superficie",
+    youtubeId: "8-M-3-mEaUE",
+    category: "Mecanismos",
+  },
+  {
+    id: "pelacables-automatico",
+    youtubeId: "8-M-3-mEaUE",
+    category: "Herramientas",
+  },
+  {
+    id: "protector-sobretensiones",
+    youtubeId: "8-M-3-mEaUE",
+    category: "Cuadros Eléctricos",
+  },
+  {
+    id: "conectar-tiras-led",
+    youtubeId: "8-M-3-mEaUE",
+    category: "Domótica",
   }
 ];

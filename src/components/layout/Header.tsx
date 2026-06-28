@@ -3,6 +3,7 @@ import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useSidebar } from "./SidebarContext";
+import { Icon } from '@iconify/react';
 
 export default function Header() {
   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
@@ -59,9 +60,7 @@ export default function Header() {
         {/* Breadcrumbs / Page Title Area (Left) */}
         <div className="hidden md:flex items-center gap-x-2 text-sm text-slate-500 font-medium whitespace-nowrap">
           <Link href="/" className="flex items-center gap-x-2 hover:text-teal-600 transition">
-            <svg className="size-4" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
-            </svg>
+            <Icon icon="solar:home-smile-line-duotone" className="size-4" />
             <span className={pathSegments.length === 0 ? "text-teal-600 font-semibold" : ""}>Inicio</span>
           </Link>
           
@@ -71,9 +70,7 @@ export default function Header() {
             
             return (
               <div key={href} className="flex items-center gap-x-2">
-                <svg className="size-3 text-slate-300" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
-                </svg>
+                <Icon icon="solar:alt-arrow-right-line-duotone" className="size-3 text-slate-300" />
                 {isLast ? (
                   <span className="text-teal-600 font-semibold">{getBreadcrumbName(segment)}</span>
                 ) : (
@@ -108,9 +105,7 @@ export default function Header() {
                 }`}
                 aria-label="Buscar tutoriales"
               >
-                <svg className="size-5" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-                </svg>
+                <Icon icon="solar:magnifer-line-duotone" className="size-5" />
               </button>
               
               <input
@@ -137,9 +132,7 @@ export default function Header() {
               className="p-2 inline-flex items-center justify-center text-sm font-medium rounded-lg text-slate-500 hover:text-teal-600 hover:bg-slate-100 transition-all focus:outline-hidden"
               title="Tienda Online"
             >
-              <svg className="size-5" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 01-1.12-1.243l1.264-12A1.125 1.125 0 015.513 7.5h12.974c.576 0 1.059.435 1.119 1.007zM8.625 10.5a.375.375 0 11-.75 0 .375.375 0 01.75 0zm7.5 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
-              </svg>
+                <Icon icon="solar:cart-large-2-line-duotone" className="size-5" />
             </a>
 
             {/* Iniciar Sesión / Perfil */}
@@ -149,9 +142,7 @@ export default function Header() {
               data-hs-overlay="#hs-modal-signin"
               title="Iniciar Sesión"
             >
-              <svg className="size-6" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a9 9 0 10-11.963 0m11.963 0A8.966 8.966 0 0112 21a8.966 8.966 0 01-5.982-2.275M15 9.75a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
+                <Icon icon="solar:user-line-duotone" className="size-6" />
             </button>
 
             <div className="hidden sm:inline-block sm:mx-1 lg:hidden">
@@ -165,11 +156,7 @@ export default function Header() {
               className="relative size-9 lg:hidden flex justify-center items-center text-sm font-semibold rounded-lg bg-layer border border-layer-line text-layer-foreground hover:bg-layer-hover focus:outline-hidden focus:bg-layer-focus disabled:opacity-50 disabled:pointer-events-none" 
               aria-label="Toggle navigation" 
             >
-              <svg className="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <rect width="18" height="18" x="3" y="3" rx="2"/>
-                <path d="M15 3v18"/>
-                <path d="m8 9 3 3-3 3"/>
-              </svg>
+                <Icon icon="solar:hamburger-menu-line-duotone" className="shrink-0 size-4" />
               <span className="sr-only">Toggle navigation</span>
             </button>
           </div>

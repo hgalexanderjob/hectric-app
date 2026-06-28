@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { ChatBubbleLeftRightIcon, HandThumbUpIcon, ArrowUturnLeftIcon, PaperAirplaneIcon, LightBulbIcon } from "@heroicons/react/24/outline";
-import { HandThumbUpIcon as HandThumbUpSolid } from "@heroicons/react/24/solid";
+import { Icon } from '@iconify/react';
 
 type Comment = {
   id: string;
@@ -81,7 +80,7 @@ export default function CommunityComments({
       <div className="flex items-start justify-between mb-8">
         <div className="flex items-center gap-x-3">
           <div className="size-10 rounded-xl bg-teal-50 flex items-center justify-center border border-teal-100">
-            <ChatBubbleLeftRightIcon className="size-5 text-teal-600" strokeWidth={2} />
+            <Icon icon="solar:chat-round-line-duotone" className="size-5 text-teal-600" />
           </div>
           <div>
             <h3 className="text-xl font-bold text-slate-800 tracking-tight">
@@ -93,7 +92,7 @@ export default function CommunityComments({
           </div>
         </div>
         <div className="hidden sm:flex items-center gap-x-2 text-sm font-semibold text-teal-700 bg-teal-50 px-3 py-1.5 rounded-lg border border-teal-100/50">
-          <LightBulbIcon className="size-4" strokeWidth={2} />
+          <Icon icon="solar:lightbulb-line-duotone" className="size-4" />
           <span>{comments.length} consejos</span>
         </div>
       </div>
@@ -117,7 +116,7 @@ export default function CommunityComments({
                 disabled={!newComment.trim()}
                 className="flex items-center gap-x-1.5 px-4 py-2 bg-teal-600 hover:bg-teal-500 text-white text-xs font-bold rounded-lg transition-all disabled:opacity-50 disabled:hover:bg-teal-600 focus:outline-hidden focus:ring-4 focus:ring-teal-500/20 shadow-sm disabled:cursor-not-allowed"
               >
-                <PaperAirplaneIcon className="size-3.5" strokeWidth={2} />
+                <Icon icon="solar:plain-line-duotone" className="size-3.5" />
                 <span>Publicar</span>
               </button>
             </div>
@@ -157,14 +156,14 @@ export default function CommunityComments({
                   }`}
                 >
                   {comment.isLikedByMe ? (
-                    <HandThumbUpSolid className="size-3.5" />
+                    <Icon icon="solar:like-line-duotone" className="size-3.5" />
                   ) : (
-                    <HandThumbUpIcon className="size-3.5" strokeWidth={2.5} />
+                    <Icon icon="solar:like-line-duotone" className="size-3.5" />
                   )}
                   Útil {comment.likes > 0 && <span className={comment.isLikedByMe ? "text-teal-700" : "text-slate-400"}>({comment.likes})</span>}
                 </button>
                 <button className="flex items-center gap-x-1.5 px-2.5 py-1 text-xs font-semibold text-slate-500 hover:text-slate-800 hover:bg-slate-100 rounded-lg transition-all">
-                  <ArrowUturnLeftIcon className="size-3.5" strokeWidth={2.5} />
+                  <Icon icon="solar:reply-line-duotone" className="size-3.5" />
                   Responder
                 </button>
               </div>

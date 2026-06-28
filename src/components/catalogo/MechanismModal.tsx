@@ -254,7 +254,7 @@ export default function MechanismModal({ isOpen, onClose, serie }: MechanismModa
                       <div className="flex items-center gap-3 sm:gap-4">
                         <div className="shrink-0 bg-slate-50 rounded-lg p-2 group-hover:bg-white transition-colors border border-transparent group-hover:border-slate-100">
                           <img
-                            src={`/hectric/niessen/assets/png/mechanisms/niessen-${ref.sku}.png`}
+                            src={`/hectric/niessen/assets/png/mechanisms/niessen-${ref.sku.replace(/\s+/g, '-')}.png`}
                             alt={`Mecanismo ${ref.sku}`}
                             className="h-16 w-16 sm:h-20 sm:w-20 object-contain mix-blend-multiply opacity-90 group-hover:opacity-100 transition-opacity drop-shadow-xs"
                             onError={(e) => {

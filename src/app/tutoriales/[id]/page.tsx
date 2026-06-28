@@ -1,109 +1,158 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { tutorialsData } from '@/data/tutoriales';
+import { fetchTutorials } from '@/lib/youtube';
+import ExpandableDescription from '@/components/tutoriales/ExpandableDescription';
+import MaterialesYHerramientas from '@/components/catalogo/MaterialesYHerramientas';
+import { Icon } from '@iconify/react';
 
-export default function TutorialDetailPage({ params }: { params: { id: string } }) {
-  const tutorial = tutorialsData.find(t => t.id === params.id);
+export default async function TutorialDetailPage(props: { params: Promise<{ id: string }> | { id: string } }) {
+  // En Next.js 15+ los params son asíncronos y hay que desenvolverlos
+  const params = await props.params;
+  const decodedId = decodeURIComponent(params.id).toLowerCase();
+  
+  const tutorialsData = await fetchTutorials();
+  const tutorial = tutorialsData.find(t => t.id.toLowerCase() === decodedId);
 
   if (!tutorial) {
+    console.error("Tutorial no encontrado para el ID:", decodedId);
     notFound();
   }
 
-  const isVideo = !!tutorial.videoUrl;
-
   return (
-    <div className="max-w-4xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
+    <div className="max-w-[85rem] px-4 py-8 sm:px-6 lg:px-8 mx-auto animate-in fade-in slide-in-from-bottom-4 duration-500">
       
-      {/* Back button */}
-      <Link href="/tutoriales" className="inline-flex items-center gap-2 text-sm font-medium text-slate-500 hover:text-teal-600 transition-colors mb-8 group">
-        <svg className="w-5 h-5 group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18" /></svg>
-        Volver a Tutoriales
-      </Link>
+      {/* Top back navigation and Disclaimer */}
+      <div className="flex flex-wrap items-center justify-between gap-4 mb-6">
+        <Link href="/tutoriales" className="inline-flex items-center gap-2 text-sm font-medium text-slate-500 hover:text-slate-900 transition-colors group">
+          <Icon icon="solar:alt-arrow-left-line-duotone" className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
+          Volver a todos los vídeos
+        </Link>
 
-      {/* Header */}
-      <div className="mb-8">
-        <div className="flex items-center gap-3 mb-4">
-          <span className="bg-teal-100 text-teal-800 text-sm font-semibold px-3 py-1 rounded-full">
-            {tutorial.category}
-          </span>
-          <span className={`text-xs font-bold px-2 py-1 rounded border uppercase tracking-wider
-            ${tutorial.difficulty === 'Baja' ? 'bg-green-50 text-green-700 border-green-200' : 
-              tutorial.difficulty === 'Media' ? 'bg-amber-50 text-amber-700 border-amber-200' : 
-              'bg-rose-50 text-rose-700 border-rose-200'}`}>
-            {tutorial.difficulty}
-          </span>
-        </div>
-        <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight mb-4">
-          {tutorial.title}
-        </h1>
-        <p className="text-lg text-slate-600">
-          {tutorial.description}
-        </p>
+        <Link 
+          href="/aviso-legal"
+          className="group inline-flex items-center gap-x-2 py-1.5 px-3 rounded-lg text-xs font-medium bg-slate-100/80 hover:bg-slate-200 text-slate-600 hover:text-slate-900 border border-slate-200 transition-colors"
+        >
+          <svg className="shrink-0 size-4 text-amber-500 group-hover:text-amber-600" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+          </svg>
+          <span>Exención de responsabilidad</span>
+        </Link>
       </div>
 
-      {/* Video Player */}
-      {isVideo && (
-        <div className="relative w-full overflow-hidden rounded-2xl shadow-xl mb-12 bg-slate-900 border border-slate-200" style={{ paddingTop: "56.25%" }}>
-          <iframe
-            className="absolute bottom-0 left-0 right-0 top-0 h-full w-full"
-            src={tutorial.videoUrl}
-            allowFullScreen
-            title={tutorial.title}
-          ></iframe>
-        </div>
-      )}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        
+        {/* Main Video Section */}
+        <div className="lg:col-span-2">
+          {/* AI Tutorial Banner */}
+          {tutorial.aiTutorialUrl && (
+            <Link 
+              href={tutorial.aiTutorialUrl}
+              className="flex flex-col sm:flex-row items-center sm:justify-between gap-4 mb-6 p-4 rounded-xl bg-white border border-slate-200 shadow-sm hover:border-teal-500 hover:shadow-md transition-all group"
+            >
+              <div className="flex items-center gap-4">
+                <div className="shrink-0 p-2 bg-slate-50 rounded-lg border border-slate-100">
+                  <img src="/assets/images/icons/hectric.ico" alt="Hectric IA" className="size-8 object-contain drop-shadow-sm" />
+                </div>
+                <div>
+                  <h3 className="font-bold text-slate-900 text-base sm:text-lg leading-tight group-hover:text-teal-600 transition-colors">Guía interactiva</h3>
+                  <p className="text-slate-500 text-xs sm:text-sm mt-0.5">Paso a paso con hectric IA</p>
+                </div>
+              </div>
+              <div className="w-full sm:w-auto px-5 py-2.5 bg-teal-600 text-white text-center font-bold rounded-lg text-sm group-hover:bg-teal-700 transition-colors whitespace-nowrap shadow-sm">
+                Iniciar Tutorial
+              </div>
+            </Link>
+          )}
 
-      {/* Content Body */}
-      <div className="prose prose-slate prose-lg max-w-none prose-headings:font-bold prose-a:text-teal-600 hover:prose-a:text-teal-500">
-        <h2>Guía Paso a Paso</h2>
-        <p>
-          Bienvenido a la guía detallada de Hectric para la instalación y configuración de <strong>{tutorial.title}</strong>. 
-          Asegúrate de haber seguido las 5 Reglas de Oro de seguridad antes de comenzar cualquier manipulación eléctrica.
-        </p>
+          {/* User's YouTube iframe snippet */}
+          <div className="embed-responsive embed-responsive-16by9 relative w-full overflow-hidden rounded-xl shadow-lg bg-black mb-4" style={{ paddingTop: "56.25%" }}>
+            <iframe 
+              className="embed-responsive-item absolute bottom-0 left-0 right-0 top-0 h-full w-full" 
+              src={`https://www.youtube.com/embed/${tutorial.youtubeId}?autoplay=1`} 
+              allowFullScreen
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              title={tutorial.title}
+            ></iframe>
+          </div>
 
-        <h3>Materiales Necesarios</h3>
-        <ul>
-          <li>Mecanismo/Dispositivo a instalar</li>
-          <li>Destornillador plano y de estrella aislados (1000V)</li>
-          <li>Pelacables automático o tijeras de electricista</li>
-          <li>Multímetro o detector de tensión</li>
-        </ul>
+          {/* Video Information */}
+          <div className="mt-4">
+            <h1 className="text-2xl sm:text-3xl font-bold text-slate-900 mb-2">
+              {tutorial.title}
+            </h1>
+            
+            <div className="flex flex-wrap items-center justify-between gap-4 py-4 border-b border-slate-200">
+              
+              {/* Channel Info */}
+              <div className="flex items-center gap-3">
+                <img 
+                  src={tutorial.channelAvatar} 
+                  alt={tutorial.channelName} 
+                  className="w-12 h-12 rounded-full bg-slate-200 object-cover"
+                />
+                <div>
+                  <h3 className="font-bold text-slate-900 text-lg">{tutorial.channelName}</h3>
+                  <p className="text-sm text-slate-500">{tutorial.views}</p>
+                </div>
+              </div>
 
-        <h3>Paso 1: Preparación</h3>
-        <p>
-          Verifica que la sección del cableado sea la correcta según el circuito (ej. 1.5mm² para iluminación, 2.5mm² para enchufes). Pela aproximadamente 11-12mm del extremo de los conductores.
-        </p>
-
-        <h3>Paso 2: Conexionado</h3>
-        <p>
-          Introduce los conductores pelados en los bornes correspondientes. Si el mecanismo utiliza bornes automáticos (sin tornillo), asegúrate de insertar el cable hasta el fondo y verificar que no queda cobre a la vista.
-        </p>
-
-        <div className="bg-amber-50 border-l-4 border-amber-500 p-4 my-6 rounded-r-lg">
-          <div className="flex">
-            <div className="flex-shrink-0">
-              <svg className="h-5 w-5 text-amber-400" viewBox="0 0 20 20" fill="currentColor">
-                <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
-              </svg>
-            </div>
-            <div className="ml-3">
-              <h3 className="text-sm font-medium text-amber-800 mt-0">Precaución Importante</h3>
-              <div className="mt-2 text-sm text-amber-700">
-                <p>Nunca conectes el cable de fase (marrón, negro o gris) en el borne destinado al neutro (azul) o a la tierra (verde-amarillo).</p>
+              {/* Actions (View on YouTube) */}
+              <div className="flex items-center gap-2">
+                <a 
+                  href={`https://www.youtube.com/watch?v=${tutorial.youtubeId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 px-5 py-2.5 bg-red-600 hover:bg-red-700 text-white rounded-full transition-colors font-semibold text-sm shadow-sm"
+                >
+                  <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z" />
+                  </svg>
+                  Ver en YouTube
+                </a>
               </div>
             </div>
+
+            {/* Expandable Description Box */}
+            <ExpandableDescription 
+              views={tutorial.views}
+              publishedAt={tutorial.publishedAt}
+              category={tutorial.category}
+              description={tutorial.description}
+            />
+
+            {/* Simulated Cross-Selling Materials & Tools */}
+            <MaterialesYHerramientas />
           </div>
         </div>
 
-        <h3>Paso 3: Fijación</h3>
-        <p>
-          Acomoda los cables ordenadamente en el fondo de la caja universal. Coloca el mecanismo y aprieta los tornillos de las garras o del bastidor de forma alterna para evitar que quede torcido. Finalmente, coloca el marco y la tecla/tapa embellecedora.
-        </p>
+        {/* Sidebar: Recommended Videos (Placeholder list) */}
+        <div className="lg:col-span-1 hidden lg:block">
+          <h3 className="font-bold text-slate-900 mb-4 text-lg">Siguientes vídeos</h3>
+          <div className="flex flex-col gap-4">
+            {tutorialsData.filter(t => t.id !== tutorial.id).slice(0, 5).map(related => (
+              <Link href={`/tutoriales/${related.id}`} key={related.id} className="flex gap-3 group">
+                <div className="relative w-40 aspect-video rounded-lg overflow-hidden shrink-0 bg-slate-100">
+                  <img 
+                    src={`https://img.youtube.com/vi/${related.youtubeId}/hqdefault.jpg`} 
+                    alt={related.title}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                  />
+                  <div className="absolute bottom-1 right-1 bg-black/80 text-white text-[10px] px-1 py-0.5 rounded">
+                    {related.duration}
+                  </div>
+                </div>
+                <div className="flex flex-col overflow-hidden">
+                  <h4 className="text-sm font-semibold text-slate-900 line-clamp-2 leading-tight group-hover:text-teal-600 transition-colors">
+                    {related.title}
+                  </h4>
+                  <p className="text-xs text-slate-500 mt-1 line-clamp-1">{related.channelName}</p>
+                  <p className="text-xs text-slate-500">{related.views}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
 
-        <h3>Paso 4: Comprobación</h3>
-        <p>
-          Restaura la corriente en el cuadro general y comprueba el correcto funcionamiento del dispositivo instalado.
-        </p>
       </div>
     </div>
   );

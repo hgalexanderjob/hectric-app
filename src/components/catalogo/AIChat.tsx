@@ -5,7 +5,7 @@ import { useChat } from "ai/react";
 import { useSearchParams } from "next/navigation";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { PencilSquareIcon, XMarkIcon, PhotoIcon, PaperAirplaneIcon, StopIcon } from '@heroicons/react/24/outline';
+import { Icon } from '@iconify/react';
 
 export default function AIChat({
   brandId,
@@ -91,8 +91,8 @@ export default function AIChat({
             className="flex items-center gap-x-1.5 px-3 py-1.5 text-xs font-semibold text-slate-500 hover:text-teal-700 bg-slate-100 hover:bg-teal-50 rounded-lg transition-all duration-200"
             title="Nuevo chat"
           >
-            <PencilSquareIcon className="size-4" strokeWidth={2} />
-            <span className="hidden sm:inline">Nuevo</span>
+            <Icon icon="solar:pen-new-square-line-duotone" className="size-4" />
+            <span className="hidden sm:inline">Nuevo chat</span>
           </button>
 
           {/* Close Button Mobile */}
@@ -101,7 +101,7 @@ export default function AIChat({
             onClick={() => setIsOpenMobile(false)}
             className="lg:hidden p-1.5 text-slate-400 hover:text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors"
           >
-            <XMarkIcon className="size-5" strokeWidth={2} />
+            <Icon icon="solar:close-circle-line-duotone" className="size-5" />
           </button>
         </div>
       </div>
@@ -157,7 +157,7 @@ export default function AIChat({
             className="absolute left-3 p-1.5 text-slate-400 hover:text-teal-600 bg-slate-50 hover:bg-teal-50 rounded-lg transition-all duration-200 focus:outline-hidden"
             title="Añadir imagen de la instalación"
           >
-            <PhotoIcon className="size-5" strokeWidth={1.5} />
+            <Icon icon="solar:gallery-line-duotone" className="size-5" />
           </button>
 
           <input
@@ -176,7 +176,7 @@ export default function AIChat({
               className="absolute right-2.5 size-8 bg-slate-800 hover:bg-slate-700 text-white rounded-lg flex items-center justify-center transition-all duration-200 focus:outline-hidden focus:ring-4 focus:ring-slate-500/20 shadow-sm animate-in zoom-in duration-200"
               title="Detener respuesta"
             >
-              <StopIcon className="size-4" strokeWidth={2} />
+              <Icon icon="solar:stop-circle-line-duotone" className="size-4" />
             </button>
           ) : (
             <button
@@ -185,7 +185,7 @@ export default function AIChat({
               className="absolute right-2.5 size-8 bg-teal-600 hover:bg-teal-500 text-white rounded-lg flex items-center justify-center transition-all duration-200 disabled:opacity-40 disabled:hover:bg-teal-600 focus:outline-hidden focus:ring-4 focus:ring-teal-500/20 shadow-sm animate-in zoom-in duration-200"
               title="Enviar"
             >
-              <PaperAirplaneIcon className="size-4" strokeWidth={2} />
+              <Icon icon="solar:plain-line-duotone" className="size-4" />
             </button>
           )}
         </form>

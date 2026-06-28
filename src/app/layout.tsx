@@ -1,10 +1,25 @@
 import type { Metadata } from "next";
+import { Poppins, Lato } from 'next/font/google';
 import "./globals.css";
 import PrelineScript from "@/components/PrelineScript";
 import Header from "@/components/layout/Header";
 import Sidebar from "@/components/layout/Sidebar";
 
 import { SidebarProvider } from "@/components/layout/SidebarContext";
+
+const poppins = Poppins({
+  weight: ['400', '500', '600', '700', '800'],
+  subsets: ['latin'],
+  variable: '--font-poppins',
+  display: 'swap',
+});
+
+const lato = Lato({
+  weight: ['100', '300', '400', '700', '900'],
+  subsets: ['latin'],
+  variable: '--font-lato',
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
   title: "hectric | Plataforma Técnica de Material Eléctrico",
@@ -17,8 +32,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es" className="antialiased h-full">
-      <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 overflow-x-hidden">
+    <html lang="es" className={`${poppins.variable} ${lato.variable} antialiased h-full`}>
+      <body className="min-h-full flex flex-col bg-slate-50 text-slate-900 font-sans overflow-x-clip">
         <SidebarProvider>
           <Header />
           <Sidebar />

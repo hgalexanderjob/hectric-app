@@ -3,6 +3,7 @@ import Link from "next/link";
 import { brandsData } from "@/app/catalogo/data";
 import AIChat from "@/components/catalogo/AIChat";
 import CommunityComments from "@/components/catalogo/CommunityComments";
+import MaterialesYHerramientas from "@/components/catalogo/MaterialesYHerramientas";
 
 export default async function InstalacionPage({
   params,
@@ -108,7 +109,7 @@ export default async function InstalacionPage({
                   </svg>
                 </a>
                 
-                <a href="#" className="group flex items-center justify-between p-4 rounded-xl border border-slate-200 hover:border-teal-300 hover:bg-teal-50 transition-all">
+                <Link href="/normativa" className="group flex items-center justify-between p-4 rounded-xl border border-slate-200 hover:border-teal-300 hover:bg-teal-50 transition-all">
                   <div className="flex items-center gap-x-3">
                     <div className="size-10 bg-indigo-100 text-indigo-600 rounded-lg flex items-center justify-center shrink-0">
                       <svg className="size-6" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
@@ -123,10 +124,12 @@ export default async function InstalacionPage({
                   <svg className="size-5 text-slate-400 group-hover:text-teal-600" fill="none" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
                   </svg>
-                </a>
+                </Link>
               </div>
             </div>
             
+            <MaterialesYHerramientas />
+
             {/* Comunidad y Consejos */}
             <CommunityComments brandName={brandData.name} seriesName={seriesData.name} />
 
